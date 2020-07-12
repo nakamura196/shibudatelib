@@ -1761,7 +1761,7 @@
     </front>
     <body>
      <div type="diary">
-      <div type="diary-entry" xml:id="DKB10001m-1">
+      <div subtype="date=1868-08-02" type="diary-entry" xml:id="DKB10001m-1">
        <head>
         西暦
         <date evidence="year inferenced" when="1868-08-02">
@@ -1873,7 +1873,7 @@
                                 此日暑気強く、午後は殊ニ其熱を覚ゆ、シヤルブール御着後は稍凌能し、Valognesシヤルブール着、前之汽車休息所
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-2">
+      <div subtype="weather=晴&amp;date=1868-08-03" type="diary-entry" xml:id="DKB10001m-2">
        <head>
         <date evidence="year inferenced" when="1868-08-03">
          八月三日
@@ -1949,7 +1949,7 @@
         御夜餐、御夜餐後海辺御遊歩、此夜御案内之カピテイン江被下物送り遣す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-3">
+      <div subtype="weather=曇&amp;date=1868-08-04" type="diary-entry" xml:id="DKB10001m-3">
        <head>
         <date evidence="year inferenced" when="1868-08-04">
          八月四日
@@ -2024,7 +2024,7 @@
         投宿いたす《hotel du dauphin》
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-4">
+      <div subtype="date=1868-08-05" type="diary-entry" xml:id="DKB10001m-4">
        <head>
         <date evidence="year inferenced" when="1868-08-05">
          八月五日
@@ -2067,7 +2067,7 @@
                                 Hotel de province
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-5">
+      <div subtype="weather=雨&amp;date=1868-08-06" type="diary-entry" xml:id="DKB10001m-5">
        <head>
         <date evidence="year inferenced" when="1868-08-06">
          八月六日
@@ -2101,7 +2101,7 @@
         頃、篤太夫巴里江書状差出す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-6">
+      <div subtype="weather=晴,雨&amp;date=1868-08-07" type="diary-entry" xml:id="DKB10001m-6">
        <head>
         <date evidence="year inferenced" when="1868-08-07">
          八月七日
@@ -2125,7 +2125,7 @@
         御帰館、明日当地御出立之積、理装いたす
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-7">
+      <div subtype="weather=晴&amp;date=1868-08-08" type="diary-entry" xml:id="DKB10001m-7">
        <head>
         <date evidence="year inferenced" when="1868-08-08">
          八月八日
@@ -2160,7 +2160,7 @@
                                 loire〓la rade《(la Loire)》
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-8">
+      <div subtype="weather=晴&amp;date=1868-06-21" type="diary-entry" xml:id="DKB10001m-8">
        <head>
         <date evidence="year inferenced" when="1868-06-21">
          六月廿一日
@@ -2188,7 +2188,7 @@
         、市中御遊歩、河涯御散歩ニ而御帰館 　　　○暦日新旧書違イ訂正セズ。以下同断。
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-9">
+      <div subtype="weather=晴&amp;date=1868-08-10" type="diary-entry" xml:id="DKB10001m-9">
        <head>
         <date evidence="year inferenced" when="1868-08-10">
          八月十日
@@ -2226,7 +2226,7 @@
                                 Manufaqueture《(Manufacture)》
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-10">
+      <div subtype="weather=曇&amp;date=1868-08-11" type="diary-entry" xml:id="DKB10001m-10">
        <head>
         <date evidence="year inferenced" when="1868-08-11">
          八月十一日
@@ -2278,7 +2278,7 @@
         マデノ記事ヲ欠ク。
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-11">
+      <div subtype="weather=晴&amp;date=1868-07-07" type="diary-entry" xml:id="DKB10001m-11">
        <head>
         <date evidence="year inferenced" when="1868-07-07">
          七月七日
@@ -2325,7 +2325,7 @@
                                 夜餐後河辺御遊歩
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-12">
+      <div subtype="weather=晴&amp;date=1868-07-08" type="diary-entry" xml:id="DKB10001m-12">
        <head>
         <date evidence="year inferenced" when="1868-07-08">
          七月八日
@@ -2364,7 +2364,7 @@
                                 此地は、仏国西陲の一大港ニ而、馬寨里に継ける地といふ、人口も稠密にして尤繁華なり、市街の周囲は多く小山にて樹山叢茂し、景色も又佳なり、舟船の多く輻湊すること其数枚挙すへかす《（ら脱）》、船入は市中を横截して幾筋も囲繞し、数百艘の大小船連檣其間に林立せり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-13">
+      <div subtype="weather=晴&amp;date=1868-07-09" type="diary-entry" xml:id="DKB10001m-13">
        <head>
         <date evidence="year inferenced" when="1868-07-09">
          七月九日
@@ -2411,7 +2411,7 @@
         マデ記事ヲ欠ク。
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-14">
+      <div subtype="weather=晴&amp;date=1868-08-26" type="diary-entry" xml:id="DKB10001m-14">
        <head>
         <date evidence="year inferenced" when="1868-08-26">
          八月廿六日
@@ -2425,7 +2425,7 @@
         朝御乗切、コロネル御供　○以下記入ナシ。
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-15">
+      <div subtype="weather=晴&amp;date=1868-08-27" type="diary-entry" xml:id="DKB10001m-15">
        <head>
         <date evidence="year inferenced" when="1868-08-27">
          八月廿七日
@@ -2443,7 +2443,7 @@
         御帰館、仏帝帰巴延引ニ付為問合コロネル外国局江御遣し、外国局より早々ビヤリイト帝滞留所江問合、挨拶可有之旨申答候由ニ而罷帰る、栗本貞次郎罷出る
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-16">
+      <div subtype="weather=晴&amp;date=1868-08-28" type="diary-entry" xml:id="DKB10001m-16">
        <head>
         <date evidence="year inferenced" when="1868-08-28">
          八月廿八日
@@ -2484,7 +2484,7 @@
         御帰館
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-17">
+      <div subtype="weather=曇&amp;date=1868-08-29" type="diary-entry" xml:id="DKB10001m-17">
        <head>
         <date evidence="year inferenced" when="1868-08-29">
          八月廿九日
@@ -2525,7 +2525,7 @@
                                 御用御箱之残コロネル被下小遣ヘ被下 ホワシミヱール為御暇乞罷出る
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-18">
+      <div subtype="weather=晴,曇&amp;date=1868-08-30" type="diary-entry" xml:id="DKB10001m-18">
        <head>
         <date evidence="year inferenced" when="1868-08-30">
          八月卅日
@@ -2556,7 +2556,7 @@
                                 ボルトウは仏国南陲の一都会にして、市街頗ル繁華なり、多く萄葡酒《（葡萄）》を産し遍く全欧洲に鬻く、貿易の盛なる馬寨港に勝るといふ、市街に添ふて一の大河あり、ジロンドといふ、河巾いと広く水深しといえとも、数々の鉄橋、石橋を架して通路に便す、石橋の長八百メイトル、巾十六七メイトルもあるへく、尤宏壮を極メタリ、シロント河本地より二十里計下流して海に注くといへしか、此辺より水底いと深く、石橋の下流二里程は港にして、大船巨艦輻港《（湊カ）》せり、人口凡拾七八万程といふ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-19">
+      <div subtype="weather=晴&amp;date=1868-09-01" type="diary-entry" xml:id="DKB10001m-19">
        <head>
         <date evidence="year inferenced" when="1868-09-01">
          九月一日
@@ -2595,7 +2595,7 @@
                                 Saint Etienne
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-20">
+      <div subtype="weather=曇&amp;date=1868-09-02" type="diary-entry" xml:id="DKB10001m-20">
        <head>
         <date evidence="year inferenced" when="1868-09-02">
          九月二日
@@ -2627,7 +2627,7 @@
                                 此夜大雨暴風、沿道の河々水漲りて田畝に溢れたり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-21">
+      <div subtype="weather=雨,曇&amp;date=1868-09-03" type="diary-entry" xml:id="DKB10001m-21">
        <head>
         <date evidence="year inferenced" when="1868-09-03">
          九月三日
@@ -2674,7 +2674,7 @@
                                 此日夕方より雨歇みて空稍晴たれとも、風強く雲多く、風洋は至嶮なるへく一同心安からざりし
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-22">
+      <div subtype="weather=曇&amp;date=1868-09-04" type="diary-entry" xml:id="DKB10001m-22">
        <head>
         <date evidence="year inferenced" when="1868-09-04">
          九月四日
@@ -2739,7 +2739,7 @@
         発釘《（〓）》せり夜中船少しく動揺せしが思ひしよりは安かりし
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-23">
+      <div subtype="weather=曇&amp;date=1868-09-05" type="diary-entry" xml:id="DKB10001m-23">
        <head>
         <date evidence="year inferenced" when="1868-09-05">
          九月五日
@@ -2757,7 +2757,7 @@
         風強く波高く、船頗る動揺せり、午後サルジン、コルシカ島の辺を〓行す、夕方より船両嶼中に入りて波濤稍隠《（穏カ）》かなり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-24">
+      <div subtype="weather=曇&amp;date=1868-09-06" type="diary-entry" xml:id="DKB10001m-24">
        <head>
         <date evidence="year inferenced" when="1868-09-06">
          九月六日
@@ -2787,7 +2787,7 @@
         同所発釘《（〓）》
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-25">
+      <div subtype="weather=晴&amp;date=1868-09-07" type="diary-entry" xml:id="DKB10001m-25">
        <head>
         <date evidence="year inferenced" when="1868-09-07">
          九月七日
@@ -2805,7 +2805,7 @@
         朝より風烈しく船頗る動揺す、尤風順なれば〓行は速なり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-26">
+      <div subtype="weather=晴&amp;date=1868-09-08" type="diary-entry" xml:id="DKB10001m-26">
        <head>
         <date evidence="year inferenced" when="1868-09-08">
          九月八日
@@ -2831,7 +2831,7 @@
                                 　一　五百フランク　　　アンリイ御褒美被下 　一　弐百フランク　　　同人帰巴小遣用被下 　　　○右太罫ノ傍線ハ原本抹消セルヲ示ス。
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-27">
+      <div subtype="weather=晴&amp;date=1868-09-09" type="diary-entry" xml:id="DKB10001m-27">
        <head>
         <date evidence="year inferenced" when="1868-09-09">
          九月九日
@@ -2847,7 +2847,7 @@
                                 　一　四十フランク　　　小遣一同被下 此日重陽なれはとて、夜饌にシヤンパンを一同江被下
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-28">
+      <div subtype="weather=晴&amp;date=1868-09-10" type="diary-entry" xml:id="DKB10001m-28">
        <head>
         <date evidence="year inferenced" when="1868-09-10">
          九月十日
@@ -2923,7 +2923,7 @@
                                 仏国商社ニ而催せる地中海の堀割をスヱイズ御着の汽車中に見る、尤壮大のものなりといふ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-29">
+      <div subtype="weather=晴&amp;date=1868-09-11" type="diary-entry" xml:id="DKB10001m-29">
        <head>
         <date evidence="year inferenced" when="1868-09-11">
          九月十一日
@@ -2959,7 +2959,7 @@
                                 此夜天気朗晴、月色清明、頗る良夜を覚ゆ、歴山より気候漸暑く、此に至りては殆御邦暑中の候のことし、夜に入ては風故稍凌よし
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-30">
+      <div subtype="weather=晴&amp;date=1868-09-12" type="diary-entry" xml:id="DKB10001m-30">
        <head>
         <date evidence="year inferenced" when="1868-09-12">
          九月十二日
@@ -2979,7 +2979,7 @@
         蘇士出帆、風少しく波静かニ〓行平穏なり、終日〓行穏かなり、両沿に亜弗利加、亜剌比亜の諸山を見る、夜に入ては月明かに風冷しく、頗る良夜を覚ゆ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-31">
+      <div subtype="weather=晴&amp;date=1868-09-13" type="diary-entry" xml:id="DKB10001m-31">
        <head>
         <date evidence="year inferenced" when="1868-09-13">
          九月十三日
@@ -3008,7 +3008,7 @@
                                 夜同舟の客中の荷人数多乗組しか舞躍相催し、舟中頗る雑沓なり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-32">
+      <div subtype="weather=晴&amp;date=1868-09-14" type="diary-entry" xml:id="DKB10001m-32">
        <head>
         <date evidence="year inferenced" when="1868-09-14">
          九月十四日
@@ -3022,7 +3022,7 @@
         朝より風逆にして舟行不便なり、されとも風故稍凌よし、午後より風少し強く船漸動揺す、夕方より風静に〓行穏かなり、夜に入て淡靄ニ而月色濛朧たり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-33">
+      <div subtype="weather=晴&amp;date=1868-09-15" type="diary-entry" xml:id="DKB10001m-33">
        <head>
         <date evidence="year inferenced" when="1868-09-15">
          九月十五日
@@ -3041,7 +3041,7 @@
                                 速二百三十六里、亜丁迄五百九十五里 風静にして〓行随意なり、逆風なれとも烈しからされバ、夜に入ては涼気其快を覚ゆ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-34">
+      <div subtype="weather=晴&amp;date=1868-09-16" type="diary-entry" xml:id="DKB10001m-34">
        <head>
         <date evidence="year inferenced" when="1868-09-16">
          九月十六日
@@ -3055,7 +3055,7 @@
         朝より逆風強く、天気朗晴なれとも波濤頗る高し、時々両沿に島嶼を見る、午後より風ますます強く、船追々揺動せり、夜に入ては殊に甚し
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-35">
+      <div subtype="weather=晴&amp;date=1868-09-17" type="diary-entry" xml:id="DKB10001m-35">
        <head>
         <date evidence="year inferenced" when="1868-09-17">
          九月十七日
@@ -3074,7 +3074,7 @@
                                 夜に入ては清風涼しく、甲板上の夕涼尤清絶なり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-36">
+      <div subtype="weather=晴&amp;date=1868-09-18" type="diary-entry" xml:id="DKB10001m-36">
        <head>
         <date evidence="year inferenced" when="1868-09-18">
          九月十八日
@@ -3102,7 +3102,7 @@
         亜丁発釘《（〓）》、順風ならされとも〓行は随意ニ而、夜気殊ニ清味を覚ゆ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-37">
+      <div subtype="weather=晴&amp;date=1868-09-19" type="diary-entry" xml:id="DKB10001m-37">
        <head>
         <date evidence="year inferenced" when="1868-09-19">
          九月十九日
@@ -3116,7 +3116,7 @@
         朝より東北の風吹て〓行甚随意ならす、尤風故暑気は稍凌よし、時々船の左に亜剌比亜地方を見る、夜に入て風殊に涼し
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-38">
+      <div subtype="weather=晴&amp;date=1868-09-20" type="diary-entry" xml:id="DKB10001m-38">
        <head>
         <date evidence="year inferenced" when="1868-09-20">
          九月廿日
@@ -3130,7 +3130,7 @@
         風故船揺動す、されとも暑気は稍凌よし
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-39">
+      <div subtype="weather=雨&amp;date=1868-09-21" type="diary-entry" xml:id="DKB10001m-39">
        <head>
         <date evidence="year inferenced" when="1868-09-21">
          九月廿一日
@@ -3144,7 +3144,7 @@
         朝より船頗る動揺し〓行甚悪し、終日船室に潜居す、時々驟雨来る、夜に入ても雨甚し
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-40">
+      <div subtype="weather=雨&amp;date=1868-09-22" type="diary-entry" xml:id="DKB10001m-40">
        <head>
         <date evidence="year inferenced" when="1868-09-22">
          九月廿二日
@@ -3158,7 +3158,7 @@
         風少しく静かに船の動揺は稍穏かなり、されとも時々驟雨来りて殆欝陶を究む、風雨故暑気は稍減したり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-41">
+      <div subtype="date=1868-09-23" type="diary-entry" xml:id="DKB10001m-41">
        <head>
         <date evidence="year inferenced" when="1868-09-23">
          九月廿三日
@@ -3172,7 +3172,7 @@
         風猶歇まされとも追々〓行穏かなり、風故絶而苦熱の想なし、順風ならされとも片帆間切ニ〓行稍速なり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-42">
+      <div subtype="date=1868-09-24" type="diary-entry" xml:id="DKB10001m-42">
        <head>
         <date evidence="year inferenced" when="1868-09-24">
          九月廿四日
@@ -3190,7 +3190,7 @@
         頃、船将、士官共ニ而御案内申上船中御一覧、器械所、食糧貯所、酒置所、冷水製し所、諸布巾類備置所、金銀及重貴之品囲置所、其他船中部屋々々不残御案内申上る、篤太夫御供いたす
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-43">
+      <div subtype="weather=晴&amp;date=1868-09-25" type="diary-entry" xml:id="DKB10001m-43">
        <head>
         <date evidence="year inferenced" when="1868-09-25">
          九月廿五日
@@ -3204,7 +3204,7 @@
         波濤平穏にして〓行随意なり、微風暑気を消して更に炎熱の苦なし、舟中頗る安然の想をなす
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-44">
+      <div subtype="weather=晴&amp;date=1868-09-26" type="diary-entry" xml:id="DKB10001m-44">
        <head>
         <date evidence="year inferenced" when="1868-09-26">
          九月廿六日
@@ -3218,7 +3218,7 @@
         波濤静にして〓行随意なり、舟中苦熱の厭なし
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-45">
+      <div subtype="weather=晴&amp;date=1868-09-27" type="diary-entry" xml:id="DKB10001m-45">
        <head>
         <date evidence="year inferenced" when="1868-09-27">
          九月廿七日
@@ -3232,7 +3232,7 @@
         舟中無事、記事なし
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-46">
+      <div subtype="weather=晴&amp;date=1868-09-28" type="diary-entry" xml:id="DKB10001m-46">
        <head>
         <date evidence="year inferenced" when="1868-09-28">
          九月廿八日
@@ -3258,7 +3258,7 @@
         夜餐之後海岸御遊歩、壱人の村童を雇へ道案内せしめ、砲台、灯明台、其外諸方御遊歩、御帰宿、夜客舎御一泊、一同御供ニ而投宿いたす、馬港江出帆後《（をカ）》、初而陸地の安眠を得、一同快然の想をなす
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-47">
+      <div subtype="weather=晴&amp;date=1868-09-29" type="diary-entry" xml:id="DKB10001m-47">
        <head>
         <date evidence="year inferenced" when="1868-09-29">
          九月廿九日
@@ -3285,7 +3285,7 @@
         発釘《（〓カ）》、此辺は巌高く暗礁多く波濤頗る嶮なり、御出帆の節、船の暗礁に触れしとていと大なる響声ありしか、幸に破損所なし、風順に〓行随意なり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-48">
+      <div subtype="weather=雨,曇&amp;date=1868-10-01" type="diary-entry" xml:id="DKB10001m-48">
        <head>
         <date evidence="year inferenced" when="1868-10-01">
          十月一日
@@ -3304,7 +3304,7 @@
         朝より雲多く雨を醸し、風強くして舟動揺せり、時々驟雨来る、夜に入て天気稍晴て〓行も追々穏かなり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-49">
+      <div subtype="weather=曇&amp;date=1868-10-02" type="diary-entry" xml:id="DKB10001m-49">
        <head>
         <date evidence="year inferenced" when="1868-10-02">
          十月二日
@@ -3318,7 +3318,7 @@
         朝より朗晴、風順にして〓行随意なり、終日風涼にて炎熱の苦なし夜、荷蘭婦人の舞躍会相催し、甲板上頗る繁雑せり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-50">
+      <div subtype="weather=晴&amp;date=1868-10-03" type="diary-entry" xml:id="DKB10001m-50">
        <head>
         <date evidence="year inferenced" when="1868-10-03">
          十月三日
@@ -3336,7 +3336,7 @@
         頃帆前船の〓行するを見る、夜に入て船シユマトラの海峡に入り、〓行別而穏かなり、舟中の旅婦人舞躍会を催ふせり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-51">
+      <div subtype="weather=晴&amp;date=1868-10-04" type="diary-entry" xml:id="DKB10001m-51">
        <head>
         <date evidence="year inferenced" when="1868-10-04">
          十月四日
@@ -3350,7 +3350,7 @@
         昨夜よりシユマトラの海峡を〓行すれは〓行殊に穏かなり、されど風少しく殆炎熱を覚ゆ、午後よりシユマトラ海岸のに《（衍）》添ふて〓行す、時々海辺の樹木及人家抔を認む、夕方より風南に替り、炎熱の苦を忘る、夜に入り電雨来《（雷）》る
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-52">
+      <div subtype="weather=晴,曇&amp;date=1868-10-05" type="diary-entry" xml:id="DKB10001m-52">
        <head>
         <date evidence="year inferenced" when="1868-10-05">
          十月五日
@@ -3364,7 +3364,7 @@
         風少しく炎蒸殊に甚し、終日シユマトラ、マアレヱーの海峡を〓行、時々両沿の島嶼及帆前船又は猟船抔の〓行するを見る、〓行随意にして船動揺の憂なし
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-53">
+      <div subtype="weather=晴,曇&amp;date=1868-10-06" type="diary-entry" xml:id="DKB10001m-53">
        <head>
         <date evidence="year inferenced" when="1868-10-06">
          十月六日
@@ -3400,7 +3400,7 @@
         初旬の観蛍火、従来未曾有ともいふへく、宇内の宏確《（廓カ）》なる感すへく驚くへし
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-54">
+      <div subtype="weather=晴&amp;date=1868-10-07" type="diary-entry" xml:id="DKB10001m-54">
        <head>
         <date evidence="year inferenced" when="1868-10-07">
          十月七日
@@ -3427,7 +3427,7 @@
         同港発釘《（〓）》、風静に波なく海水如席、〓行尤随意なり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-55">
+      <div subtype="weather=晴&amp;date=1868-10-08" type="diary-entry" xml:id="DKB10001m-55">
        <head>
         <date evidence="year inferenced" when="1868-10-08">
          十月八日
@@ -3441,7 +3441,7 @@
         微風細波〓行極て随意なり、絶而動揺の憂なし、されとも風少なけれは炎熱つよく午後は尤甚し、夜に入ては稍凌よし、時々小島を見る、帆前船の〓行するを見る
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-56">
+      <div subtype="weather=晴&amp;date=1868-10-09" type="diary-entry" xml:id="DKB10001m-56">
        <head>
         <date evidence="year inferenced" when="1868-10-09">
          十月九日
@@ -3458,7 +3458,7 @@
                                 Francais il y a un mois. 你有此碑記法帖乎 墨帖有無如何
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-57">
+      <div subtype="weather=晴,雨&amp;date=1868-10-10" type="diary-entry" xml:id="DKB10001m-57">
        <head>
         <date evidence="year inferenced" when="1868-10-10">
          十月十日
@@ -3485,7 +3485,7 @@
                                 此日御上陸之頃雷雨はけしかりしか、車中なれば一同衣服を湿せしものもなし、甘雨塵沙を潤して野景一層清味を添ふを覚ゆ、終日風ありて炎蒸の苦を忘る、夜に入ては殊に清涼なり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-58">
+      <div subtype="weather=雨,曇&amp;date=1868-10-11" type="diary-entry" xml:id="DKB10001m-58">
        <head>
         <date evidence="year inferenced" when="1868-10-11">
          十月十一日
@@ -3512,7 +3512,7 @@
                                 此日終日風強く、海に出し後は、波濤頗る高し、時々驟雨来る、夜に入て風弥強く、〓行尤悪し
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-59">
+      <div subtype="weather=晴&amp;date=1868-10-12" type="diary-entry" xml:id="DKB10001m-59">
        <head>
         <date evidence="year inferenced" when="1868-10-12">
          十月十二日
@@ -3530,7 +3530,7 @@
         末頃の候を覚ゆ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-60">
+      <div subtype="date=1868-10-13" type="diary-entry" xml:id="DKB10001m-60">
        <head>
         <date evidence="year inferenced" when="1868-10-13">
          十月十三日
@@ -3544,7 +3544,7 @@
         昨日風益強《（マヽ）》く船の揺動尤甚し、終日〓行ニ而僅に九十里を進みしと覚しか、張出しにせさりし
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-61">
+      <div subtype="weather=雨&amp;date=1868-10-14" type="diary-entry" xml:id="DKB10001m-61">
        <head>
         <date evidence="year inferenced" when="1868-10-14">
          十月十四日
@@ -3558,7 +3558,7 @@
         勁風昨日と同しく〓行尤悪し、終日にて僅五十里を〓行せしといふ、昨日より安南地方を離る
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-62">
+      <div subtype="weather=晴&amp;date=1868-10-15" type="diary-entry" xml:id="DKB10001m-62">
        <head>
         <date evidence="year inferenced" when="1868-10-15">
          十月十五日
@@ -3576,7 +3576,7 @@
         頃の候を覚ゆ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-63">
+      <div subtype="weather=曇&amp;date=1868-10-16" type="diary-entry" xml:id="DKB10001m-63">
        <head>
         <date evidence="year inferenced" when="1868-10-16">
          十月十六日
@@ -3590,7 +3590,7 @@
         昨夜より風間切なれば帆前もて舟行速なり、船の揺動も稍静にして一同聊安然の想をなせり、風涼しくて更に苦熱の覚なし
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-64">
+      <div subtype="weather=雨,曇&amp;date=1868-10-17" type="diary-entry" xml:id="DKB10001m-64">
        <head>
         <date evidence="year inferenced" when="1868-10-17">
          十月十七日
@@ -3613,7 +3613,7 @@
         頃一同御供ニ而御上陸、ホテル・デ・ヨウロツプといふ客舎御投宿、此夜は揺動の憂もなければ一同安眠せり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-65">
+      <div subtype="weather=雨,曇&amp;date=1868-10-18" type="diary-entry" xml:id="DKB10001m-65">
        <head>
         <date evidence="year inferenced" when="1868-10-18">
          十月十八日
@@ -3645,7 +3645,7 @@
                                 半時間程島嶼間を〓行せしが、島多く夜中〓行危ふしとて、殊に天気あしく風強しとて〓行をとゝめ、此夜は島中に碇舶《（泊）》す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-66">
+      <div subtype="weather=晴&amp;date=1868-10-19" type="diary-entry" xml:id="DKB10001m-66">
        <head>
         <date evidence="year inferenced" when="1868-10-19">
          十月十九日
@@ -3672,7 +3672,7 @@
         頃《（衍文）》より器械破損せしとて〓行をとゞむ、頻りに修繕に取掛り、終夜洋中に碇舶せり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-67">
+      <div subtype="weather=晴&amp;date=1868-10-20" type="diary-entry" xml:id="DKB10001m-67">
        <head>
         <date evidence="year inferenced" when="1868-10-20">
          十月廿日
@@ -3690,7 +3690,7 @@
         頃より帆前ニ而香港に引返す、帰航なれば順風なれとも器械なけれは〓行遅緩なり、夕方より風少し強く舟行稍速なり、夕方此辺の島中に浮める漁船を雇へ、香港飛船会所江此変事を報告す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-68">
+      <div subtype="weather=晴&amp;date=1868-10-21" type="diary-entry" xml:id="DKB10001m-68">
        <head>
         <date evidence="year inferenced" when="1868-10-21">
          十月廿一日
@@ -3712,7 +3712,7 @@
         香港着、直ニ同地の飛脚会社之者罷越《（船脱カ）》、夫是談話夜餐後アンヘラトリース船へ御乗移、此終夜荷物抔積替るとて雑沓絶ゐさりし《（えカ）》
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-69">
+      <div subtype="weather=晴&amp;date=1868-10-22" type="diary-entry" xml:id="DKB10001m-69">
        <head>
         <date evidence="year inferenced" when="1868-10-22">
          十月廿二日
@@ -3742,7 +3742,7 @@
         本地出帆、海峡を出て地方に添ふて〓行す、風少しく天気よく船行平穏なり、夜濤路の左右に漁船数多を見る、本船の過る時は松火を点してこれを避く
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-70">
+      <div subtype="weather=晴&amp;date=1868-10-23" type="diary-entry" xml:id="DKB10001m-70">
        <head>
         <date evidence="year inferenced" when="1868-10-23">
          十月廿三日
@@ -3761,7 +3761,7 @@
         頃海上の突立せる巨巌の辺を〓行す、終日風はけしく波濤高し、されとも船大なれは揺動は至而穏かなり、夜に入て風追々静かに〓行随意なり、船の左右に数多の漁船を見る
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-71">
+      <div subtype="weather=晴&amp;date=1868-10-24" type="diary-entry" xml:id="DKB10001m-71">
        <head>
         <date evidence="year inferenced" when="1868-10-24">
          十月廿四日
@@ -3776,7 +3776,7 @@
                                 終日風穏に船の動揺なし
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-72">
+      <div subtype="weather=晴&amp;date=1868-10-25" type="diary-entry" xml:id="DKB10001m-72">
        <head>
         <date evidence="year inferenced" when="1868-10-25">
          十月廿五日
@@ -3790,7 +3790,7 @@
         美晴、昨日と同し、追々寒気増して甲板上の風寒の苦を覚ゆ、地軸の★★B1017★北移せしこと可識なり、終日船の左右に数多の漁舟を見る、夜の洋中に屹立せし巨巌に際して〓行す、波平にして舟行席の如し
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-73">
+      <div subtype="weather=晴&amp;date=1868-10-26" type="diary-entry" xml:id="DKB10001m-73">
        <head>
         <date evidence="year inferenced" when="1868-10-26">
          十月廿六日
@@ -3808,7 +3808,7 @@
         河上にて暫時〓行を歇む蓋河底浅くして〓行随意ならさる為なりといふ、本船はいと巨大にして殊に初而の〓行なれは、濤路詳かならさる故、船、洲上に輾りて〓行なしかたしとて様々に手を尽し、荷物其外附添たる小舟抔を下し、碇舶なから船の洲中に糊附せさる用意をなし、船中甚繁冗なり、午後に至りて船を傾け殆顚覆するはかりになし置ぬ、夕方より潮満れともいまた〓行出来す、此日は空く同所に碇舶して日を過したり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-74">
+      <div subtype="weather=曇&amp;date=1868-10-27" type="diary-entry" xml:id="DKB10001m-74">
        <head>
         <date evidence="year inferenced" when="1868-10-27">
          十月廿七日
@@ -3843,7 +3843,7 @@
         過上海御着、ホテル・デ・コロニイといふ仏国客舎御投宿
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-75a">
+      <div subtype="weather=曇&amp;date=1868-10-28" type="diary-entry" xml:id="DKB10001m-75a">
        <head>
         <date evidence="year inferenced" when="1868-10-28">
          十月廿八日
@@ -4040,7 +4040,7 @@
         頃御帰宿、御帰後直ニ圭次郎罷出る、御逢有之、御国爾後之模様同人見聞之処逐一申上る、夜、索漏生人スネルといふ者罷出る、御逢有之、会藩一柳幾馬外壱人罷出る、篤太夫面会、京師変動以来之状態承及ふ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-77">
+      <div subtype="weather=曇&amp;date=1868-10-29" type="diary-entry" xml:id="DKB10001m-77">
        <head>
         <date evidence="year inferenced" when="1868-10-29">
          十月廿九日
@@ -4074,7 +4074,7 @@
         頃河口に至る、海色初而清めり、終日〓行随意にして船の動揺なし
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-78">
+      <div subtype="weather=晴&amp;date=1868-10-30" type="diary-entry" xml:id="DKB10001m-78">
        <head>
         <date evidence="year inferenced" when="1868-10-30">
          十月卅日
@@ -4096,7 +4096,7 @@
         機関修繕せしとて〓行す、夕方より風強く舟行快よし、夜風烈しく雨来る
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-79">
+      <div subtype="weather=晴&amp;date=1868-01-01" type="diary-entry" xml:id="DKB10001m-79">
        <head>
         十
         <date evidence="year inferenced" when="1868-01-01">
@@ -4116,7 +4116,7 @@
                                 三ツ部屋、弐ツ中檀、弐ツ下檀入、〆七ツ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10001m-80">
+      <div subtype="weather=曇&amp;date=1868-11-02" type="diary-entry" xml:id="DKB10001m-80">
        <head>
         <date evidence="year inferenced" when="1868-11-02">
          十一月二日
@@ -4271,7 +4271,7 @@
     </front>
     <body>
      <div type="diary">
-      <div type="diary-entry" xml:id="DKB10002m-1">
+      <div subtype="weather=晴&amp;date=1868-11-03" type="diary-entry" xml:id="DKB10002m-1">
        <head>
         <date evidence="year inferenced" when="1868-11-03">
          十一月三日
@@ -4303,7 +4303,7 @@
                                 篤太夫、夜、川路太郎旅宿を横浜ニ而訊問、田辺太一罷来り、終夜旧情を話す 此夜儀左衛門は小舟もて神奈川へ罷越す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-2">
+      <div subtype="weather=晴&amp;date=1868-11-04" type="diary-entry" xml:id="DKB10002m-2">
        <head>
         <date evidence="year inferenced" when="1868-11-04">
          十一月四日
@@ -4332,7 +4332,7 @@
         頃荷物請取済ニ而、水戸表より罷出し上乗の者に荷宰領為致、★★B1028★篤太夫外両人は横賓上陸いたす、夜、愛蔵、篤太夫、田辺太一宿所へ罷越す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-3">
+      <div subtype="weather=晴&amp;date=1868-11-05" type="diary-entry" xml:id="DKB10002m-3">
        <head>
         <date evidence="year inferenced" when="1868-11-05">
          十一月五日
@@ -4346,7 +4346,7 @@
         篤太夫は愛蔵同行ニ而仏国公使館に罷越し、治部助面会、公子仏館御越なき挨拶いたし、夫より御買上物及御為替金手筈いたす、儀左衛門は御残荷物四箇を飛船会社ニ而請取、積出し取計、夕方横浜出立、三人同行、竹兜子ニ而金川着、鈴木といふ客舎一泊
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-4">
+      <div subtype="weather=曇&amp;date=1868-11-06" type="diary-entry" xml:id="DKB10002m-4">
        <head>
         <date evidence="year inferenced" when="1868-11-06">
          十一月六日
@@ -4365,7 +4365,7 @@
                                 此夜駿君東京府御越ニ而、同所御旅館あれハ、三人共御旅館罷出、其筋之者面会、公子御着の手続逐一申立る
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-5">
+      <div subtype="weather=晴&amp;date=1868-11-07" type="diary-entry" xml:id="DKB10002m-5">
        <head>
         <date evidence="year inferenced" when="1868-11-07">
          十一月七日
@@ -4384,7 +4384,7 @@
                                 着後両人とも拝謁被　仰付、品々申上る
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-6">
+      <div subtype="weather=晴&amp;date=1868-11-08" type="diary-entry" xml:id="DKB10002m-6">
        <head>
         <date evidence="year inferenced" when="1868-11-08">
          十一月八日
@@ -4398,7 +4398,7 @@
         朝拝謁、御供にて後楽園といふ邸中の御庭拝見被仰付、午後儀左衛門罷出、三人同道ニ而田安御殿罷出、森川荘次郎面会、夫より明神下ニ而西吉十郎を訪ひ面会、同行ニ而麦斗といふ楼ニ而一酌いたす、夜る時雨来る
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-7">
+      <div subtype="weather=曇&amp;date=1868-11-09" type="diary-entry" xml:id="DKB10002m-7">
        <head>
         <date evidence="year inferenced" when="1868-11-09">
          十一月九日
@@ -4413,7 +4413,7 @@
                                 夕方独行ニ而梅田慎之助を尋、留守中ニ付婦人面会、折節郷里の従妹罷越居りしとて、呼寄、面会、旧話徹夜
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-8">
+      <div subtype="weather=晴&amp;date=1868-11-10" type="diary-entry" xml:id="DKB10002m-8">
        <head>
         <date evidence="year inferenced" when="1868-11-10">
          十一月十日
@@ -4428,7 +4428,7 @@
                                 杉浦愛蔵来る、滞留中宿所之儀取計之旨申聞る
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-9">
+      <div subtype="weather=晴&amp;date=1868-11-11" type="diary-entry" xml:id="DKB10002m-9">
        <head>
         <date evidence="year inferenced" when="1868-11-11">
          十一月十一日
@@ -4443,7 +4443,7 @@
                                 山高石見、小出涌之助江書状遣す、夜、深川出火
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-10">
+      <div subtype="weather=晴&amp;date=1868-11-12" type="diary-entry" xml:id="DKB10002m-10">
        <head>
         <date evidence="year inferenced" when="1868-11-12">
          十一月十二日
@@ -4463,7 +4463,7 @@
                                 吉田次郎来、仏行書状之儀申談★★B1029★
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-11">
+      <div subtype="weather=雨,曇&amp;date=1868-11-13" type="diary-entry" xml:id="DKB10002m-11">
        <head>
         <date evidence="year inferenced" when="1868-11-13">
          十一月十三日
@@ -4489,7 +4489,7 @@
                                 御印章之儀森田荘次郎へ申立、御留守居方引合およふ、明朝受取可相渡旨申聞る、夫より駿河台川勝近江尋問面会、帰路柳原梅田を訪ふ、夫より明神下に罷越、杉浦面会、同所一泊いたす
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-12">
+      <div subtype="weather=雨&amp;date=1868-11-14" type="diary-entry" xml:id="DKB10002m-12">
        <head>
         <date evidence="year inferenced" when="1868-11-14">
          十一月十四日
@@ -4518,7 +4518,7 @@
         頃、川崎着、藤やといふ駅舎に投宿夜に入て雨歇て風稍静なりしか、寒威は更に烈し
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-13">
+      <div subtype="weather=晴&amp;date=1868-11-15" type="diary-entry" xml:id="DKB10002m-13">
        <head>
         <date evidence="year inferenced" when="1868-11-15">
          十一月十五日
@@ -4545,7 +4545,7 @@
         頃幸二や帰宿
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-14">
+      <div subtype="weather=曇&amp;date=1868-11-16" type="diary-entry" xml:id="DKB10002m-14">
        <head>
         <date evidence="year inferenced" when="1868-11-16">
          十一月十六日
@@ -4563,7 +4563,7 @@
         頃田辺太一、伊東玄伯を《（とカ）》同しく佐野やといふ茶肆ニ而一酌、其夜丸屋方一宿いたす
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-15">
+      <div subtype="weather=曇&amp;date=1868-11-17" type="diary-entry" xml:id="DKB10002m-15">
        <head>
         <date evidence="year inferenced" when="1868-11-17">
          十一月十七日
@@ -4578,7 +4578,7 @@
                                 ★★B1030★
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-16">
+      <div subtype="weather=晴&amp;date=1868-11-18" type="diary-entry" xml:id="DKB10002m-16">
        <head>
         <date evidence="year inferenced" when="1868-11-18">
          十一月十八日
@@ -4603,7 +4603,7 @@
         頃幸二屋方へ帰宿
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-17">
+      <div subtype="weather=晴&amp;date=1868-11-19" type="diary-entry" xml:id="DKB10002m-17">
        <head>
         <date evidence="year inferenced" when="1868-11-19">
          十一月十九日
@@ -4631,7 +4631,7 @@
                                 　銀丁二丁目西山幸助
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-18">
+      <div subtype="weather=晴&amp;date=1868-11-20" type="diary-entry" xml:id="DKB10002m-18">
        <head>
         <date evidence="year inferenced" when="1868-11-20">
          十一月廿日
@@ -4658,7 +4658,7 @@
                                 昨日公子水戸御相続之儀相済し旨被仰聞、夜に入て水邸を罷り、明神下帰宿、杉浦面会
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-19">
+      <div subtype="weather=曇&amp;date=1868-11-21" type="diary-entry" xml:id="DKB10002m-19">
        <head>
         <date evidence="year inferenced" when="1868-11-21">
          十一月廿一日
@@ -4673,7 +4673,7 @@
                                 夕、梅田に来り、藤十郎面会、帰省之手続申談す、此夜、梅田一泊 須永虎之助来会
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-20">
+      <div subtype="weather=曇&amp;date=1868-11-22" type="diary-entry" xml:id="DKB10002m-20">
        <head>
         <date evidence="year inferenced" when="1868-11-22">
          十一月廿二日
@@ -4687,7 +4687,7 @@
         朝、梅田ニ而文作に逢ふ、須永も来会す、旧情を話す、杉浦来る、同行ニ而田安御殿に至る、織田和泉及中老列座ニ而、仏国之御用向手続申立る、森川面会、夕方礫邸に至り、御買上の鉄砲来着せしニ付改方いたし、帰宿、帰路川勝近江方尋問
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-21">
+      <div subtype="weather=晴&amp;date=1868-12-23" type="diary-entry" xml:id="DKB10002m-21">
        <head>
         <date evidence="year inferenced" when="1868-12-23">
          十二月廿三日
@@ -4706,7 +4706,7 @@
                                 藤十郎明日郷里出立ニ付、荷物相托す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-22">
+      <div subtype="weather=晴&amp;date=1868-11-24" type="diary-entry" xml:id="DKB10002m-22">
        <head>
         <date evidence="year inferenced" when="1868-11-24">
          十一月廿四日
@@ -4725,7 +4725,7 @@
                                 此夜大人僑居ニ而一宿いたす
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-23">
+      <div subtype="weather=晴&amp;date=1868-11-25" type="diary-entry" xml:id="DKB10002m-23">
        <head>
         <date evidence="year inferenced" when="1868-11-25">
          十一月廿五日
@@ -4752,7 +4752,7 @@
         頃帰宿
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-24">
+      <div subtype="weather=晴&amp;date=1868-11-26" type="diary-entry" xml:id="DKB10002m-24">
        <head>
         <date evidence="year inferenced" when="1868-11-26">
          十一月廿六日
@@ -4770,7 +4770,7 @@
         頃伊東玄伯来大人の持病胗察《（診）》、夕方、愛蔵、玄伯と伴ひ礫邸に至る、山高八郎も来会、御前ニ而御酒肴被下、御手酌ニ而種々御饗応有之、退散之節一同へ被下物有之、此夜明神下辺出火なれは酔を勉て帰宿、焼失は中御徒士町ニ而漸安堵の想をなす
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-25">
+      <div subtype="weather=晴&amp;date=1868-11-27" type="diary-entry" xml:id="DKB10002m-25">
        <head>
         <date evidence="year inferenced" when="1868-11-27">
          十一月廿七日
@@ -4784,7 +4784,7 @@
         郷里大人帰郷いたす、午飯後、田安御殿に出る、織田和泉面会、民部公子御内用之儀申談す、森川、栗本等不罷出ニ付、明日篤太夫、栗本方可罷越儀申談、夫より礫邸に至り、昨日之謝詞申述、荷物仕訳残取調いたす、夜に入明神下帰宿
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-26">
+      <div subtype="weather=晴&amp;date=1868-11-28" type="diary-entry" xml:id="DKB10002m-26">
        <head>
         <date evidence="year inferenced" when="1868-11-28">
          十一月廿八日
@@ -4800,7 +4800,7 @@
                                 夜半過より深川に至り一泊
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-27">
+      <div subtype="weather=曇&amp;date=1868-11-29" type="diary-entry" xml:id="DKB10002m-27">
        <head>
         <date evidence="year inferenced" when="1868-11-29">
          十一月廿九日
@@ -4816,7 +4816,7 @@
                                 外ニ荷物等調分いたし、包立之上明神下迄差立方取計、夫より田安御殿★★B1032★江出、郷省願済《（帰カ）》、諸事引合相済、夕方より麦斗ニ而小酌、田辺、塩田其外両人来
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-28">
+      <div subtype="weather=晴&amp;date=1868-11-30" type="diary-entry" xml:id="DKB10002m-28">
        <head>
         <date evidence="year inferenced" when="1868-11-30">
          十一月卅日
@@ -4830,7 +4830,7 @@
         朝、帰省支度相整、四ツ半頃明神下発、此日大村昇之助といふ者召抱但須永於莵之助より被相頼ニ付召連る、外ニ幸蔵といふをも相随ひ、夕方浦和宿に至一泊
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-29">
+      <div subtype="weather=晴&amp;date=1868-01-13" type="diary-entry" xml:id="DKB10002m-29">
        <head>
         <date evidence="year inferenced, day" when="1868-12">
          十二月
@@ -4848,7 +4848,7 @@
         過に至深谷着、福岡春清為出迎並木迄罷出る、隣家の少年両三輩途中迄罷出、夜五ツ過帰着、渾家及近隣諸親一同相集り、別離以来之情緒を話す、鶏鳴に至退散
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-30">
+      <div subtype="weather=晴&amp;date=1868-12-02" type="diary-entry" xml:id="DKB10002m-30">
        <head>
         <date evidence="year inferenced" when="1868-12-02">
          十二月二日
@@ -4862,7 +4862,7 @@
         朝より諸方知音之者相集り、頗る雑沓を究む、此夜、尾高新五郎来、幸五郎其他同行いたす
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-31">
+      <div subtype="weather=晴&amp;date=1868-12-03" type="diary-entry" xml:id="DKB10002m-31">
        <head>
         <date evidence="year inferenced" when="1868-12-03">
          十二月三日
@@ -4880,7 +4880,7 @@
         頃帰宿
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-32">
+      <div subtype="weather=晴&amp;date=1868-12-04" type="diary-entry" xml:id="DKB10002m-32">
        <head>
         <date evidence="year inferenced" when="1868-12-04">
          十二月四日
@@ -4894,7 +4894,7 @@
         朝より諸近隣之者つとゐ来り、仏国に在りし事共相話す、昨日より本家之折合行届ければ、夜、常太郎同行ニ而罷越す、宗助父子及婦人共不残面会旧を話す、此夜、新地九一郎、福田治助兄弟来る、洋州の事共論話いたす
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-33">
+      <div subtype="weather=晴&amp;date=1868-12-05" type="diary-entry" xml:id="DKB10002m-33">
        <head>
         <date evidence="year inferenced" when="1868-12-05">
          十二月五日
@@ -4913,7 +4913,7 @@
         午時より近隣を訪ひ、新田吉岡に至る、伊勢崎細野の妻来りしより帰宿面会、夫より新宅市五郎の宅を訪ひ、前の内ニ而午飯、隠居に至り老叔父に逢ひ旧を話す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-34">
+      <div subtype="weather=晴&amp;date=1868-12-06" type="diary-entry" xml:id="DKB10002m-34">
        <head>
         <date evidence="year inferenced" when="1868-12-06">
          十二月六日
@@ -4932,7 +4932,7 @@
         朝、支度を整、土産物諸親へ送り遣す、午後、成一郎の宅へ相越す、老叔父留守中ニ付直ニ帰宿、夜、新屋敷叔父、藍香及近隣旧交の者数人来る、明日出立之積ニ付、別を惜み再会を約す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-35">
+      <div subtype="weather=曇&amp;date=1868-12-07" type="diary-entry" xml:id="DKB10002m-35">
        <head>
         <date evidence="year inferenced" when="1868-12-07">
          十二月七日
@@ -4955,7 +4955,7 @@
         頃発途、渾家一同相送り、諸親之者数多相伴ふて深谷宿に至り、春清方ニ而休息、夫より駕に乗り、送り来りし者共に別る、陌頭ニ而新野村善助面会、熊ケ谷宿ニ而午飯、夕、鴻巣宿着、本陣へ投宿、此夜風邪気ニ而頗る煩悶せり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-36">
+      <div subtype="weather=曇&amp;date=1868-12-08" type="diary-entry" xml:id="DKB10002m-36">
        <head>
         <date evidence="year inferenced" when="1868-12-08">
          十二月八日
@@ -4974,7 +4974,7 @@
         払暁鴻巣発途、蕨宿ニ而昼食、夕方明神下着、杉浦在宿なりしかは別後之事共申談、夜、阿人小花、阿米来る、福地源一郎来
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-37">
+      <div subtype="weather=晴&amp;date=1868-11-09" type="diary-entry" xml:id="DKB10002m-37">
        <head>
         <date evidence="year inferenced" when="1868-11-09">
          十一月九日
@@ -5005,7 +5005,7 @@
         過帰宿
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-38">
+      <div subtype="weather=晴&amp;date=1868-11-10" type="diary-entry" xml:id="DKB10002m-38">
        <head>
         <date evidence="year inferenced" when="1868-11-10">
          十一月十日
@@ -5036,7 +5036,7 @@
         頃筋違着、直ニ明神下に帰宿
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-39">
+      <div subtype="weather=晴&amp;date=1868-11-11" type="diary-entry" xml:id="DKB10002m-39">
        <head>
         <date evidence="year inferenced" when="1868-11-11">
          十一月十一日
@@ -5063,7 +5063,7 @@
         過帰宿、写真之儀ニ付河津へ書翰遣す朝、五来要助来る、其忰駿州之儀申立ニ付承届遣す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-40">
+      <div subtype="weather=晴&amp;date=1868-11-12" type="diary-entry" xml:id="DKB10002m-40">
        <head>
         <date evidence="year inferenced" when="1868-11-12">
          十一月十二日
@@ -5087,7 +5087,7 @@
                                 午後右代人御殿に出る、明日尚又罷出る旨申立引取る、此日請取りし御手当金持参、夕方より和泉丁大黒屋店罷越し、金子引渡し預書請取商法之儀品々申談す、帰路梅田へ立寄、郷里へ書翰差出す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-41">
+      <div subtype="weather=雨&amp;date=1868-12-13" type="diary-entry" xml:id="DKB10002m-41">
        <head>
         <date evidence="year inferenced" when="1868-12-13">
          十二月十三日
@@ -5107,7 +5107,7 @@
                                 午後、加太八兵衛代人来、預金書面認直し、金三百八十両余之口上納いたす、大黒屋へ書翰遣し、預ケ金之儀申遣す、三ツ井へ呉服代之儀申遣す、大黒屋代人来る、預金四百両相渡ス、三ツ井呉服代杉浦方ニ而請取、夕方川勝へ川路太郎英生徒御手当差引残相渡す、夜、梅田方へ罷越、おひさ来る、浄瑠璃を聴聞す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-42">
+      <div subtype="weather=雨&amp;date=1868-12-14" type="diary-entry" xml:id="DKB10002m-42">
        <head>
         <date evidence="year inferenced" when="1868-12-14">
          十二月十四日
@@ -5134,7 +5134,7 @@
         頃品川着、肥後兵隊其外等ニ而人足多く入用故継立出来せすとて、問屋場役人詰合なけれは本陣を頼み人足雇方取計、夕方川崎宿着ニ而一泊
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-43">
+      <div subtype="weather=晴&amp;date=1868-12-15" type="diary-entry" xml:id="DKB10002m-43">
        <head>
         <date evidence="year inferenced" when="1868-12-15">
          十二月十五日
@@ -5161,7 +5161,7 @@
         頃神奈川着、泉治といふ客舎ニ而田辺面会、卯三郎も時計之儀ニ付来りしが、昨日横浜に行しとて逢わす、田辺に托し伝語申遣す、外ニ書翰抔相托し、後会を約し、夫より程ケ谷ニ而昼食、夕方藤沢着、一泊
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-44">
+      <div subtype="weather=晴&amp;date=1868-12-16" type="diary-entry" xml:id="DKB10002m-44">
        <head>
         <date evidence="year inferenced" when="1868-12-16">
          十二月十六日
@@ -5188,7 +5188,7 @@
         頃小田原宿着、一泊
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-45">
+      <div subtype="date=1868-12-17" type="diary-entry" xml:id="DKB10002m-45">
        <head>
         <date evidence="year inferenced" when="1868-12-17">
          十二月十七日
@@ -5216,7 +5216,7 @@
                                 　横打御門外　浅野旅宿 　　元御武具奉行屋敷
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-46">
+      <div subtype="weather=曇&amp;date=1868-12-18" type="diary-entry" xml:id="DKB10002m-46">
        <head>
         <date evidence="year inferenced" when="1868-12-18">
          十二月十八日
@@ -5231,7 +5231,7 @@
         頃三島駅発、沼津に至りとらやといふ旗亭休息、塚本寛輔といふ陸軍士官の寓居訊問、沼津の景況を問ふ、夫より原宿ニ而午飯、夕方蒲原着、投宿
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-47">
+      <div subtype="weather=晴&amp;date=1868-12-19" type="diary-entry" xml:id="DKB10002m-47">
        <head>
         <date evidence="year inferenced" when="1868-12-19">
          十二月十九日
@@ -5260,7 +5260,7 @@
                                 神田小柳町梅田慎之助方ニ而川村刀金物請取持参之事
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-48">
+      <div subtype="weather=雨,曇&amp;date=1868-12-20" type="diary-entry" xml:id="DKB10002m-48">
        <head>
         <date evidence="year inferenced" when="1868-12-20">
          十二月廿日
@@ -5279,7 +5279,7 @@
         頃帰宿
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-49">
+      <div subtype="weather=雨&amp;date=1868-12-21" type="diary-entry" xml:id="DKB10002m-49">
        <head>
         <date evidence="year inferenced" when="1868-12-21">
          十二月廿一日
@@ -5325,7 +5325,7 @@
       </div>
      </div>
      <div type="diary">
-      <div type="diary-entry" xml:id="DKB10002m-51">
+      <div subtype="weather=晴&amp;date=1868-12-22" type="diary-entry" xml:id="DKB10002m-51">
        <head>
         <date evidence="year inferenced" when="1868-12-22">
          十二月廿二日
@@ -5341,7 +5341,7 @@
                                 昨日、杉浦愛蔵横打町へ引越す 夕方、愛蔵同行大黒屋勇助を訪ふ、大坪七兵衛面会、帰路愛蔵と同しく天麩羅店ニ而小酌、夜に入帰宿
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-52">
+      <div subtype="weather=曇&amp;date=1868-12-23" type="diary-entry" xml:id="DKB10002m-52">
        <head>
         <date evidence="year inferenced" when="1868-12-23">
          十二月廿三日
@@ -5361,7 +5361,7 @@
                                 今日夕七ツ時、御用有之出殿可致旨御目付より被申達
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-53">
+      <div subtype="weather=雨,曇&amp;date=1868-12-24" type="diary-entry" xml:id="DKB10002m-53">
        <head>
         <date evidence="year inferenced" when="1868-12-24">
          十二月廿四日
@@ -5377,7 +5377,7 @@
                                 公子へ復命之儀、頭衆より相伺候処、不及其儀旨被申渡、退出後、礼服無之ニ付廻勤難出来旨局及御目付へ申越す、夜、山高八郎来、此夜隣家ニ而喧嘩有之
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-54">
+      <div subtype="weather=雨&amp;date=1868-12-25" type="diary-entry" xml:id="DKB10002m-54">
        <head>
         <date evidence="year inferenced" when="1868-12-25">
          十二月廿五日
@@ -5424,7 +5424,7 @@
         </date>
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-55">
+      <div subtype="weather=曇&amp;date=1868-12-26" type="diary-entry" xml:id="DKB10002m-55">
        <head>
         <date evidence="year inferenced" when="1868-12-26">
          十二月廿六日
@@ -5435,7 +5435,7 @@
         朝、勇助へ書状遣し、同人早速出張有之度申遣す、勇助来る、商法之儀行れ申間敷旨申聞、昨日よりの手続荒増申聞る、午頃大坪七兵衛来、頭衆より是非出勤之儀申来る、尤一翁殿御逢被成度儀ニ付、同人以使罷越旨をも申聞る、午後同行ニ而出殿、一翁殿面会、水戸復命之儀御不都合之儀数々仔細等被申渡、明日御請可申上儀相答、平岡四郎へも品品申談引取、夕方山高を訪へ、時雨庵ニ而杉浦面会、夜に入大坪を訪へ、平岡庄七を訪へ、帰宿
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-56">
+      <div subtype="weather=晴&amp;date=1868-12-27" type="diary-entry" xml:id="DKB10002m-56">
        <head>
         <date evidence="year inferenced" when="1868-12-27">
          十二月廿七日
@@ -5446,7 +5446,7 @@
         朝出殿、復命之儀并御役之儀難有御請申上候旨四郎を以一翁殿へ申立る、公子へ呈書外一封御用便達し方之儀相托す、梅沢面会、御請申上候旨申談、午後廻勤いた《（す脱カ）》、夕方呉服町五丁目川村屋方へ転宿いたす
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-57">
+      <div subtype="weather=晴&amp;date=1868-12-28" type="diary-entry" xml:id="DKB10002m-57">
        <head>
         <date evidence="year inferenced" when="1868-12-28">
          十二月廿八日
@@ -5457,7 +5457,7 @@
         朝より御用書類取調いたす、夕方杉浦来る、平岡庄七来る、謹慎被命居候武沢市五郎来
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-58">
+      <div subtype="weather=晴&amp;date=1868-12-29" type="diary-entry" xml:id="DKB10002m-58">
        <head>
         <date evidence="year inferenced" when="1868-12-29">
          十二月廿九日
@@ -5468,7 +5468,7 @@
         朝出殿、謹慎之者儀ニ付大目付へ見込申談す、平岡四郎へも同断申談す、退出後御用書類取調いたす、郷里、東京諸方へ書状認る、勇助へ相渡す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-59">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10002m-59">
        <head>
         <date when="1869">
          明治二年
@@ -5483,7 +5483,7 @@
         朝、商法会所之儀見込書取調、夕、平岡四郎を訪ふ、夫より杉浦面会、四ツ過帰宿
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-60">
+      <div subtype="weather=雨" type="diary-entry" xml:id="DKB10002m-60">
        <head>
         （
         <date evidence="year inferenced, day" when="1868-01">
@@ -5499,7 +5499,7 @@
         朝、川村三介来、謹慎之者儀ニ付内談有之、右ニ付土肥八十三郎呼寄心得方相尋、内談之上川村方へ遣す、杉浦来る、見込調方ニ付申談す祐助来る、夕方当地町人荻原四郎兵衛《（萩原四郎兵衛）》へ可罷出旨申遣す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-61">
+      <div subtype="weather=雨" type="diary-entry" xml:id="DKB10002m-61">
        <head>
         （
         <date evidence="year inferenced, day" when="1868-01">
@@ -5515,7 +5515,7 @@
         朝、荻原四郎兵衛来、商法之儀開墾之儀等申談す、杉浦愛蔵来、商社之儀ニ付見込取調いたす、仏行御入用調いたす
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-62">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10002m-62">
        <head>
         （
         <date evidence="year inferenced, day" when="1868-01">
@@ -5531,7 +5531,7 @@
         朝より仏行御入用調いたす、午後平岡四郎へ罷越す、商法見込書差出す同人御殿へ出ニ付御殿ニ而面会いたす、帰宿後、仏行調物いたす
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-63">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10002m-63">
        <head>
         （
         <date evidence="year inferenced, day" when="1868-01">
@@ -5547,7 +5547,7 @@
         北村彦四郎来、商法筋申談す、仏行調物いたす
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-64">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10002m-64">
        <head>
         （
         <date evidence="year inferenced, day" when="1868-01">
@@ -5578,7 +5578,7 @@
         ★★B1037★ 仏行調物いたす、平岡四郎を訪ふ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-66">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10002m-66">
        <head>
         （
         <date evidence="year inferenced, day" when="1868-01">
@@ -5598,7 +5598,7 @@
         可罷出旨御目付より達書来ル、鵜飼弥一来、夕方平岡四郎を訪ふ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-67">
+      <div subtype="weather=雨" type="diary-entry" xml:id="DKB10002m-67">
        <head>
         （
         <date evidence="year inferenced, day" when="1868-01">
@@ -5614,7 +5614,7 @@
         仏行調物いたす、杉浦愛蔵来
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-68">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10002m-68">
        <head>
         （
         <date evidence="year inferenced, day" when="1868-01">
@@ -5630,7 +5630,7 @@
         朝、出殿、仏行調物出来之分持参いたす、午後商法見込書之儀ニ付中老衆御列座ニ而御談有之、見込之儀逐一申立る、夕方帰宿調物いたす
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-69">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10002m-69">
        <head>
         （
         <date evidence="year inferenced, day" when="1868-01">
@@ -5647,7 +5647,7 @@
                                 朝、仏行調物いた《（す脱）》、御入用残調御品残高とも明細書調済之上出殿ニ而差出す、中老衆御覧之積ニ付御用部屋へ差出す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-70">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10002m-70">
        <head>
         （
         <date evidence="year inferenced, day" when="1868-01">
@@ -5663,7 +5663,7 @@
         調物残之分御殿へ差出す、商法筋御取開之儀、中老衆へ御催促申上る近々御沙汰可有之旨被申聞
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-71">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10002m-71">
        <head>
         （
         <date evidence="year inferenced, day" when="1868-01">
@@ -5679,7 +5679,7 @@
         今日御殿へ罷出候様頭より被申達四ツ頃出殿、昼後御用召御役御免御勘定頭支配中老手附被命商法之儀申上る、御入用調之儀相済候旨申上る浜中義左衛門来、北村彦次郎来
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-72">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10002m-72">
        <head>
         （
         <date evidence="year inferenced, day" when="1868-01">
@@ -5695,7 +5695,7 @@
         朝出殿、商法会所掛之者申立る、此日商法会所御用金の取扱被命、御勘定矢村小四郎、坂本柳左衛門、御用取扱被命、午後紺屋町役所見廻り、間取其外申談す、夕方、三田伊右衛門、杉浦愛蔵来、御用達呼出之儀申達す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-73">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10002m-73">
        <head>
         （
         <date evidence="year inferenced, day" when="1868-01">
@@ -5711,7 +5711,7 @@
         朝、紺屋町御役所罷出、御破損等見分、御役所間取調分いたす、明日御用達一同呼出之積申達す、間取其外御普請等取調之儀出殿之上四郎へ申立る、夕方宮の崎一翁殿旅宿へ罷越し今日之手続申立る、御役所へ引移リ、御役屋敷之積を以住居可致旨被申渡、夜、浜中義左衛門来
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-74">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10002m-74">
        <head>
         （
         <date evidence="year inferenced, day" when="1868-01">
@@ -5727,7 +5727,7 @@
         朝、紺屋町御役所へ罷越す、御用筋取扱ふ御用達之者九人へ会所御用達申渡、商法会所御取開之旨申聞る、小遣之者手代之者御普請之事等申談し、一同見込書可差出儀等申談し、夫より出殿取扱候御用向一翁殿へ申立る、開成所雑物請取方いたし御勘定所へ預置、御勘定下役之者両人会所御用掛申渡
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-75">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10002m-75">
        <head>
         （
         <date evidence="year inferenced, day" when="1868-01">
@@ -5744,7 +5744,7 @@
                                 中将様久能御参詣有之、終日在宅ニ而会所規則并諸向へ御達御案取調いたす、夕、林研海、杉浦愛蔵御勘定下役両人来、前田重五郎へ大塚市左衛門義再応申談遣す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10002m-76">
+      <div subtype="weather=晴,雨" type="diary-entry" xml:id="DKB10002m-76">
        <head>
         （
         <date evidence="year inferenced, day" when="1868-01">
@@ -6087,7 +6087,7 @@
       </div>
      </div>
      <div type="diary">
-      <div type="diary-entry" xml:id="DKB10003m-2">
+      <div subtype="date=1869-10-21" type="diary-entry" xml:id="DKB10003m-2">
        <head>
         <date when="1869">
          明治二年
@@ -6160,7 +6160,7 @@
         此日ハ政事庁休日なれハ、早朝より仮役所出勤、此程より申談残せし諸事并御用書類等逐一取調、以後取扱之者共江相渡し、御備金并緊要之御用書類券文之類迄相改引渡す、御用書類之内篤の所持すへき分ハ写取らせ、請取、清水附御用達ヘハ後事丁寧ニ書付上にて申示し引取らす、夕方清水出役之黒柳徳三郎来、諸事申談し書類認方抔申付遣す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-6">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10003m-6">
        <head>
         （
         <date evidence="year inferenced, day" when="1869-10">
@@ -6180,7 +6180,7 @@
         より送別之来人、或ハ暇乞とて罷越せし方もあれと、私事なれハ略之
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-7">
+      <div subtype="weather=晴,雨" type="diary-entry" xml:id="DKB10003m-7">
        <head>
         （
         <date evidence="year inferenced, day" when="1869-10">
@@ -6212,7 +6212,7 @@
         朝江尻宿を発し初而諸事を脱却し、頗る籠外初飛之鳥、江中不繫之船の想をなす、蒲原駅に至り午餐、同所詰乙骨彦十郎といふ者、前田重吾縁者なるか旅店に来り面話す、八ツ頃平垣松永整を訪ふ、武沢市五郎岩淵迄罷越し同行にて開墾せし土地一覧す、夕方吉原駅に至り投宿
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-9">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10003m-9">
        <head>
         （
         <date evidence="year inferenced, day" when="1869-10">
@@ -6230,7 +6230,7 @@
                                 沼津にて午餐、同所に知人の多けれど、心せかるゝまゝ其儘打過ぬ、薄暮三島駅に至り投宿
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-10">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10003m-10">
        <head>
         （
         <date evidence="year inferenced, day" when="1869-10">
@@ -6250,7 +6250,7 @@
                                 こハ古の事なりしか、物換り星移るに随ひ、地勢人情ともに変更あることゝ見へて、去辰春之事共、可否順逆ハ暫くさし置、〓跙齷齪尤醜態《（趦趄）》を極めしとか、路人の説もいと多かりけり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-11">
+      <div subtype="weather=曇" type="diary-entry" xml:id="DKB10003m-11">
        <head>
         十
         <date evidence="year inferenced, day" when="1869-01">
@@ -6262,7 +6262,7 @@
         昧爽駅を発し、南湖といふ所にて午餐、此日ハ兼程程ケ谷駅迄旅行之積なれハ、足の乗物を早めしか、冬日の端なく夜に入ぬ、五ツ頃程ケ谷に至り投宿
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-12">
+      <div subtype="weather=晴,曇&amp;date=1869-11-02" type="diary-entry" xml:id="DKB10003m-12">
        <head>
         <date evidence="year inferenced" when="1869-11-02">
          十一月二日
@@ -6282,7 +6282,7 @@
                                 意多歳月促とハ杜甫之警句、矢張、詩人忠厚之意念より出たるなるへし、篤の去歳仏国にて国家之傾覆を聞知し、日夜痛心難堪、翅なくとも万里之波濤を飛越し、実況見まほしくと帰期を数ふるの間、いとも年月の長きを覚へしか、豈料帰国後駿地に移り、瑣々たる事務に係るも慰心の端にもやと、稍其事に処せしか、又纏身の鬱累を為し、さり★★B1047★とて、紛更之月日を送りしに今又其境を去れは、いかにも昨日の想を為すハ、我意念より出て久促長短をなすことなれとも、自ら吾を疑ふへき程なり、彼岳陽楼の記中ニ喜憂己より出て物に就て感を為すの理を説しも、ますます古哲の予を欺かさるを知る
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-13">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10003m-13">
        <head>
         （十
         <date evidence="year inferenced, day" when="1869-01">
@@ -6300,7 +6300,7 @@
                                 朝、平岡庄七、川村三介来、景情を問、暫時談話にて帰る 静岡より書状来る、封中郷書あり
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-14">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10003m-14">
        <head>
         （十
         <date evidence="year inferenced, day" when="1869-01">
@@ -6317,7 +6317,7 @@
                                 加藤成来泊、深更迄談話す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-15">
+      <div subtype="weather=晴&amp;date=1869-11-05" type="diary-entry" xml:id="DKB10003m-15">
        <head>
         <date evidence="year inferenced" when="1869-11-05">
          十一月五日
@@ -6338,7 +6338,7 @@
                                 受任相済之後民部省江罷出、大輔大隈従四位其他少丞并同列之者其外小吏に至迄面会、勤向夫々承合す、夕方帰宿、此夜阿部祐三租税少佑や前田重吾監督小佑や来る、夜、橋本長七郎来、静岡常平倉掛附より書状来る、留守宅之書状も封入す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-16">
+      <div subtype="weather=晴,曇" type="diary-entry" xml:id="DKB10003m-16">
        <head>
         （十
         <date evidence="year inferenced, day" when="1869-01">
@@ -6356,7 +6356,7 @@
                                 大坪七兵衛来、午餐後平岡庄七へ罷越す、堀鼎、福田作太郎、川村恵十郎、織田研斎其外等面会す、五ツ過帰宿
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-17">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10003m-17">
        <head>
         （十
         <date evidence="year inferenced, day" when="1869-01">
@@ -6381,7 +6381,7 @@
         過帰宿、夜食後矢ノ倉伊東を訪ふ、不在ニて面会なし、吉田次郎面会いたす
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-18">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10003m-18">
        <head>
         （十
         <date evidence="year inferenced, day" when="1869-01">
@@ -6399,7 +6399,7 @@
                                 静岡平岡四郎外両人より書状来 いせ崎黒川伝次郎へ相廻ス別書申遣ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-19">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10003m-19">
        <head>
         （十
         <date evidence="year inferenced, day" when="1869-01">
@@ -6419,7 +6419,7 @@
         頃退出
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-20">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10003m-20">
        <head>
         （十
         <date evidence="year inferenced, day" when="1869-01">
@@ -6436,7 +6436,7 @@
                                 遠州静岡藩管轄地江御貸下之紙幣之儀ニ付、岡本江承合す、夕方小川街邸に至る、織田其外有司面会す、駿河台にて邸宅見分す、松本新作を訪ふ、不在にて面会なし、夜に入帰宿、此夜尾高藍香郷里より来る、家君之書持参す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-21">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10003m-21">
        <head>
         （十
         <date evidence="year inferenced, day" when="1869-01">
@@ -6452,7 +6452,7 @@
         休日ニ付、朝より調物宅にて認分いたし、午後南八丁堀にて郷之邸を訪ひ、夫より大少輔大少丞を訪ふ、坂出三郎を訪ふ、夜に入る迄談話す風邪之気故同所より駕を命し帰宿す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-22" subtype="wather=晴&when=1999-08-08" >
+      <div subtype="weather=雨,曇" type="diary-entry" xml:id="DKB10003m-22">
        <head>
         （十
         <date evidence="year inferenced, day" when="1869-01">
@@ -6468,7 +6468,7 @@
         不快ニ付出勤断之儀、吉川江申遣す、斎藤六蔵来る、阿部祐三来
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-23">
+      <div subtype="weather=雨" type="diary-entry" xml:id="DKB10003m-23">
        <head>
         （十
         <date evidence="year inferenced, day" when="1869-01">
@@ -6485,7 +6485,7 @@
                                 明日出勤之儀、伊東より切ニ被差留
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-24">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10003m-24">
        <head>
         （十
         <date evidence="year inferenced, day" when="1869-01">
@@ -6502,7 +6502,7 @@
                                 昨日喜多村富之助、後藤金兵衛来、午後中村玉太郎来、板見屋来、庄七帰駿之旨ニ付面会し遣す、夕方行方文五郎来、御用向申し談遣す、阿部祐三来、夜に入迄談し帰る、居宅之儀申聞ル、昨日川村恵十郎来前田重吾来、荒井江用達金廿五両之儀川村江談し遣す、加藤木来る、書籍類遣す、阿部祐三来
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-25">
+      <div subtype="weather=晴,曇" type="diary-entry" xml:id="DKB10003m-25">
        <head>
         （十
         <date evidence="year inferenced, day" when="1869-01">
@@ -6519,7 +6519,7 @@
                                 省中諸務釐正大基本相立度旨、岡本其外江申談す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-26">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10003m-26">
        <head>
         （十
         <date evidence="year inferenced, day" when="1869-01">
@@ -6535,7 +6535,7 @@
         朝、阿部祐三来、宿所見分ニ付同行、和泉橋辺お行、天神下後藤錠太郎宅見分す、毎事祐三江申談置、柳原にて梅田を訪ふ、不逢、裏猿楽町岡本を訪、面会、省中改正之儀其外見込申談す、表二番町郷純蔵《（マヽ）》を訪、不逢、夕方帰宿、夜平岡庄七を訪ふ、加藤木之事談判ス、此夕尾高帰府、夫々談し遣す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-27">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10003m-27">
        <head>
         （十
         <date evidence="year inferenced, day" when="1869-01">
@@ -6559,7 +6559,7 @@
                                 玉乃少丞ヨリナボレオンコード之儀申談有之、郷少丞ヨリ永田□左衛門建白書被相廻一覧、岡本へ廻ス、仏国在中之儀其外ニ付、卿、伊達従二位殿より御談有之
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-28">
+      <div subtype="weather=晴" type="diary-entry" xml:id="DKB10003m-28">
        <head>
         （十
         <date evidence="year inferenced, day" when="1869-01">
@@ -6583,7 +6583,7 @@
                                 機株願書付大隈大輔より被相廻、ナホレオンコードハ既ニ開成所にて翻訳取掛候旨伊達卿ヨリ御申聞有之、今朝右之儀ニ付栗本如雲《（栗本鋤雲）》ヘ書状遣す、夜静岡江書状認遣ス、平岡、小栗ヘ壱封、掛附ヘ壱封ヲ裁ス、郷里宅尾高ヘ壱封宛認遣ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-29">
+      <div subtype="date=1869-11-19" type="diary-entry" xml:id="DKB10003m-29">
        <head>
         <date evidence="year inferenced" when="1869-11-19">
          十一月十九日
@@ -6733,7 +6733,7 @@
           扁舟ヲ買テ湖水ヲ航シ、箱根駅ニ抵リ、更ニ竹輿ヲ買ヒ、夜ニ入テ三島ニ抵リ世古六太夫ニ投宿ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10004m-5">
+        <div subtype="date=1884-06-01" type="diary-entry" xml:id="DKB10004m-5">
          <head>
           <date evidence="year inferenced" when="1884-06-01">
            六月一日
@@ -6760,7 +6760,7 @@
           熱田着ノ事ヲ電報ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10004m-6">
+        <div subtype="date=1884-06-02" type="diary-entry" xml:id="DKB10004m-6">
          <head>
           <date evidence="year inferenced" when="1884-06-02">
            六月二日
@@ -6778,7 +6778,7 @@
           豊橋駅ニ抵リ小島屋源四郎ニ投宿ス ★★B1051★
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10004m-7">
+        <div subtype="date=1884-06-03" type="diary-entry" xml:id="DKB10004m-7">
          <head>
           <date evidence="year inferenced" when="1884-06-03">
            六月三日
@@ -6812,7 +6812,7 @@
           市支店ヲ訪ヒ市街ヲ遊歩ス 夜、古谷竜蔵共同会社須藤甫三井銀行及八巻、中島、田原ノ諸氏来話ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10004m-8">
+        <div subtype="date=1884-06-04" type="diary-entry" xml:id="DKB10004m-8">
          <head>
           <date evidence="year inferenced" when="1884-06-04">
            六月四日
@@ -6838,7 +6838,7 @@
           帰寓横浜■■[img図]〓■商店書上順四郎来着ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10004m-9">
+        <div subtype="date=1884-06-05" type="diary-entry" xml:id="DKB10004m-9">
          <head>
           <date evidence="year inferenced" when="1884-06-05">
            六月五日
@@ -6877,7 +6877,7 @@
                                         　幽草緑陰尚勝春。白雲堆処一亭新。平生常恨年華促。客裏却看光景真。
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10004m-11">
+        <div subtype="date=1884-06-06" type="diary-entry" xml:id="DKB10004m-11">
          <head>
           <date evidence="year inferenced" when="1884-06-06">
            六月六日
@@ -6900,7 +6900,7 @@
           過帰宿《（原本ニ訂正アリ。七カ）》、此夜地方諸子来訪商事ヲ話ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10004m-12">
+        <div subtype="date=1884-06-07" type="diary-entry" xml:id="DKB10004m-12">
          <head>
           <date evidence="year inferenced" when="1884-06-07">
            六月七日
@@ -6931,7 +6931,7 @@
           、両氏ニ辞シテ汽車西京ニ達ス、三木安三郎其他諸子来リ迎フ、宿ヲ木屋町松力楼ニ投ス ★★B1052★
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10004m-13">
+        <div subtype="date=1884-06-08" type="diary-entry" xml:id="DKB10004m-13">
          <head>
           <date evidence="year inferenced" when="1884-06-08">
            六月八日
@@ -6957,7 +6957,7 @@
           過松力楼ニ帰宿ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10004m-14">
+        <div subtype="date=1884-06-09" type="diary-entry" xml:id="DKB10004m-14">
          <head>
           <date evidence="year inferenced" when="1884-06-09">
            六月九日
@@ -6988,7 +6988,7 @@
           頃帰宿ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10004m-15">
+        <div subtype="date=1884-06-10" type="diary-entry" xml:id="DKB10004m-15">
          <head>
           <date evidence="year inferenced" when="1884-06-10">
            六月十日
@@ -7277,7 +7277,7 @@
                                         　　　○中略。
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-2">
+        <div subtype="weather=曇" type="diary-entry" xml:id="DKB10005m-2">
          <head>
           （
           <date evidence="year inferenced, day" when="1884-05">
@@ -7305,7 +7305,7 @@
           三島世古六太夫ニ投宿ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-3">
+        <div subtype="weather=雨&amp;date=1884-06-01" type="diary-entry" xml:id="DKB10005m-3">
          <head>
           <date evidence="year inferenced" when="1884-06-01">
            六月一日
@@ -7333,7 +7333,7 @@
           午後熱田着ノ事ヲ通知ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-4">
+        <div subtype="weather=晴&amp;date=1884-06-02" type="diary-entry" xml:id="DKB10005m-4">
          <head>
           <date evidence="year inferenced" when="1884-06-02">
            六月二日
@@ -7352,7 +7352,7 @@
           豊橋ニ抵リ宿ヲ小島屋ニ投ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-5">
+        <div subtype="weather=晴&amp;date=1884-06-03" type="diary-entry" xml:id="DKB10005m-5">
          <head>
           <date evidence="year inferenced" when="1884-06-03">
            六月三日
@@ -7387,7 +7387,7 @@
           市新設ノ支店ヲ巡視シ行務ヲ点撿ス、夜、古谷、須藤、八巻、田原、中島其他数子来話ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-6">
+        <div subtype="weather=晴&amp;date=1884-06-04" type="diary-entry" xml:id="DKB10005m-6">
          <head>
           <date evidence="year inferenced" when="1884-06-04">
            六月四日
@@ -7411,7 +7411,7 @@
           帰宿ス、此夜書上順四郎来着ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-7">
+        <div subtype="weather=晴&amp;date=1884-06-05" type="diary-entry" xml:id="DKB10005m-7">
          <head>
           <date evidence="year inferenced" when="1884-06-05">
            六月五日
@@ -7441,7 +7441,7 @@
           長浜ニ抵ル、増田充績、沢木安二郎来リ迎フ、相携テ某楼ニ投宿ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-8">
+        <div subtype="weather=晴&amp;date=1884-06-06" type="diary-entry" xml:id="DKB10005m-8">
          <head>
           <date evidence="year inferenced" when="1884-06-06">
            六月六日
@@ -7465,7 +7465,7 @@
           帰宿ス、此夜、諸子来会談話ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-9">
+        <div subtype="weather=晴&amp;date=1884-06-07" type="diary-entry" xml:id="DKB10005m-9">
          <head>
           <date evidence="year inferenced" when="1884-06-07">
            六月七日
@@ -7496,7 +7496,7 @@
           両氏ニ辞シテ汽車ニ駕シ西京ニ抵ル、三木安三郎其他諸子来リ迎フ、木屋町松力楼ニ投宿ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-10">
+        <div subtype="weather=晴&amp;date=1884-06-08" type="diary-entry" xml:id="DKB10005m-10">
          <head>
           <date evidence="year inferenced" when="1884-06-08">
            六月八日
@@ -7519,7 +7519,7 @@
           松力楼ニ帰宿ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-11">
+        <div subtype="weather=晴&amp;date=1884-06-09" type="diary-entry" xml:id="DKB10005m-11">
          <head>
           <date evidence="year inferenced" when="1884-06-09">
            六月九日
@@ -7551,7 +7551,7 @@
           帰宿ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-12">
+        <div subtype="weather=雨&amp;date=1884-06-10" type="diary-entry" xml:id="DKB10005m-12">
          <head>
           <date evidence="year inferenced" when="1884-06-10">
            六月十日
@@ -7577,7 +7577,7 @@
           帰宿ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-13">
+        <div subtype="weather=曇&amp;date=1884-06-11" type="diary-entry" xml:id="DKB10005m-13">
          <head>
           <date evidence="year inferenced" when="1884-06-11">
            六月十一日
@@ -7593,7 +7593,7 @@
           三井高福老人ノ招ニ応シテ其木屋町ノ楼ニ至ル、盛宴満酌、歓ヲ尽シテ帰ル
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-14">
+        <div subtype="weather=晴&amp;date=1884-06-12" type="diary-entry" xml:id="DKB10005m-14">
          <head>
           <date evidence="year inferenced" when="1884-06-12">
            六月十二日
@@ -7617,7 +7617,7 @@
           帰宿ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-15">
+        <div subtype="weather=曇&amp;date=1884-06-13" type="diary-entry" xml:id="DKB10005m-15">
          <head>
           <date evidence="year inferenced" when="1884-06-13">
            六月十三日
@@ -7637,7 +7637,7 @@
           過大阪ニ至ル、汽車中五代氏其他大阪ノ諸氏ニ邂逅ス、大阪汽車場ニ於テ井口、熊谷、神戸店長谷川其他数子来リ迎フ、北浜灘万楼ニ投宿ス、西郷農商務卿ヲ中ノ島自由亭ニ訪フ、款談数刻ニシテ楼ニ帰宿ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-16">
+        <div subtype="weather=曇&amp;date=1884-06-14" type="diary-entry" xml:id="DKB10005m-16">
          <head>
           <date evidence="year inferenced" when="1884-06-14">
            六月十四日
@@ -7664,7 +7664,7 @@
           平瀬、外山等ノ招請ニ応シテ大七楼ニ至ル、夜ニ入テ感冒ノ気味アルヲ以テ辞シテ帰宿ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-17">
+        <div subtype="weather=晴,雨&amp;date=1884-06-15" type="diary-entry" xml:id="DKB10005m-17">
          <head>
           <date evidence="year inferenced" when="1884-06-15">
            六月十五日
@@ -7687,7 +7687,7 @@
           退散ス、帰宿後微痾ノ為平臥、来客ヲ謝シ医師ヲ乞フテ服薬ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-18">
+        <div subtype="weather=雨&amp;date=1884-06-16" type="diary-entry" xml:id="DKB10005m-18">
          <head>
           <date evidence="year inferenced" when="1884-06-16">
            六月十六日
@@ -7698,7 +7698,7 @@
           病ノ為メニ来客ヲ謝ス、大阪、神戸支店行員等来訪ス、紡績会社蒲田来ル、褥中増築ノ事ヲ談話ス、午後医師交来リテ服薬ヲ促ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-19">
+        <div subtype="weather=雨&amp;date=1884-06-17" type="diary-entry" xml:id="DKB10005m-19">
          <head>
           <date evidence="year inferenced" when="1884-06-17">
            六月十七日
@@ -7717,7 +7717,7 @@
           辞シテ帰宿ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-20">
+        <div subtype="weather=雨&amp;date=1884-06-18" type="diary-entry" xml:id="DKB10005m-20">
          <head>
           <date evidence="year inferenced" when="1884-06-18">
            六月十八日
@@ -7741,7 +7741,7 @@
           帰宿ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-21">
+        <div subtype="weather=曇&amp;date=1884-06-19" type="diary-entry" xml:id="DKB10005m-21">
          <head>
           <date evidence="year inferenced" when="1884-06-19">
            六月十九日
@@ -7764,7 +7764,7 @@
           帰宿ス、時ニ書上順四郎来テ横浜商店ニ関スル事務ニ付テ請求スル所アルヲ以テ、書ヲ本店及横浜支店支配人ニ送致ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-22">
+        <div subtype="weather=曇&amp;date=1884-06-20" type="diary-entry" xml:id="DKB10005m-22">
          <head>
           <date evidence="year inferenced" when="1884-06-20">
            六月二十日
@@ -7808,7 +7808,7 @@
           諏訪山常盤楼ニ一宿ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-23">
+        <div subtype="weather=晴&amp;date=1884-06-22" type="diary-entry" xml:id="DKB10005m-23">
          <head>
           <date evidence="year inferenced" when="1884-06-22">
            六月廿二日
@@ -7835,7 +7835,7 @@
           帰宿ス、井口氏来話ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-24">
+        <div subtype="weather=雨&amp;date=1884-06-23" type="diary-entry" xml:id="DKB10005m-24">
          <head>
           <date evidence="year inferenced" when="1884-06-23">
            六月廿三日
@@ -7862,7 +7862,7 @@
           帰宿、後、東京本店其他ヘノ郵書ヲ裁ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-25">
+        <div subtype="weather=雨&amp;date=1884-06-24" type="diary-entry" xml:id="DKB10005m-25">
          <head>
           <date evidence="year inferenced" when="1884-06-24">
            六月廿四日
@@ -7885,7 +7885,7 @@
           中ノ島ノ某楼ニ於テ紡績会社諸員ト小酌ス蓋、会社ヨリ余カ来阪ヲ慰スルカ為メ此宴ヲ開キタルナリ、英人ニールトモ来会ス、各歓ヲ尽シテ去ル
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-26">
+        <div subtype="weather=曇&amp;date=1884-06-25" type="diary-entry" xml:id="DKB10005m-26">
          <head>
           <date evidence="year inferenced" when="1884-06-25">
            六月廿五日
@@ -7904,7 +7904,7 @@
           西京ニ至リ松力楼ニ投宿ス、三井銀行能勢支店、増田、三木敦賀出張員、沢木、住田、岸本等来リ会シテ敦賀倉庫会社設立ノ事及西陣買継所ノ事ヲ談話ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-27">
+        <div subtype="weather=晴,雨&amp;date=1884-06-26" type="diary-entry" xml:id="DKB10005m-27">
          <head>
           <date evidence="year inferenced" when="1884-06-26">
            六月廿六日
@@ -7927,7 +7927,7 @@
           関ニ至リテ投宿ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-28">
+        <div subtype="weather=雨&amp;date=1884-06-27" type="diary-entry" xml:id="DKB10005m-28">
          <head>
           <date evidence="year inferenced" when="1884-06-27">
            六月廿七日
@@ -7942,7 +7942,7 @@
           山田町ニ至リ十文字屋ニ投宿ス、此日午後ヨリ大雨屢来リテ途上極テ困難ナリ
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-29">
+        <div subtype="weather=雨&amp;date=1884-06-28" type="diary-entry" xml:id="DKB10005m-29">
          <head>
           <date evidence="year inferenced" when="1884-06-28">
            六月廿八日
@@ -7953,7 +7953,7 @@
           宮川洪水ノ為メニ十文字屋ニ滞留ス、午後、雨ヲ冒シテ内宮ニ詣ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-30">
+        <div subtype="weather=雨&amp;date=1884-06-29" type="diary-entry" xml:id="DKB10005m-30">
          <head>
           <date evidence="year inferenced" when="1884-06-29">
            六月廿九日
@@ -7968,7 +7968,7 @@
           松坂駅ニ投宿ス
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-31">
+        <div subtype="weather=晴&amp;date=1884-06-30" type="diary-entry" xml:id="DKB10005m-31">
          <head>
           <date evidence="year inferenced" when="1884-06-30">
            六月三十日
@@ -7994,7 +7994,7 @@
           発、船風浪平穏ナリ、偶新月鈎ノ如ク夜気人ニ可ナリ、月ニ歩シテ甲板上ヲ徘徊シ、深更ニ至リテ寝ニ就ク
          </p>
         </div>
-        <div type="diary-entry" xml:id="DKB10005m-32">
+        <div subtype="weather=雨&amp;date=1884-07-01" type="diary-entry" xml:id="DKB10005m-32">
          <head>
           <date evidence="year inferenced" when="1884-07-01">
            七月一日
@@ -8051,7 +8051,7 @@
        </date>
        市伏木新潟巡回紀行
       </head>
-      <div type="diary-entry" xml:id="DKB10006m-1">
+      <div subtype="date=1886-05-26" type="diary-entry" xml:id="DKB10006m-1">
        <head>
         <date when="1886-05-26">
          明治十九年五月廿六日
@@ -8786,7 +8786,7 @@
       <head>
        京坂巡回紀行
       </head>
-      <div type="diary-entry" xml:id="DKB10007m-1">
+      <div subtype="date=1886-12-08" type="diary-entry" xml:id="DKB10007m-1">
        <head>
         <date when="1886-12-08">
          明治十九年十二月八日
@@ -9233,7 +9233,7 @@
         十二月
        </date>
       </head>
-      <div type="diary-entry" xml:id="DKB10008m-1">
+      <div subtype="weather=晴&amp;date=1899-01-01" type="diary-entry" xml:id="DKB10008m-1">
        <head>
         <date when="1899-01-01">
          明治三十二年一月一日
@@ -9265,7 +9265,7 @@
         過ル頃禱竜館ニ投宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-2">
+      <div subtype="date=1899-01-02" type="diary-entry" xml:id="DKB10008m-2">
        <head>
         <date evidence="year inferenced" when="1899-01-02">
          一月二日
@@ -9275,7 +9275,7 @@
         晴少曇、朝来二三来客に接ス、昨夜ヨリ聊感冒ノ気味ナレハ入浴スルヲ得ス、終日無事、古文真宝又ハ古今集等ノ書ヲ読ム、夜ニ入リテ晴月色殊ニ清シ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-3">
+      <div subtype="date=1899-01-03" type="diary-entry" xml:id="DKB10008m-3">
        <head>
         <date evidence="year inferenced" when="1899-01-03">
          一月三日
@@ -9285,7 +9285,7 @@
         曇午後快晴、西村勝三、八十島親徳等来ル、終日読書又ハ遊戯ニ消閑ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-4">
+      <div subtype="date=1899-01-04" type="diary-entry" xml:id="DKB10008m-4">
        <head>
         <date evidence="year inferenced" when="1899-01-04">
          一月四日
@@ -9295,7 +9295,7 @@
         晴、朝来揮毫ニ従事ス、蓋シ昨年来托セラレタル題字又ハ額面〓本等数十葉書シ、畢テ午餐シ、食後海辺ニ徜徉ス、此夜伊藤侯爵来訪セラル、間談数刻ニシテ帰ル、小川正直氏来ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-5">
+      <div subtype="date=1899-01-05" type="diary-entry" xml:id="DKB10008m-5">
        <head>
         <date evidence="year inferenced" when="1899-01-05">
          一月五日
@@ -9309,7 +9309,7 @@
         岩崎弥★★B1069★之助氏来ル、即チ、時事二件去年来外務大臣ヨリ勧誘セラレタル清国漢口近傍製鉄所ニ対スル貸付金ノ件及商工協会設立ノ件ヲ協議ス、更ニ審案スヘキ事ヲ約ス、午後長田忠一来話ス、此夕岩崎氏別業ニ招宴セラル、大隈伯、佐藤医師、末延道成、志村工学士等来会ス、松永和風ノ長歌、尾上菊五郎ノ舞技ヲ見ル、帰宿後小川正直氏来ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-6">
+      <div subtype="date=1899-01-06" type="diary-entry" xml:id="DKB10008m-6">
        <head>
         <date evidence="year inferenced" when="1899-01-06">
          一月六日
@@ -9320,7 +9320,7 @@
                                 （欄外） ［福島甲子三氏来ル、身上ニ付種々談話ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-7">
+      <div subtype="date=1899-01-07" type="diary-entry" xml:id="DKB10008m-7">
        <head>
         <date evidence="year inferenced" when="1899-01-07">
          一月七日
@@ -9338,7 +9338,7 @@
         頃大隈邸ヲ辞シ山県侯爵ノ小陶庵ヲ訪フ、不在ニテ逢ハス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-8">
+      <div subtype="date=1899-01-08" type="diary-entry" xml:id="DKB10008m-8">
        <head>
         <date evidence="year inferenced" when="1899-01-08">
          一月八日
@@ -9361,7 +9361,7 @@
                                 三重紡績会社ヘ書状ヲ発シ総会ノ委任状ヲ送ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-9">
+      <div subtype="date=1899-01-09" type="diary-entry" xml:id="DKB10008m-9">
        <head>
         <date evidence="year inferenced" when="1899-01-09">
          一月九日
@@ -9405,7 +9405,7 @@
         東京着帰宅ス、新橋駐車場ニ新戚家人多《（親）》ク来リ迎フ、此夜八十島ヨリ留守中ノ事務ヲ詳聞ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-11">
+      <div subtype="date=1899-01-11" type="diary-entry" xml:id="DKB10008m-11">
        <head>
         <date evidence="year inferenced" when="1899-01-11">
          一月十一日
@@ -9439,7 +9439,7 @@
         再ヒ郵船会社ニ抵リ重役会ニ列ス米国人マツカイバー氏、増島六一郎氏ト共ニ来ル、同志社学校ノ事ニ関スル意見陳述ノ為メナリ、会議所小崎懋氏来ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-12">
+      <div subtype="date=1899-01-12" type="diary-entry" xml:id="DKB10008m-12">
        <head>
         <date evidence="year inferenced" when="1899-01-12">
          一月十二日
@@ -9473,7 +9473,7 @@
         帰宅、此夜柿沼谷蔵氏ニ福島甲子三ノ事ヲ書状ニテ申遣ス、孕石元照ニ書状ヲ発シテ其身上ノ事ヲ謝絶ス此日銀行ニテ金子堅太郎氏ニ書状ヲ送テ人造肥料免税ノ事ヲ依頼ス、稲垣満治郎氏ニ書ヲ発シテペルスフオールト氏歓迎《（ベルスフオルトカ）》ノ事ヲ申遣ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-13">
+      <div subtype="date=1899-01-13" type="diary-entry" xml:id="DKB10008m-13">
        <head>
         <date evidence="year inferenced" when="1899-01-13">
          一月十三日
@@ -9492,7 +9492,7 @@
         山県総理官邸ニ於テ青木外務、松方大蔵、曾根農商務及井上伯、和田維四郎、中上川、益田両氏等ト会合ス、清国漢口鉄政局ヘ貸金ノ事ヲ協議スル為メナリ、談話数時ヲ費スト云トモ其方法ヲ得サルニ付、更ニ井上伯ト示談シテ便宜ノ案ヲ立ル事ヲ約シテ退散ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-14">
+      <div subtype="date=1899-01-14" type="diary-entry" xml:id="DKB10008m-14">
        <head>
         <date evidence="year inferenced" when="1899-01-14">
          一月十四日
@@ -9507,7 +9507,7 @@
         過帰宅ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-15">
+      <div subtype="date=1899-01-15" type="diary-entry" xml:id="DKB10008m-15">
        <head>
         <date evidence="year inferenced" when="1899-01-15">
          一月十五日
@@ -9531,7 +9531,7 @@
         頃散会帰宅、此夜梅浦精一氏来ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-16">
+      <div subtype="date=1899-01-16" type="diary-entry" xml:id="DKB10008m-16">
        <head>
         <date evidence="year inferenced" when="1899-01-16">
          一月十六日
@@ -9542,7 +9542,7 @@
                                 午後青木外務ヲ官邸ニ訪フ、ベレスフオールト卿歓迎ノ事ヲ談話ス、此夜浜町ノ家ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-17">
+      <div subtype="date=1899-01-17" type="diary-entry" xml:id="DKB10008m-17">
        <head>
         <date evidence="year inferenced" when="1899-01-17">
          一月十七日
@@ -9561,7 +9561,7 @@
         警視庁ニテ松井茂氏ニ面会シテ人造肥料会社ノ事ヲ談話ス、此夜稲垣満治郎氏来リテベ卿歓迎会ノ事ヲ協議シ、東邦協会ト商業会議所ト合併ノ事ヲ打合セテ明日其決定ヲ約ス、小崎懋氏来会ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-18">
+      <div subtype="date=1899-01-18" type="diary-entry" xml:id="DKB10008m-18">
        <head>
         <date evidence="year inferenced" when="1899-01-18">
          一月十八日
@@ -9594,7 +9594,7 @@
         晴、朝来ベレスフオール卿歓迎会ニ於テ演説スヘキ腹按ヲ筆記シテ小崎氏ニ交付ス、竹田政智、福島甲子三等来ル、午後銀行ニ抵リ重役会ニ列シテ行務数件ヲ議決ス、此夜大倉氏宅ニ於テベ卿ノ招宴ニ参席ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-20">
+      <div subtype="date=1899-01-20" type="diary-entry" xml:id="DKB10008m-20">
        <head>
         <date evidence="year inferenced" when="1899-01-20">
          一月二十日
@@ -9616,7 +9616,7 @@
         青木外務私邸ニ於テベレスフオール卿招宴ニ参席ス、山県総理、サトウ公使其他十数名来会ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-21">
+      <div subtype="date=1899-01-21" type="diary-entry" xml:id="DKB10008m-21">
        <head>
         <date evidence="year inferenced" when="1899-01-21">
          一月二十一日
@@ -9646,7 +9646,7 @@
         帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-22">
+      <div subtype="date=1899-01-22" type="diary-entry" xml:id="DKB10008m-22">
        <head>
         <date evidence="year inferenced" when="1899-01-22">
          一月廿二日
@@ -9664,7 +9664,7 @@
         散会、浜町岡田屋ニ於テ行員二十有余人ト共ニ開宴ス、此夜浜町宅ヘ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-23">
+      <div subtype="date=1899-01-23" type="diary-entry" xml:id="DKB10008m-23">
        <head>
         <date evidence="year inferenced" when="1899-01-23">
          一月廿三日
@@ -9683,7 +9683,7 @@
                                 （欄外） ［此夜商業会議所臨時会ニ出席シ、大江氏ニ托シテ帰宅ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-24">
+      <div subtype="date=1899-01-24" type="diary-entry" xml:id="DKB10008m-24">
        <head>
         <date evidence="year inferenced" when="1899-01-24">
          一月廿四日
@@ -9709,7 +9709,7 @@
         銀行ニ至リテ朝鮮ニ係ル行務ヲ佐々木、土岐ト談話ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-25">
+      <div subtype="date=1899-01-25" type="diary-entry" xml:id="DKB10008m-25">
        <head>
         <date evidence="year inferenced" when="1899-01-25">
          一月廿五日
@@ -9744,7 +9744,7 @@
                                 （欄外） ［此日郵船会社重役会アリシモ多忙ニ付欠席ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-26">
+      <div subtype="date=1899-01-26" type="diary-entry" xml:id="DKB10008m-26">
        <head>
         <date evidence="year inferenced" when="1899-01-26">
          一月廿六日
@@ -9770,7 +9770,7 @@
         銀行ニ於テ重役会ヲ開キ要件数項ヲ議決ス、新潟県債引受ノ事ヲ決シテ松井支店長ニ示シ并テ勝間田知事ニ書状ヲ托ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-27">
+      <div subtype="date=1899-01-27" type="diary-entry" xml:id="DKB10008m-27">
        <head>
         <date evidence="year inferenced" when="1899-01-27">
          一月廿七日
@@ -9801,7 +9801,7 @@
         帰宅ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-28">
+      <div subtype="date=1899-01-28" type="diary-entry" xml:id="DKB10008m-28">
        <head>
         <date evidence="year inferenced" when="1899-01-28">
          一月廿八日
@@ -9829,7 +9829,7 @@
         散会帰宅ス、此夜兜町ニ福引ノ会アリ、更深テ散ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-29">
+      <div subtype="date=1899-01-29" type="diary-entry" xml:id="DKB10008m-29">
        <head>
         <date evidence="year inferenced" when="1899-01-29">
          一月廿九日
@@ -9840,7 +9840,7 @@
                                 諸井恒平来リテ煉瓦会社当季計算ノ事ヲ談ス 此日終日臥床ニアリテ外出ヲ得サリシ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-30">
+      <div subtype="date=1899-01-30" type="diary-entry" xml:id="DKB10008m-30">
        <head>
         <date evidence="year inferenced" when="1899-01-30">
          一月三十日
@@ -9866,7 +9866,7 @@
         兜町ニ帰宅ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-31">
+      <div subtype="date=1899-01-31" type="diary-entry" xml:id="DKB10008m-31">
        <head>
         <date evidence="year inferenced" when="1899-01-31">
          一月三十一日
@@ -9907,7 +9907,7 @@
                                 ★★B1074★
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-32">
+      <div subtype="date=1899-02-01" type="diary-entry" xml:id="DKB10008m-32">
        <head>
         <date evidence="year inferenced" when="1899-02-01">
          二月一日
@@ -9934,7 +9934,7 @@
         過帰宅
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-33">
+      <div subtype="date=1899-02-02" type="diary-entry" xml:id="DKB10008m-33">
        <head>
         <date evidence="year inferenced" when="1899-02-02">
          二月二日
@@ -9958,7 +9958,7 @@
         散会
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-34">
+      <div subtype="date=1899-02-03" type="diary-entry" xml:id="DKB10008m-34">
        <head>
         <date evidence="year inferenced" when="1899-02-03">
          二月三日
@@ -9988,7 +9988,7 @@
         散会
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-35">
+      <div subtype="date=1899-02-04" type="diary-entry" xml:id="DKB10008m-35">
        <head>
         <date evidence="year inferenced" when="1899-02-04">
          二月四日
@@ -10014,7 +10014,7 @@
         浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-36">
+      <div subtype="date=1899-02-05" type="diary-entry" xml:id="DKB10008m-36">
        <head>
         <date evidence="year inferenced" when="1899-02-05">
          二月五日
@@ -10024,7 +10024,7 @@
         曇、此日休暇ナルニヨリ、終日浜町宅ニ在リテ読書又ハ雑戯ニ消閑ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-37">
+      <div subtype="date=1899-02-06" type="diary-entry" xml:id="DKB10008m-37">
        <head>
         <date evidence="year inferenced" when="1899-02-06">
          二月六日
@@ -10046,7 +10046,7 @@
         散会ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-38">
+      <div subtype="date=1899-02-07" type="diary-entry" xml:id="DKB10008m-38">
        <head>
         <date evidence="year inferenced" when="1899-02-07">
          二月七日
@@ -10076,7 +10076,7 @@
         帰宅ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-39">
+      <div subtype="date=1899-02-08" type="diary-entry" xml:id="DKB10008m-39">
        <head>
         <date evidence="year inferenced" when="1899-02-08">
          二月八日
@@ -10110,7 +10110,7 @@
         深川宅ニ帰宿ス、此夕ホテルニ於テ植村澄三郎氏、岡部広氏等ニ会話ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-40">
+      <div subtype="date=1899-02-09" type="diary-entry" xml:id="DKB10008m-40">
        <head>
         <date evidence="year inferenced" when="1899-02-09">
          二月九日
@@ -10146,7 +10146,7 @@
         帰宿、此夕大蔵省松尾氏ヨリ来書、京仁鉄道ニ関スル請求ヲ拒絶シ来ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-41">
+      <div subtype="date=1899-02-10" type="diary-entry" xml:id="DKB10008m-41">
        <head>
         <date evidence="year inferenced" when="1899-02-10">
          二月十日
@@ -10180,7 +10180,7 @@
         浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-42">
+      <div subtype="date=1899-02-11" type="diary-entry" xml:id="DKB10008m-42">
        <head>
         <date evidence="year inferenced" when="1899-02-11">
          二月十一日
@@ -10206,7 +10206,7 @@
         浅野総一郎氏来リ特定航路ノ事ヲ内話ス、此夕書ヲ裁シテ近藤郵船会社長ニ急送ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-43">
+      <div subtype="date=1899-02-12" type="diary-entry" xml:id="DKB10008m-43">
        <head>
         <date evidence="year inferenced" when="1899-02-12">
          二月十二日
@@ -10224,7 +10224,7 @@
         過大江卓氏ヲ芝公園内ニ訪フ、京釜鉄道ノ事ヲ談ス、尾崎、大三輪、竹内諸氏ト共ニ陸軍中佐大沢氏、逓信技師久能氏ト会話ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-44">
+      <div subtype="date=1899-02-13" type="diary-entry" xml:id="DKB10008m-44">
        <head>
         <date evidence="year inferenced" when="1899-02-13">
          二月十三日
@@ -10250,7 +10250,7 @@
         過帰宅
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-45">
+      <div subtype="date=1899-02-14" type="diary-entry" xml:id="DKB10008m-45">
        <head>
         <date evidence="year inferenced" when="1899-02-14">
          二月十四日
@@ -10272,7 +10272,7 @@
         帰宅ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-46">
+      <div subtype="date=1899-02-15" type="diary-entry" xml:id="DKB10008m-46">
        <head>
         <date evidence="year inferenced" when="1899-02-15">
          二月十五日
@@ -10302,7 +10302,7 @@
         過浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-47">
+      <div subtype="date=1899-02-16" type="diary-entry" xml:id="DKB10008m-47">
        <head>
         <date evidence="year inferenced" when="1899-02-16">
          二月十六日
@@ -10316,7 +10316,7 @@
         兜町宅ヘ帰ル、京仁鉄道ノ事ニ関シテ益田孝、足立太郎、吉川三次郎来ル、午後銀行ニ於テ行務ヲ視重役会ヲ開ク、此夜韓国義和宮、安駧寿、銀行員佐々木、土岐両氏来ル、共ニ洋食ノ宴ヲ開ク、蓋シ義和宮修学ノ事ニ付テハ過般来青木外務大臣ヘ談話セシ事アレトモ充分ノ結果ヲ見サルニヨリ、特ニ安駧寿ノ手ヲ経テ金五百円ノ学資ヲ送リタルニ付、宮ハ余ノ厚意ヲ謝シテ安氏ト共ニ謝詞ヲ陳ヘラレタリ、此日夜ニ入ルモ雪尚甚シク積テ七寸余ニ及ヘリ、寒気随テ凜〓《（冽）》ナリシ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-48">
+      <div subtype="date=1899-02-17" type="diary-entry" xml:id="DKB10008m-48">
        <head>
         <date evidence="year inferenced" when="1899-02-17">
          二月十七日
@@ -10338,7 +10338,7 @@
         散会ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-49">
+      <div subtype="date=1899-02-18" type="diary-entry" xml:id="DKB10008m-49">
        <head>
         <date evidence="year inferenced" when="1899-02-18">
          二月十八日
@@ -10348,7 +10348,7 @@
         曇、此日ハ旧里吉岡老夫人病没シテ其葬儀執行ノ日ナルニ付会葬ノ心算ナリシモ、朝来風邪気ナルニヨリ其行ヲ止メ臥褥療養ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-50">
+      <div subtype="date=1899-02-19" type="diary-entry" xml:id="DKB10008m-50">
        <head>
         <date evidence="year inferenced" when="1899-02-19">
          二月十九日
@@ -10358,7 +10358,7 @@
         晴、昨日ノ小痾全愈ニ至ラサルヨリ牀上ニ在テ休養ス、斎藤峰三郎来ル、午後、篤二夫妻旧里ヨリ帰京セシヲ以テ来訪ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-51">
+      <div subtype="date=1899-02-20" type="diary-entry" xml:id="DKB10008m-51">
        <head>
         <date evidence="year inferenced" when="1899-02-20">
          二月二十日
@@ -10384,7 +10384,7 @@
         帰宿
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-52">
+      <div subtype="date=1899-02-21" type="diary-entry" xml:id="DKB10008m-52">
        <head>
         <date evidence="year inferenced" when="1899-02-21">
          二月廿一日
@@ -10394,7 +10394,7 @@
         晴、午前岩越鉄道ノ事ニ関シテ唐橋左源次氏来ル、同件ニ関シテ二橋元長、日下義雄二氏ニ書状ヲ送リテ欠席ヲ申遣ス、田島辰雄来ル、米国在留中ノ事ヲ話ス、久留米人鹿子木耀之進来ル、韓国勧業ノ事ヲ談ス、永戸直之助来ル、萩原源太郎、小崎懋二氏前後来訪ス、夕方ヨリ★★B1077★韓国釜山尾高次郎、仁川西脇長太郎、領事石井菊次郎、京城佐々木清麿、加藤公使、秋月領事等ヘ書状ヲ裁ス、明日大江卓氏同地出張ニ付其紹介ヲ兼タル通信ナリ、夜、八十島親徳ヲ大江氏ニ遣シテ明日ノ行ヲ送リ且言ヲ托ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-53">
+      <div subtype="date=1899-02-22" type="diary-entry" xml:id="DKB10008m-53">
        <head>
         <date evidence="year inferenced" when="1899-02-22">
          二月廿二日
@@ -10408,7 +10408,7 @@
         郵船会社重役会ニ列席ス、特定航路ノ事ヲ議ス、此夜浜町宅ニ帰宿ス、夜ニ入リテ大雨
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-54">
+      <div subtype="date=1899-02-23" type="diary-entry" xml:id="DKB10008m-54">
        <head>
         <date evidence="year inferenced" when="1899-02-23">
          二月廿三日
@@ -10438,7 +10438,7 @@
         浜町常盤屋ニ於テ成田銀行小倉氏ノ招宴ニ列ス、大倉、岡村輝彦、佐々木勇之助諸氏ト共ニ笑談ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-55">
+      <div subtype="date=1899-02-24" type="diary-entry" xml:id="DKB10008m-55">
        <head>
         <date evidence="year inferenced" when="1899-02-24">
          二月廿四日
@@ -10460,7 +10460,7 @@
         深川ニ帰宿ス、此夜尾高老人ト共ニ山登ノ琴ヲ弾スルヲ聴ク
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-56">
+      <div subtype="date=1899-02-25" type="diary-entry" xml:id="DKB10008m-56">
        <head>
         <date evidence="year inferenced" when="1899-02-25">
          二月廿五日
@@ -10494,7 +10494,7 @@
         帰宅、谷敬三氏来ル、人造肥料会社ノ事ヲ議ス、安田善次郎氏来リ日本銀行内情ノ事ヲ話ス、夜、石川島造船所進経太来話ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-57">
+      <div subtype="date=1899-02-26" type="diary-entry" xml:id="DKB10008m-57">
        <head>
         <date evidence="year inferenced" when="1899-02-26">
          二月二十六日
@@ -10512,7 +10512,7 @@
         帰宅、田中源太郎、渋沢喜作、宇野保太郎来ル、製麻会社ノ要務ヲ協議ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-58">
+      <div subtype="date=1899-02-27" type="diary-entry" xml:id="DKB10008m-58">
        <head>
         <date evidence="year inferenced" when="1899-02-27">
          二月二十七日
@@ -10530,7 +10530,7 @@
         頃浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-59">
+      <div subtype="date=1899-02-28" type="diary-entry" xml:id="DKB10008m-59">
        <head>
         <date evidence="year inferenced" when="1899-02-28">
          二月廿八日
@@ -10560,7 +10560,7 @@
         阪谷芳郎来ル、日本銀行ノ事ヲ話ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-60">
+      <div subtype="date=1899-03-01" type="diary-entry" xml:id="DKB10008m-60">
        <head>
         <date evidence="year inferenced" when="1899-03-01">
          三月一日
@@ -10586,7 +10586,7 @@
         過帰宅、此夜八基村渋沢市郎、愛吉等来ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-61">
+      <div subtype="date=1899-03-02" type="diary-entry" xml:id="DKB10008m-61">
        <head>
         <date evidence="year inferenced" when="1899-03-02">
          三月二日
@@ -10612,7 +10612,7 @@
         過散会帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-62">
+      <div subtype="date=1899-03-03" type="diary-entry" xml:id="DKB10008m-62">
        <head>
         <date evidence="year inferenced" when="1899-03-03">
          三月三日
@@ -10655,7 +10655,7 @@
         市原氏来ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-63">
+      <div subtype="date=1899-03-04" type="diary-entry" xml:id="DKB10008m-63">
        <head>
         <date evidence="year inferenced" when="1899-03-04">
          三月四日
@@ -10689,7 +10689,7 @@
         過浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-64">
+      <div subtype="date=1899-03-05" type="diary-entry" xml:id="DKB10008m-64">
        <head>
         <date evidence="year inferenced" when="1899-03-05">
          三月五日
@@ -10719,7 +10719,7 @@
         散会ス、此夜穂積、阪谷、篤二夫妻来会ス此日鉄道作業局長面会《（官脱）》ノ為同局ニ至ル、平井氏ニ面シテ京仁鉄道技師ノ事ヲ談話ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-65">
+      <div subtype="date=1899-02-06" type="diary-entry" xml:id="DKB10008m-65">
        <head>
         <date evidence="year inferenced" when="1899-02-06">
          二月六日
@@ -10738,7 +10738,7 @@
         深川邸ニ帰宿、今朝皆川四郎氏来ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-66">
+      <div subtype="date=1899-02-07" type="diary-entry" xml:id="DKB10008m-66">
        <head>
         <date evidence="year inferenced" when="1899-02-07">
          二月七日
@@ -10781,7 +10781,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-67">
+      <div subtype="date=1899-02-08" type="diary-entry" xml:id="DKB10008m-67">
        <head>
         <date evidence="year inferenced" when="1899-02-08">
          二月八日
@@ -10818,7 +10818,7 @@
         帰京ノ事報シ来ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-68">
+      <div subtype="date=1899-03-09" type="diary-entry" xml:id="DKB10008m-68">
        <head>
         <date evidence="year inferenced" when="1899-03-09">
          三月九日
@@ -10841,7 +10841,7 @@
                                 ★★B1080★
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-69">
+      <div subtype="date=1899-03-10" type="diary-entry" xml:id="DKB10008m-69">
        <head>
         <date evidence="year inferenced" when="1899-03-10">
          三月十日
@@ -10867,7 +10867,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-70">
+      <div subtype="date=1899-03-11" type="diary-entry" xml:id="DKB10008m-70">
        <head>
         <date evidence="year inferenced" when="1899-03-11">
          三月十一日
@@ -10897,7 +10897,7 @@
         兜町ニ帰宿ス此夜風雪強ク寒甚シ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-71">
+      <div subtype="date=1899-03-12" type="diary-entry" xml:id="DKB10008m-71">
        <head>
         <date evidence="year inferenced" when="1899-03-12">
          三月十二日
@@ -10919,7 +10919,7 @@
         帰途ニ就テ大船ヨリ路ヲ転シテ大磯ニ抵リ禱竜館ニ投ス、皆川夫人ノ病ヲ訪フ、此夜皆川四郎氏モ来会ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-72">
+      <div subtype="date=1899-03-13" type="diary-entry" xml:id="DKB10008m-72">
        <head>
         <date evidence="year inferenced" when="1899-03-13">
          三月十三日
@@ -10929,7 +10929,7 @@
         晴風強ク寒甚シ、皆川夫妻ト共ニ終日禱竜館ニ会談ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-73">
+      <div subtype="date=1899-03-14" type="diary-entry" xml:id="DKB10008m-73">
        <head>
         <date evidence="year inferenced" when="1899-03-14">
          三月十四日
@@ -10940,7 +10940,7 @@
                                 養育院幹事安達憲忠来リテ慈善会ノ事ヲ談ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-74">
+      <div subtype="date=1899-03-15" type="diary-entry" xml:id="DKB10008m-74">
        <head>
         <date evidence="year inferenced" when="1899-03-15">
          三月十五日
@@ -10950,7 +10950,7 @@
         晴、喘息ノ気味尚未タ愈ヘス、此日ハ井上伯ヨリ招宴ノ約アリシニヨリ、特ニ書ヲ以テ之ヲ謝ス、東京宅ヘモ書ヲ送ル、褥中養痾ノ外他事ナシ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-75">
+      <div subtype="date=1899-03-16" type="diary-entry" xml:id="DKB10008m-75">
        <head>
         <date evidence="year inferenced" when="1899-03-16">
          三月十六日
@@ -10964,7 +10964,7 @@
         花月楼ニ於テ法典調査会ノ諸氏招宴ノ案内ヲ為セシモ、病気ニヨリ延会ノ事ヲ通知セシム
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-76">
+      <div subtype="date=1899-03-17" type="diary-entry" xml:id="DKB10008m-76">
        <head>
         <date evidence="year inferenced" when="1899-03-17">
          三月十七日
@@ -10974,7 +10974,7 @@
         半晴、朝、河村隆実、二橋元長ニ電報ス、蓋シ昨夜同氏ヨリ帰京ノ日ヲ問合セノ来電アリシニヨル、朝、二条公爵、島津伯爵ヘ返書ヲ発ス佐々木勇之助、書上順四郎、尾高惇忠、河村隆実等ヘ書状ヲ発ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-77">
+      <div subtype="date=1899-03-18" type="diary-entry" xml:id="DKB10008m-77">
        <head>
         <date evidence="year inferenced" when="1899-03-18">
          三月十八日
@@ -10993,7 +10993,7 @@
         商業会議所書記南須原巻五郎来ル、本年ノ予算編成ニ付定式総会ノ事ヲ談ス、鹿子木耀之進来リテ朝鮮地方ニ拓地起業ノ事ヲ話ス、横浜書上ヨリ来状アリ、此日佐々木氏ノ帰京便ニ托シテ東京ヘ書状ヲ発ス（井上勝氏、兜町八十島宛、深川篤二宛及二橋元長ヘノ返翰等ナリ）
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-78">
+      <div subtype="date=1899-03-19" type="diary-entry" xml:id="DKB10008m-78">
        <head>
         <date evidence="year inferenced" when="1899-03-19">
          三月十九日
@@ -11007,7 +11007,7 @@
         河村隆実、佐分利一嗣二氏来リ京坂鉄道ノ事ヲ談ス、此夕東京皆川氏ヘ電報シテ明日来磯ノ事ヲ促ス、此日ヨリ喘息病大ニ快方ニ赴キ終《（日カ）》ニ読書又ハ遊戯ニ消閑ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-79">
+      <div subtype="date=1899-03-20" type="diary-entry" xml:id="DKB10008m-79">
        <head>
         <date evidence="year inferenced" when="1899-03-20">
          三月二十日
@@ -11017,7 +11017,7 @@
         晴、朝、兜町宅ヘ書状ヲ発ス、此夕皆川氏東京ヨリ来着ス、終日読書又ハ遊戯ニ消閑ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-80">
+      <div subtype="date=1899-03-21" type="diary-entry" xml:id="DKB10008m-80">
        <head>
         <date evidence="year inferenced" when="1899-03-21">
          三月二十一日
@@ -11027,7 +11027,7 @@
         晴、朝、浅野総一郎氏来ル、伊藤侯爵ヘ紹介ノ事ヲ話ス、依テ人ヲ遣シテ侯ノ邸ヲ伺ハシメタルモ、東京ニ在ルヲ以テ訪問ヲ為サス、皆川四郎氏ヘ京坂鉄道ノ事ヲ談話ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-81">
+      <div subtype="date=1899-03-22" type="diary-entry" xml:id="DKB10008m-81">
        <head>
         <date evidence="year inferenced" when="1899-03-22">
          三月二十二日
@@ -11041,7 +11041,7 @@
         ヲ延引スル事トシ、商業会議所及兜町宅ヘ其趣ヲ電報ス、市役所浦田治平氏ヨリ電報来リテ明日帰京ノ事ヲ促シ来ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-82">
+      <div subtype="date=1899-03-23" type="diary-entry" xml:id="DKB10008m-82">
        <head>
         <date evidence="year inferenced" when="1899-03-23">
          三月二十三日
@@ -11063,7 +11063,7 @@
         過銀行ニ抵リテ土岐氏ニ面会シテ留守中ノ事務ノ報告ヲ受ク、岡部広氏来リテ京北鉄道ノ事ヲ話ス、大川平三郎来リテモールスヨリノ伝語ヲ話ス、八十島親徳ヨリ留守中ノ要務ヲ申出ル、塩田一太郎韓国発途ニ付要務ヲ談話ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-83">
+      <div subtype="date=1899-03-24" type="diary-entry" xml:id="DKB10008m-83">
        <head>
         <date evidence="year inferenced" when="1899-03-24">
          三月二十四日
@@ -11089,7 +11089,7 @@
         帰宅ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-84">
+      <div subtype="date=1899-03-25" type="diary-entry" xml:id="DKB10008m-84">
        <head>
         <date evidence="year inferenced" when="1899-03-25">
          三月二十五日
@@ -11111,7 +11111,7 @@
         帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-85">
+      <div subtype="date=1899-03-26" type="diary-entry" xml:id="DKB10008m-85">
        <head>
         <date evidence="year inferenced" when="1899-03-26">
          三月二十六日
@@ -11131,7 +11131,7 @@
         過浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-86">
+      <div subtype="date=1899-03-27" type="diary-entry" xml:id="DKB10008m-86">
        <head>
         <date evidence="year inferenced" when="1899-03-27">
          三月廿七日
@@ -11157,7 +11157,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-87">
+      <div subtype="date=1899-03-28" type="diary-entry" xml:id="DKB10008m-87">
        <head>
         <date evidence="year inferenced" when="1899-03-28">
          三月廿八日
@@ -11179,7 +11179,7 @@
         過帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-88">
+      <div subtype="date=1899-03-29" type="diary-entry" xml:id="DKB10008m-88">
        <head>
         <date evidence="year inferenced" when="1899-03-29">
          三月廿九日
@@ -11201,7 +11201,7 @@
         帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-89">
+      <div subtype="date=1899-03-30" type="diary-entry" xml:id="DKB10008m-89">
        <head>
         <date evidence="year inferenced" when="1899-03-30">
          三月三十日
@@ -11215,7 +11215,7 @@
         過深川宅ニテ鷗盟会常議員会ヲ開ク夜深川ニ一泊ス、此夜大雨
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-90">
+      <div subtype="date=1899-03-31" type="diary-entry" xml:id="DKB10008m-90">
        <head>
         <date evidence="year inferenced" when="1899-03-31">
          三月三十一日
@@ -11245,7 +11245,7 @@
         過八基村市郎宅ニ抵リテ宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-91">
+      <div subtype="date=1899-04-01" type="diary-entry" xml:id="DKB10008m-91">
        <head>
         <date evidence="year inferenced" when="1899-04-01">
          四月一日
@@ -11259,7 +11259,7 @@
         過市郎家ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-92">
+      <div subtype="date=1899-04-02" type="diary-entry" xml:id="DKB10008m-92">
        <head>
         <date evidence="year inferenced" when="1899-04-02">
          四月二日
@@ -11289,7 +11289,7 @@
         帰宅ス、此日血洗島ニテ村内ノ人数十名手計村マテ送リ来ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-93">
+      <div subtype="date=1899-04-03" type="diary-entry" xml:id="DKB10008m-93">
        <head>
         <date evidence="year inferenced" when="1899-04-03">
          四月三日
@@ -11299,7 +11299,7 @@
         曇、頃日来口中ニ痛所アルヲ以テ高木氏ヲ招テ診察ヲ乞フ、堀井医師来会ス、此日兜町稲荷神社祭礼アルヲ以テ邸外頗ル雑沓セリ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-94">
+      <div subtype="date=1899-04-04" type="diary-entry" xml:id="DKB10008m-94">
        <head>
         <date evidence="year inferenced" when="1899-04-04">
          四月四日
@@ -11313,7 +11313,7 @@
         浜町宅ニ帰宿ス ★★B1083★
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-95">
+      <div subtype="date=1899-04-05" type="diary-entry" xml:id="DKB10008m-95">
        <head>
         <date evidence="year inferenced" when="1899-04-05">
          四月五日
@@ -11323,7 +11323,7 @@
         曇夕少晴、終日記事ナシ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-96">
+      <div subtype="date=1899-04-06" type="diary-entry" xml:id="DKB10008m-96">
        <head>
         <date evidence="year inferenced" when="1899-04-06">
          四月六日
@@ -11347,7 +11347,7 @@
                                 　　ともをめつる君かこゝろにならひてや花も人まつ須田の夕くれ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-97">
+      <div subtype="date=1899-04-07" type="diary-entry" xml:id="DKB10008m-97">
        <head>
         <date evidence="year inferenced" when="1899-04-07">
          四月七日
@@ -11373,7 +11373,7 @@
         帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-98">
+      <div subtype="date=1899-04-08" type="diary-entry" xml:id="DKB10008m-98">
        <head>
         <date evidence="year inferenced" when="1899-04-08">
          四月八日
@@ -11396,7 +11396,7 @@
         帰宅ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-99">
+      <div subtype="date=1899-04-09" type="diary-entry" xml:id="DKB10008m-99">
        <head>
         <date evidence="year inferenced" when="1899-04-09">
          四月九日
@@ -11410,7 +11410,7 @@
         川上参謀長ヲ番町ニ訪フテ京坂鉄道ノ事及京仁鉄道ノ事ヲ談ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-100">
+      <div subtype="date=1899-04-10" type="diary-entry" xml:id="DKB10008m-100">
        <head>
         <date evidence="year inferenced" when="1899-04-10">
          四月十日
@@ -11432,7 +11432,7 @@
         東京ニ帰宿ス、帰路内閣員ト同車シテ数々ノ談話ヲ為ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-101">
+      <div subtype="date=1899-04-11" type="diary-entry" xml:id="DKB10008m-101">
        <head>
         <date evidence="year inferenced" when="1899-04-11">
          四月十一日
@@ -11454,7 +11454,7 @@
         帰宅ス、此夜亡児　○六男忠雄ノ忌日ナルヲ以テ仏事ヲ営ム
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-102">
+      <div subtype="date=1899-04-12" type="diary-entry" xml:id="DKB10008m-102">
        <head>
         <date evidence="year inferenced" when="1899-04-12">
          四月十二日
@@ -11473,7 +11473,7 @@
         帰宅ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-103">
+      <div subtype="date=1899-04-13" type="diary-entry" xml:id="DKB10008m-103">
        <head>
         <date evidence="year inferenced" when="1899-04-13">
          四月十三日
@@ -11491,7 +11491,7 @@
         松本壮一郎氏来《（松本荘一郎氏）》ル、京仁鉄道ノ事ヲ談ス、掖済会山田毅氏来ル、此夜博聞館坪谷善四郎来《（博文館）》ル、身上伝記ノ事ヲ話ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-104">
+      <div subtype="date=1899-04-14" type="diary-entry" xml:id="DKB10008m-104">
        <head>
         <date evidence="year inferenced" when="1899-04-14">
          四月十四日
@@ -11521,7 +11521,7 @@
         過浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-105">
+      <div subtype="date=1899-04-15" type="diary-entry" xml:id="DKB10008m-105">
        <head>
         <date evidence="year inferenced" when="1899-04-15">
          四月十五日
@@ -11547,7 +11547,7 @@
         過兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-106">
+      <div subtype="date=1899-04-16" type="diary-entry" xml:id="DKB10008m-106">
        <head>
         <date evidence="year inferenced" when="1899-04-16">
          四月十六日
@@ -11573,7 +11573,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-107">
+      <div subtype="date=1899-04-17" type="diary-entry" xml:id="DKB10008m-107">
        <head>
         <date evidence="year inferenced" when="1899-04-17">
          四月十七日
@@ -11587,7 +11587,7 @@
         帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-108">
+      <div subtype="date=1899-04-18" type="diary-entry" xml:id="DKB10008m-108">
        <head>
         <date evidence="year inferenced" when="1899-04-18">
          四月十八日
@@ -11609,7 +11609,7 @@
         浜町ニ帰宿ス、夜ニ入リテ小雨
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-109">
+      <div subtype="date=1899-04-19" type="diary-entry" xml:id="DKB10008m-109">
        <head>
         <date evidence="year inferenced" when="1899-04-19">
          四月十九日
@@ -11639,7 +11639,7 @@
         散会ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-110">
+      <div subtype="date=1899-04-20" type="diary-entry" xml:id="DKB10008m-110">
        <head>
         <date evidence="year inferenced" when="1899-04-20">
          四月廿日
@@ -11669,7 +11669,7 @@
         深川ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-111">
+      <div subtype="date=1899-04-21" type="diary-entry" xml:id="DKB10008m-111">
        <head>
         <date evidence="year inferenced" when="1899-04-21">
          四月二十一日
@@ -11699,7 +11699,7 @@
         兜町ニ帰宿ス、此夜大雨
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-112">
+      <div subtype="date=1899-04-22" type="diary-entry" xml:id="DKB10008m-112">
        <head>
         <date evidence="year inferenced" when="1899-04-22">
          四月二十二日
@@ -11721,7 +11721,7 @@
         第一銀行ニ抵リ事務ヲ視ル、此夜浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-113">
+      <div subtype="date=1899-04-23" type="diary-entry" xml:id="DKB10008m-113">
        <head>
         <date evidence="year inferenced" when="1899-04-23">
          四月廿三日
@@ -11731,7 +11731,7 @@
         晴、此日浜町宅ニ於テ事務ヲ調査ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-114">
+      <div subtype="date=1899-04-24" type="diary-entry" xml:id="DKB10008m-114">
        <head>
         <date evidence="year inferenced" when="1899-04-24">
          四月廿四日
@@ -11753,7 +11753,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-115">
+      <div subtype="date=1899-04-25" type="diary-entry" xml:id="DKB10008m-115">
        <head>
         <date evidence="year inferenced" when="1899-04-25">
          四月廿五日
@@ -11767,7 +11767,7 @@
         向島八百松楼ニ於テ各銀行懇親会ニ出席ス、山本日本銀行総裁、高橋、藤島、相馬、中上川、豊川等ノ諸氏来会ス、講談歌舞等ノ余興アル《（リ）》、夜浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-116">
+      <div subtype="date=1899-04-26" type="diary-entry" xml:id="DKB10008m-116">
        <head>
         <date evidence="year inferenced" when="1899-04-26">
          四月廿六日
@@ -11805,7 +11805,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-117">
+      <div subtype="date=1899-04-27" type="diary-entry" xml:id="DKB10008m-117">
        <head>
         <date evidence="year inferenced" when="1899-04-27">
          四月廿七日
@@ -11831,7 +11831,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-118">
+      <div subtype="date=1899-04-28" type="diary-entry" xml:id="DKB10008m-118">
        <head>
         <date evidence="year inferenced" when="1899-04-28">
          四月廿八日
@@ -11853,7 +11853,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-119">
+      <div subtype="date=1899-04-29" type="diary-entry" xml:id="DKB10008m-119">
        <head>
         <date evidence="year inferenced" when="1899-04-29">
          四月廿九日
@@ -11863,7 +11863,7 @@
         晴、朝、岩崎弥之助氏来ル、此日風邪ニ付、大隈邸ニ催ス処ノ園遊会ニ出席スルヲ得ス、終日褥中ニ在テ休養ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-120">
+      <div subtype="date=1899-04-30" type="diary-entry" xml:id="DKB10008m-120">
        <head>
         <date evidence="year inferenced" when="1899-04-30">
          四月三十日
@@ -11873,7 +11873,7 @@
         晴、風邪猶未タ愈ヘス、終日平臥ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-121">
+      <div subtype="date=1899-05-01" type="diary-entry" xml:id="DKB10008m-121">
        <head>
         <date evidence="year inferenced" when="1899-05-01">
          五月一日
@@ -11884,7 +11884,7 @@
                                 （欄外） ［夕方皆川氏来ル、日置藤夫氏身上ノ事ヲ話ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-122">
+      <div subtype="date=1899-05-02" type="diary-entry" xml:id="DKB10008m-122">
        <head>
         <date evidence="year inferenced" when="1899-05-02">
          五月二日
@@ -11894,7 +11894,7 @@
         曇、風邪稍快方スト云トモ尚出勤スルヲ得ス、終日宅ニ在テ伝記ノ事ヲ調査ス、夜博聞館坪谷氏速記者同行《（文）》ニテ来訪シ、身上経歴ノ事ヲ談話ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-123">
+      <div subtype="date=1899-05-03" type="diary-entry" xml:id="DKB10008m-123">
        <head>
         <date evidence="year inferenced" when="1899-05-03">
          五月三日
@@ -11908,7 +11908,7 @@
         清浦奎吾、三好退蔵、留岡幸助、広津友信、田口卯吉、小川繁次郎、安達憲忠、山本徳尚氏等来会、慈善問題ニ付テ討議ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-124">
+      <div subtype="date=1899-05-04" type="diary-entry" xml:id="DKB10008m-124">
        <head>
         <date evidence="year inferenced" when="1899-05-04">
          五月四日
@@ -11926,7 +11926,7 @@
         浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-125">
+      <div subtype="date=1899-05-05" type="diary-entry" xml:id="DKB10008m-125">
        <head>
         <date evidence="year inferenced" when="1899-05-05">
          五月五日
@@ -11952,7 +11952,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-126">
+      <div subtype="date=1899-05-06" type="diary-entry" xml:id="DKB10008m-126">
        <head>
         <date evidence="year inferenced" when="1899-05-06">
          五月六日
@@ -11962,7 +11962,7 @@
         晴、朝、京坂鉄道会社創立委員会ヲ開ク、渡辺嘉一、佐分利一嗣、河村隆実、林策一郎氏等来会ス、霍原定吉氏来《（鶴原定吉氏）》ル、横浜時計商ブルラル商会支配人来ル、浅野総一郎氏来ル、浦賀船渠ノ事ヲ談ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-127">
+      <div subtype="date=1899-05-07" type="diary-entry" xml:id="DKB10008m-127">
        <head>
         <date evidence="year inferenced" when="1899-05-07">
          五月七日
@@ -11972,7 +11972,7 @@
         晴、朝揮毫ヲ試ム、入沢達吉氏来ル、此日終日外出セス、宅ニ在テ事務ヲ調査ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-128">
+      <div subtype="date=1899-05-08" type="diary-entry" xml:id="DKB10008m-128">
        <head>
         <date evidence="year inferenced" when="1899-05-08">
          五月八日
@@ -12002,7 +12002,7 @@
         帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-129">
+      <div subtype="date=1899-05-09" type="diary-entry" xml:id="DKB10008m-129">
        <head>
         <date evidence="year inferenced" when="1899-05-09">
          五月九日
@@ -12024,7 +12024,7 @@
         浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-130">
+      <div subtype="date=1899-05-10" type="diary-entry" xml:id="DKB10008m-130">
        <head>
         <date evidence="year inferenced" when="1899-05-10">
          五月十日
@@ -12050,7 +12050,7 @@
         過兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-131">
+      <div subtype="date=1899-05-11" type="diary-entry" xml:id="DKB10008m-131">
        <head>
         <date evidence="year inferenced" when="1899-05-11">
          五月十一日
@@ -12072,7 +12072,7 @@
         過散会、此夜深川ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-132">
+      <div subtype="date=1899-05-12" type="diary-entry" xml:id="DKB10008m-132">
        <head>
         <date evidence="year inferenced" when="1899-05-12">
          五月十二日
@@ -12102,7 +12102,7 @@
         頃兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-133">
+      <div subtype="date=1899-05-13" type="diary-entry" xml:id="DKB10008m-133">
        <head>
         <date evidence="year inferenced" when="1899-05-13">
          五月十三日
@@ -12124,7 +12124,7 @@
         猿楽町皆川四郎氏ヲ訪フ、此夜皆川氏ニ一泊ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-134">
+      <div subtype="date=1899-05-14" type="diary-entry" xml:id="DKB10008m-134">
        <head>
         <date evidence="year inferenced" when="1899-05-14">
          五月十四日
@@ -12142,7 +12142,7 @@
         散会ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-135">
+      <div subtype="date=1899-05-15" type="diary-entry" xml:id="DKB10008m-135">
        <head>
         <date evidence="year inferenced" when="1899-05-15">
          五月十五日
@@ -12176,7 +12176,7 @@
         浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-136">
+      <div subtype="date=1899-05-16" type="diary-entry" xml:id="DKB10008m-136">
        <head>
         <date evidence="year inferenced" when="1899-05-16">
          五月十六日
@@ -12202,7 +12202,7 @@
         帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-137">
+      <div subtype="date=1899-05-17" type="diary-entry" xml:id="DKB10008m-137">
        <head>
         <date evidence="year inferenced" when="1899-05-17">
          五月十七日
@@ -12216,7 +12216,7 @@
         過兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-138">
+      <div subtype="date=1899-05-18" type="diary-entry" xml:id="DKB10008m-138">
        <head>
         <date evidence="year inferenced" when="1899-05-18">
          五月十八日
@@ -12242,7 +12242,7 @@
         浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-139">
+      <div subtype="date=1899-05-19" type="diary-entry" xml:id="DKB10008m-139">
        <head>
         <date evidence="year inferenced" when="1899-05-19">
          五月十九日
@@ -12276,7 +12276,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-140">
+      <div subtype="date=1899-05-20" type="diary-entry" xml:id="DKB10008m-140">
        <head>
         <date evidence="year inferenced" when="1899-05-20">
          五月二十日
@@ -12310,7 +12310,7 @@
         頃成田ニ着シ、新照館ニ投宿ス、此日大倉喜八郎氏夫妻モ同行ス、汽車中及各所ニ於テ総武、成田両鉄道会社々員頗ル款待セラル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-141">
+      <div subtype="date=1899-05-21" type="diary-entry" xml:id="DKB10008m-141">
        <head>
         <date evidence="year inferenced" when="1899-05-21">
          五月廿一日
@@ -12336,7 +12336,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-142">
+      <div subtype="date=1899-05-22" type="diary-entry" xml:id="DKB10008m-142">
        <head>
         <date evidence="year inferenced" when="1899-05-22">
          五月廿二日
@@ -12355,7 +12355,7 @@
                                 ★★B1089★
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-143">
+      <div subtype="date=1899-05-23" type="diary-entry" xml:id="DKB10008m-143">
        <head>
         <date evidence="year inferenced" when="1899-05-23">
          五月廿三日
@@ -12389,7 +12389,7 @@
         散会ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-144">
+      <div subtype="date=1899-05-24" type="diary-entry" xml:id="DKB10008m-144">
        <head>
         <date evidence="year inferenced" when="1899-05-24">
          五月廿四日
@@ -12419,7 +12419,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-145">
+      <div subtype="date=1899-05-25" type="diary-entry" xml:id="DKB10008m-145">
        <head>
         <date evidence="year inferenced" when="1899-05-25">
          五月廿五日
@@ -12449,7 +12449,7 @@
         浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-146">
+      <div subtype="date=1899-05-26" type="diary-entry" xml:id="DKB10008m-146">
        <head>
         <date evidence="year inferenced" when="1899-05-26">
          五月廿六日
@@ -12467,7 +12467,7 @@
         散会ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-147">
+      <div subtype="date=1899-05-27" type="diary-entry" xml:id="DKB10008m-147">
        <head>
         <date evidence="year inferenced" when="1899-05-27">
          五月廿七日
@@ -12481,7 +12481,7 @@
         散会ス、曩ニ博文館ヨリ依頼セラレタル一身ノ経歴談話ノ筆記ハ、此日ヲ以テ修正シテ之ヲ返付ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-148">
+      <div subtype="date=1899-05-28" type="diary-entry" xml:id="DKB10008m-148">
        <head>
         <date evidence="year inferenced" when="1899-05-28">
          五月廿八日
@@ -12511,7 +12511,7 @@
         散会ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-149">
+      <div subtype="date=1899-05-29" type="diary-entry" xml:id="DKB10008m-149">
        <head>
         <date evidence="year inferenced" when="1899-05-29">
          五月廿九日
@@ -12549,7 +12549,7 @@
         帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-150">
+      <div subtype="date=1899-05-30" type="diary-entry" xml:id="DKB10008m-150">
        <head>
         <date evidence="year inferenced" when="1899-05-30">
          五月三十日
@@ -12560,7 +12560,7 @@
                                 此日、築地瓢屋ニテ催ス処ノ若松築港会社集会ハ、病ノ為謝絶ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-151">
+      <div subtype="date=1899-05-31" type="diary-entry" xml:id="DKB10008m-151">
        <head>
         <date evidence="year inferenced" when="1899-05-31">
          五月三十一日
@@ -12570,7 +12570,7 @@
         曇、風邪気尚未タ愈ヘス兜町宅ニ於テ養痾ス、故ニ来人ヲ謝絶セシヲ以テ記事ナシ、此日日本郵船会社ノ重役《（会脱カ）》アレトモ病ヲ以テ出席セス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB100008m-152">
+      <div subtype="date=1899-06-01" type="diary-entry" xml:id="DKB100008m-152">
        <head>
         <date evidence="year inferenced" when="1899-06-01">
          六月一日
@@ -12588,7 +12588,7 @@
         大倉氏来リテ内事ヲ話ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-153">
+      <div subtype="date=1899-06-02" type="diary-entry" xml:id="DKB10008m-153">
        <head>
         <date evidence="year inferenced" when="1899-06-02">
          六月二日
@@ -12606,7 +12606,7 @@
         浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB100008m-154">
+      <div subtype="date=1899-06-03" type="diary-entry" xml:id="DKB100008m-154">
        <head>
         <date evidence="year inferenced" when="1899-06-03">
          六月三日
@@ -12620,7 +12620,7 @@
         紅葉館ニ於テ石川島造船所ノ為ニ開キタル宴会ニ出席ス、此夕方ヨリ大風雨夜ニ入テ殊ニ烈シ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-155">
+      <div subtype="date=1899-06-04" type="diary-entry" xml:id="DKB10008m-155">
        <head>
         <date evidence="year inferenced" when="1899-06-04">
          六月四日
@@ -12634,7 +12634,7 @@
         麻布寺院ニ抵リテ伊藤亡岳母ノ墓参ヲ為ス、更ニ猿楽町皆川宅ニ於テ開ク処ノ百日ノ忌宴ニ列ス、此夜皆川氏ニ一泊ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-156">
+      <div subtype="date=1899-06-05" type="diary-entry" xml:id="DKB10008m-156">
        <head>
         <date evidence="year inferenced" when="1899-06-05">
          六月五日
@@ -12644,7 +12644,7 @@
         晴、此日事務少キヲ以テ皆川氏宅ニ於休養ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-157">
+      <div subtype="date=1899-06-06" type="diary-entry" xml:id="DKB10008m-157">
        <head>
         <date evidence="year inferenced" when="1899-06-06">
          六月六日
@@ -12654,7 +12654,7 @@
         晴、此日モ皆川氏宅ニ終日ヲ費ス、兜町宅ヨリ送来スル来信ニ関スル事務ヲ処理ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-158">
+      <div subtype="date=1899-06-07" type="diary-entry" xml:id="DKB10008m-158">
        <head>
         <date evidence="year inferenced" when="1899-06-07">
          六月七日
@@ -12664,7 +12664,7 @@
         晴、朝、石川島造船所沿革ノ草案ノ《（ヲ）》閲覧シテ之ヲ修正シ梅浦氏ニ送付ス、梅浦氏来リテ浦賀船渠開業式ニ関スル要件ヲ談話ス、此日郵船会社重役会当日ナレトモ多事ノ為出席ヲ得ス、依テ電話ニテ之ヲ謝絶ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-159">
+      <div subtype="date=1899-06-08" type="diary-entry" xml:id="DKB10008m-159">
        <head>
         <date evidence="year inferenced" when="1899-06-08">
          六月八日
@@ -12686,7 +12686,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-160">
+      <div subtype="date=1899-06-09" type="diary-entry" xml:id="DKB10008m-160">
        <head>
         <date evidence="year inferenced" when="1899-06-09">
          六月九日
@@ -12712,7 +12712,7 @@
         浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-161">
+      <div subtype="date=1899-06-10" type="diary-entry" xml:id="DKB10008m-161">
        <head>
         <date evidence="year inferenced" when="1899-06-10">
          六月十日
@@ -12734,7 +12734,7 @@
         帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-162">
+      <div subtype="date=1899-06-11" type="diary-entry" xml:id="DKB10008m-162">
        <head>
         <date evidence="year inferenced" when="1899-06-11">
          六月十一日
@@ -12776,7 +12776,7 @@
         過帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-163">
+      <div subtype="date=1899-06-12" type="diary-entry" xml:id="DKB10008m-163">
        <head>
         <date evidence="year inferenced" when="1899-06-12">
          六月十二日
@@ -12798,7 +12798,7 @@
         散会ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-164">
+      <div subtype="date=1899-06-13" type="diary-entry" xml:id="DKB10008m-164">
        <head>
         <date evidence="year inferenced" when="1899-06-13">
          六月十三日
@@ -12812,7 +12812,7 @@
         過葵町大倉氏ヲ訪フテ内事ヲ話ス、此夜深川宅ニ鷗盟会常議員会ヲ開ク、畢テ深川ニ一泊ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-165">
+      <div subtype="date=1899-06-14" type="diary-entry" xml:id="DKB10008m-165">
        <head>
         <date evidence="year inferenced" when="1899-06-14">
          六月十四日
@@ -12826,7 +12826,7 @@
         林権助氏、佐々木、土岐両氏来リ韓国銀行談貨幣其他ノ事ヲ談話ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-166">
+      <div subtype="date=1899-06-15" type="diary-entry" xml:id="DKB10008m-166">
        <head>
         <date evidence="year inferenced" when="1899-06-15">
          六月十五日
@@ -12844,7 +12844,7 @@
         帰宅、更ニ松方大蔵大臣邸ニ開キタル台湾銀行懇親会ニ列ス、一場ノ演説ヲ為ス、此夜浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-167">
+      <div subtype="date=1899-06-16" type="diary-entry" xml:id="DKB10008m-167">
        <head>
         <date evidence="year inferenced" when="1899-06-16">
          六月十六日
@@ -12870,7 +12870,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-168">
+      <div subtype="date=1899-06-17" type="diary-entry" xml:id="DKB10008m-168">
        <head>
         <date evidence="year inferenced" when="1899-06-17">
          六月十七日
@@ -12884,7 +12884,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-169">
+      <div subtype="date=1899-06-18" type="diary-entry" xml:id="DKB10008m-169">
        <head>
         <date evidence="year inferenced" when="1899-06-18">
          六月十八日
@@ -12902,7 +12902,7 @@
         帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-170">
+      <div subtype="date=1899-06-19" type="diary-entry" xml:id="DKB10008m-170">
        <head>
         <date evidence="year inferenced" when="1899-06-19">
          六月十九日
@@ -12920,7 +12920,7 @@
         帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-171">
+      <div subtype="date=1899-06-20" type="diary-entry" xml:id="DKB10008m-171">
        <head>
         <date evidence="year inferenced" when="1899-06-20">
          六月二十日
@@ -12934,7 +12934,7 @@
         浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-172">
+      <div subtype="date=1899-06-21" type="diary-entry" xml:id="DKB10008m-172">
        <head>
         <date evidence="year inferenced" when="1899-06-21">
          六月廿一日
@@ -12944,7 +12944,7 @@
         雨、午前横浜五品、四品、米、塩取引所ノ人々来会ス、蓋シ浅田知事ノ委嘱ニ依テ其合併談ヲ試ル為メナリ、此日ハ風邪気ニテ午後平臥ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-173">
+      <div subtype="date=1899-06-22" type="diary-entry" xml:id="DKB10008m-173">
        <head>
         <date evidence="year inferenced" when="1899-06-22">
          六月廿二日
@@ -12954,7 +12954,7 @@
         雨、此日モ病気ノ為、終日褥中ニ在テ読書又ハ書類ヲ調査ス、函樽鉄道会社集会ノ約アリシモ、病ノ為ニ出席ヲ謝絶ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-174">
+      <div subtype="date=1899-06-23" type="diary-entry" xml:id="DKB10008m-174">
        <head>
         <date evidence="year inferenced" when="1899-06-23">
          六月廿三日
@@ -12964,7 +12964,7 @@
         曇、此日モ風邪全愈ニ至ラサル為メ、在宅保養ス、書類調査又ハ書状等ヲ裁ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-175">
+      <div subtype="date=1899-06-24" type="diary-entry" xml:id="DKB10008m-175">
        <head>
         <date evidence="year inferenced" when="1899-06-24">
          六月廿四日
@@ -13006,7 +13006,7 @@
         過寝ニ就ク
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-176">
+      <div subtype="date=1899-06-25" type="diary-entry" xml:id="DKB10008m-176">
        <head>
         <date evidence="year inferenced" when="1899-06-25">
          六月廿五日
@@ -13034,7 +13034,7 @@
                                 　　咲もあへす夜半のあらしに花ちりて香をとゝめぬる梅園の里
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-177">
+      <div subtype="date=1899-06-26" type="diary-entry" xml:id="DKB10008m-177">
        <head>
         <date evidence="year inferenced" when="1899-06-26">
          六月廿六日
@@ -13057,7 +13057,7 @@
                                 此日拓殖銀行設立委員会ヲ大蔵省ニ開クニヨリ、出席ノ事ヲ通知セラレシモ多忙ヲ以テ謝絶ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-178">
+      <div subtype="date=1899-06-27" type="diary-entry" xml:id="DKB10008m-178">
        <head>
         <date evidence="year inferenced" when="1899-06-27">
          六月廿七日
@@ -13099,7 +13099,7 @@
         帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-179">
+      <div subtype="date=1899-06-28" type="diary-entry" xml:id="DKB10008m-179">
        <head>
         <date evidence="year inferenced" when="1899-06-28">
          六月廿八日
@@ -13121,7 +13121,7 @@
         帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-180">
+      <div subtype="date=1899-06-29" type="diary-entry" xml:id="DKB10008m-180">
        <head>
         <date evidence="year inferenced" when="1899-06-29">
          六月廿九日
@@ -13140,7 +13140,7 @@
                                 此日三井高保氏ヘ家憲ノ草案ヲ送付シテ異見ナキ事ヲ申告ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-181">
+      <div subtype="date=1899-06-30" type="diary-entry" xml:id="DKB10008m-181">
        <head>
         <date evidence="year inferenced" when="1899-06-30">
          六月三十日
@@ -13170,7 +13170,7 @@
         帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-182">
+      <div subtype="date=1899-07-01" type="diary-entry" xml:id="DKB10008m-182">
        <head>
         <date evidence="year inferenced" when="1899-07-01">
          七月一日
@@ -13180,7 +13180,7 @@
         曇、朝数多ノ来人アリ、午後銀行ニ出勤シテ事務ヲ視ル、浅野総一郎ノ請求ニ係ル韓国鉱業視察ニ付斎藤、石井派出ノ為書状ヲ裁ス、此日商業学校卒業生米田、鈴木両人ニ面話ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-183">
+      <div subtype="date=1899-07-02" type="diary-entry" xml:id="DKB10008m-183">
        <head>
         <date evidence="year inferenced" when="1899-07-02">
          七月二日
@@ -13198,7 +13198,7 @@
         穂積、阪谷、篤二夫妻悉ク来ル、欧米行ニ関スル注意ノ件々ヲ書面ニテ篤二ニ示ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-184">
+      <div subtype="date=1899-07-03" type="diary-entry" xml:id="DKB10008m-184">
        <head>
         <date evidence="year inferenced" when="1899-07-03">
          七月三日
@@ -13216,7 +13216,7 @@
         過大坂ニ着ス、大坂支配店支配人田中元三郎《（衍）》、伊藤与七、中川浅七等来リ迎フ、停車場附近ナル伝法屋ニ投宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-185">
+      <div subtype="date=1899-07-04" type="diary-entry" xml:id="DKB10008m-185">
        <head>
         <date evidence="year inferenced" when="1899-07-04">
          七月四日
@@ -13238,7 +13238,7 @@
         高麗橋通リ第一銀行支店ニ抵リ田中、熊谷、伊藤等ト共ニ店員一同ヲ会シテ店務ニ関スル心得方トシテ要件二三ヲ説示ス、畢テ伝法屋ニ帰宿シ、熊谷、田中、伊藤、辻川、中川浅七等ノ諸氏ト伝法屋ニ会食ス、種々ノ事務ヲ談話ス、夜、汽車製造会社々長ノ演説原稿ヲ草ス、此夕磯野小右衛門、大森敏寛両氏来話ス、此夕首藤氏ヨリ富田屋ニ案内アリシモ多忙ニ付謝絶ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-186">
+      <div subtype="date=1899-07-05" type="diary-entry" xml:id="DKB10008m-186">
        <head>
         <date evidence="year inferenced" when="1899-07-05">
          七月五日
@@ -13284,7 +13284,7 @@
         ノ汽車ニ搭シテ西京ニ抵リ、鴨涯井作ノ家ニ投宿ス、此夜中川京都支店支配人及佐田、竹川ノ三氏来訪ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-187">
+      <div subtype="date=1899-07-06" type="diary-entry" xml:id="DKB10008m-187">
        <head>
         <date evidence="year inferenced" when="1899-07-06">
          七月六日
@@ -13302,7 +13302,7 @@
         頃名古屋ニテ伊藤伝七氏、真野愛三郎両氏車中ニ来話ス、湯浅名古屋支店長来話ス、此夜ハ通シ汽車ニテ函嶺ヲ越ヘ小山ニ抵リテ天明ニ達ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-188">
+      <div subtype="date=1899-07-07" type="diary-entry" xml:id="DKB10008m-188">
        <head>
         <date evidence="year inferenced" when="1899-07-07">
          七月七日
@@ -13332,7 +13332,7 @@
         帰京ス、帰宅後第一銀行ニ出勤シテ事務ヲ視ル、此夕留守中ノ用事ノ報告ヲ受ケ、大坂西京ノ諸氏（熊谷、田中、山辺、不二樹）ニ書状ヲ発ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-189">
+      <div subtype="date=1899-07-08" type="diary-entry" xml:id="DKB10008m-189">
        <head>
         <date evidence="year inferenced" when="1899-07-08">
          七月八日
@@ -13350,7 +13350,7 @@
         過深川邸ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-190">
+      <div subtype="date=1899-07-09" type="diary-entry" xml:id="DKB10008m-190">
        <head>
         <date evidence="year inferenced" when="1899-07-09">
          七月九日
@@ -13372,7 +13372,7 @@
         浜町宅ヘ帰宿ス、此日俄ニ冷気ナルヲ以テ夜中ヨリ感冒ノ気アリテ寝ニ就ク
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-191">
+      <div subtype="date=1899-07-10" type="diary-entry" xml:id="DKB10008m-191">
        <head>
         <date evidence="year inferenced" when="1899-07-10">
          七月十日
@@ -13382,7 +13382,7 @@
         雨、此日ハ京釜鉄道ニ関シ委員会ヲ開クノ約アリシモ、病ノ為出席ヲ得サルニ付書ヲ送テ之ヲ謝ス、又東京商業会議所役員会ノ約アリシモ同シク謝絶ス、夜帝国ホテルニ於テ児玉総督歓迎ノ会アリシモ欠席ス此夜急症ニ喘息ヲ発シテ夜中殊ニ煩悶ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-192">
+      <div subtype="date=1899-07-11" type="diary-entry" xml:id="DKB10008m-192">
        <head>
         <date evidence="year inferenced" when="1899-07-11">
          七月十一日
@@ -13393,7 +13393,7 @@
                                 曇、此日モ喘息未タ愈ヘス、依テ浜町宅ニ療養ス、統計協会ノ発会ニ付阪谷ヨリ案内アリタレトモ、書面ヲ以テ欠席ノ事ヲ通知ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-193">
+      <div subtype="date=1899-07-12" type="diary-entry" xml:id="DKB10008m-193">
        <head>
         <date evidence="year inferenced" when="1899-07-12">
          七月十二日
@@ -13403,7 +13403,7 @@
         晴、此日ハ病大ニ快方セシモ尚出務ヲ得ス、夕方兜町邸ニ帰リテ更ニ治療ヲ加フ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-194">
+      <div subtype="date=1899-07-13" type="diary-entry" xml:id="DKB10008m-194">
        <head>
         <date evidence="year inferenced" when="1899-07-13">
          七月十三日
@@ -13413,7 +13413,7 @@
         曇、此日ハ喘息稍愈ユルヲ以テ朝来数多ノ来人ニ接シ、午後銀行ニ於テ重役会ヲ開ク、夜兜町ニ帰宿ス、此日京釜鉄道ニ関シ山県総理大臣邸ニ会同ノ事アリシモ、時間差支ユルヲ以テ出席セス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-195">
+      <div subtype="date=1899-07-14" type="diary-entry" xml:id="DKB10008m-195">
        <head>
         <date evidence="year inferenced" when="1899-07-14">
          七月十四日
@@ -13427,7 +13427,7 @@
         過帰宅、佐々木清麿来リ京城学堂ノ事ヲ談ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-196">
+      <div subtype="date=1899-07-15" type="diary-entry" xml:id="DKB10008m-196">
        <head>
         <date evidence="year inferenced" when="1899-07-15">
          七月十五日
@@ -13446,7 +13446,7 @@
         ノ夕ニハ銀行集会所会同ノ約アリシモ、差支アリテ欠席ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-197">
+      <div subtype="date=1899-07-16" type="diary-entry" xml:id="DKB10008m-197">
        <head>
         <date evidence="year inferenced" when="1899-07-16">
          七月十六日
@@ -13456,7 +13456,7 @@
         曇、朝来二三ノ来客ニ接ス、曾テ市原盛宏ヨリ托セラレタル簿記法ニ関スル書籍ノ題字ヲ揮毫ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-198">
+      <div subtype="date=1899-07-17" type="diary-entry" xml:id="DKB10008m-198">
        <head>
         <date evidence="year inferenced" when="1899-07-17">
          七月十七日
@@ -13466,7 +13466,7 @@
         曇、午前海上保険会社ノ重役会ニ列ス、午後東京瓦斯会社ニテ重役会ヲ開キ、更ニ青年会館ニ於テ株主総会ヲ開ク、議長トナリテ諸事ヲ議決ス、夕方向島八百松楼ニテ清水満之助招宴ニ列ス、夜浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-199">
+      <div subtype="date=1899-07-18" type="diary-entry" xml:id="DKB10008m-199">
        <head>
         <date evidence="year inferenced" when="1899-07-18">
          七月十八日
@@ -13480,7 +13480,7 @@
         過散会ス、此夜兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-200">
+      <div subtype="date=1899-07-19" type="diary-entry" xml:id="DKB10008m-200">
        <head>
         <date evidence="year inferenced" when="1899-07-19">
          七月十九日
@@ -13494,7 +13494,7 @@
         過散会ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-201">
+      <div subtype="date=1899-07-20" type="diary-entry" xml:id="DKB10008m-201">
        <head>
         <date evidence="year inferenced" when="1899-07-20">
          七月二十日
@@ -13513,7 +13513,7 @@
                                 ★★B1097★
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-202">
+      <div subtype="date=1899-07-21" type="diary-entry" xml:id="DKB10008m-202">
        <head>
         <date evidence="year inferenced" when="1899-07-21">
          七月二十一日
@@ -13535,7 +13535,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-203">
+      <div subtype="date=1899-07-22" type="diary-entry" xml:id="DKB10008m-203">
        <head>
         <date evidence="year inferenced" when="1899-07-22">
          七月二十二日
@@ -13553,7 +13553,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-204">
+      <div subtype="date=1899-07-23" type="diary-entry" xml:id="DKB10008m-204">
        <head>
         <date evidence="year inferenced" when="1899-07-23">
          七月廿三日
@@ -13571,7 +13571,7 @@
         浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-205">
+      <div subtype="date=1899-07-24" type="diary-entry" xml:id="DKB10008m-205">
        <head>
         <date evidence="year inferenced" when="1899-07-24">
          七月廿四日
@@ -13589,7 +13589,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-206">
+      <div subtype="date=1899-07-25" type="diary-entry" xml:id="DKB10008m-206">
        <head>
         <date evidence="year inferenced" when="1899-07-25">
          七月廿五日
@@ -13611,7 +13611,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-207">
+      <div subtype="date=1899-07-26" type="diary-entry" xml:id="DKB10008m-207">
        <head>
         <date evidence="year inferenced" when="1899-07-26">
          七月廿六日
@@ -13637,7 +13637,7 @@
         過兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-208">
+      <div subtype="date=1899-07-27" type="diary-entry" xml:id="DKB10008m-208">
        <head>
         <date evidence="year inferenced" when="1899-07-27">
          七月廿七日
@@ -13659,7 +13659,7 @@
         散宴ス、此日東京府知事、警視総監ヨリ条約実施祝賀ノ事ニ付テ、東京府ニ会話ノ事ヲ通シ来ル、依テ相会シテ種々ノ協議アリシモ決定ニ至ラサリキ、夜深川邸ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-209">
+      <div subtype="date=1899-07-28" type="diary-entry" xml:id="DKB10008m-209">
        <head>
         <date evidence="year inferenced" when="1899-07-28">
          七月廿八日
@@ -13689,7 +13689,7 @@
         柳橋升田屋ニ抵ル、此夜浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-210">
+      <div subtype="date=1899-07-29" type="diary-entry" xml:id="DKB10008m-210">
        <head>
         <date evidence="year inferenced" when="1899-07-29">
          七月廿九日
@@ -13707,7 +13707,7 @@
         偕楽園ニ於テ帽子会社ノ総会ヲ開ク、益田克徳、馬越恭平、堀江助保、早速鎮蔵、土肥脩策ノ諸氏ト会ス、畢テ浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-211">
+      <div subtype="date=1899-07-30" type="diary-entry" xml:id="DKB10008m-211">
        <head>
         <date evidence="year inferenced" when="1899-07-30">
          七月三十日
@@ -13721,7 +13721,7 @@
         兜町ニ帰ル、此日ハ同族会当日ニテ親戚来集ス、会議畢テ筑前琵琶ヲ聴ク
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-212">
+      <div subtype="date=1899-07-31" type="diary-entry" xml:id="DKB10008m-212">
        <head>
         <date evidence="year inferenced" when="1899-07-31">
          七月三十一日
@@ -13731,7 +13731,7 @@
         朝来、数多ノ来人ニ接ス、午後銀行ニ於テ事務ヲ視ル、東京府知事ヨリ電話ニヨリテ府庁ニ出頭シテ条約改正祝賀ノ事ヲ談ス、夕方兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-213">
+      <div subtype="date=1899-08-01" type="diary-entry" xml:id="DKB10008m-213">
        <head>
         <date evidence="year inferenced" when="1899-08-01">
          八月一日
@@ -13745,7 +13745,7 @@
         日本倶楽部ニ於テ女学館ノ将来ニ付テ協議ス土方伯、外山正一、増島六一郎、富田鉄之助、神田乃武及西田敬止来会ス、此夜梅浦氏木挽町ノ宅ヲ訪フテ一宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-214">
+      <div subtype="date=1899-08-02" type="diary-entry" xml:id="DKB10008m-214">
        <head>
         <date evidence="year inferenced" when="1899-08-02">
          八月二日
@@ -13755,7 +13755,7 @@
         晴、此日ハ梅浦氏宅ニテ雑話シ、夕方兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-215">
+      <div subtype="date=1899-08-03" type="diary-entry" xml:id="DKB10008m-215">
        <head>
         <date evidence="year inferenced" when="1899-08-03">
          八月三日
@@ -13769,7 +13769,7 @@
         過浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-216">
+      <div subtype="date=1899-08-04" type="diary-entry" xml:id="DKB10008m-216">
        <head>
         <date evidence="year inferenced" when="1899-08-04">
          八月四日
@@ -13783,7 +13783,7 @@
         日本鉄道会社重役会ニ列ス、此日ハ横浜中華商業会議所ナルモノヨリ招宴アリシモ差支アリタレハ謝絶ス、仲田慶三郎来リテ札幌麦酒会社分工場ノ事ヲ談ス、夕方兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-217">
+      <div subtype="date=1899-08-05" type="diary-entry" xml:id="DKB10008m-217">
        <head>
         <date evidence="year inferenced" when="1899-08-05">
          八月五日
@@ -13801,7 +13801,7 @@
         過帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-218">
+      <div subtype="date=1899-08-06" type="diary-entry" xml:id="DKB10008m-218">
        <head>
         <date evidence="year inferenced" when="1899-08-06">
          八月六日
@@ -13831,7 +13831,7 @@
         出京シテ再議スヘキ事ヲ約シテ帰ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-219">
+      <div subtype="date=1899-08-07" type="diary-entry" xml:id="DKB10008m-219">
        <head>
         <date evidence="year inferenced" when="1899-08-07">
          八月七日
@@ -13841,7 +13841,7 @@
         曇、昨夜ヨリ少シク冷気ヲ覚フ、朝来微風毫モ苦熱ノ想ナシ、曾テ成瀬仁蔵ヨリ依頼セラレタル女子大学設立ニ係ル費途ノ醵金募集ニ関シ東京市商業者間ヘノ依頼状ヲ裁ス、午後酒匂川流末ノ海瀕《（浜）》ニテ海水ニ★★B1099★浴ス、浴後読書又ハ遊戯ニ消閑ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-220">
+      <div subtype="date=1899-08-08" type="diary-entry" xml:id="DKB10008m-220">
        <head>
         <date evidence="year inferenced" when="1899-08-08">
          八月八日
@@ -13879,7 +13879,7 @@
         第一銀行ニ出勤ス、此夜浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-221">
+      <div subtype="date=1899-08-09" type="diary-entry" xml:id="DKB10008m-221">
        <head>
         <date evidence="year inferenced" when="1899-08-09">
          八月九日
@@ -13897,7 +13897,7 @@
         浜町ニ帰宿ス、酒匂ニハ赤痢病流行ノ趣来報アリシニ付、大磯ニ転居ノ積ヲ以テ戸田ヲ酒匂ニ遣シ其事ヲ通知セシム
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-222">
+      <div subtype="date=1899-08-10" type="diary-entry" xml:id="DKB10008m-222">
        <head>
         <date evidence="year inferenced" when="1899-08-10">
          八月十日
@@ -13911,7 +13911,7 @@
         ノ汽車ニ搭シテ大磯ニ抵リ禱竜館ニ投宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-223">
+      <div subtype="date=1899-08-11" type="diary-entry" xml:id="DKB10008m-223">
        <head>
         <date evidence="year inferenced" when="1899-08-11">
          八月十一日
@@ -13921,7 +13921,7 @@
         晴、此日ハ東京ニ於テ石川島造船所株主総会アリシモ、朝来風邪気ナリシヲ以テ、書状ヲ以テ梅浦氏ニ通シテ出席ヲ謝ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-224">
+      <div subtype="date=1899-08-12" type="diary-entry" xml:id="DKB10008m-224">
        <head>
         <date evidence="year inferenced" when="1899-08-12">
          八月十二日
@@ -13931,7 +13931,7 @@
         晴、此日伊藤侯爵浦賀船渠一覧セラルヽ旨ヲ梅浦氏ヨリ報シ来レトモ不快ナリシヲ以テ之ヲ謝絶ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-225">
+      <div subtype="date=1899-08-13" type="diary-entry" xml:id="DKB10008m-225">
        <head>
         <date evidence="year inferenced" when="1899-08-13">
          八月十三日
@@ -13941,7 +13941,7 @@
         晴、風邪平愈セシヲ以テ海水ニ浴シ諸方散歩ス、終日読書遊戯ニ消閑ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-226">
+      <div subtype="date=1899-08-13" type="diary-entry" xml:id="DKB10008m-226">
        <head>
         <date evidence="year inferenced" when="1899-08-13">
          八月十三日
@@ -13955,7 +13955,7 @@
         ハ日付、記事共ニ重複セリ。
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-227">
+      <div subtype="date=1899-08-14" type="diary-entry" xml:id="DKB10008m-227">
        <head>
         <date evidence="year inferenced" when="1899-08-14">
          八月十四日
@@ -13965,7 +13965,7 @@
         晴、朝、伊藤侯ヲ訪フ、不在ニテ逢フヲ得ス、大隈伯ヲ訪フテ京釜鉄道ノ事、女子学校ノ事等ヲ談話ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-228">
+      <div subtype="date=1899-08-15" type="diary-entry" xml:id="DKB10008m-228">
        <head>
         <date evidence="year inferenced" when="1899-08-15">
          八月十五日
@@ -13991,7 +13991,7 @@
         浜町ニ帰宿ス、此日汽車中ニテ今村清之助、松本重太郎ニ面会シテ九★★B1100★州鉄道会社ノ事ヲ談ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-229">
+      <div subtype="date=1899-08-16" type="diary-entry" xml:id="DKB10008m-229">
        <head>
         <date evidence="year inferenced" when="1899-08-16">
          八月十六日
@@ -14013,7 +14013,7 @@
         過大磯ニ着ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-230">
+      <div subtype="date=1899-08-17" type="diary-entry" xml:id="DKB10008m-230">
        <head>
         <date evidence="year inferenced" when="1899-08-17">
          八月十七日
@@ -14023,7 +14023,7 @@
         晴、読書遊戯等ニテ終日記事ナシ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-231">
+      <div subtype="date=1899-08-18" type="diary-entry" xml:id="DKB10008m-231">
        <head>
         <date evidence="year inferenced" when="1899-08-18">
          八月十八日
@@ -14045,7 +14045,7 @@
         大磯ニ帰ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-232">
+      <div subtype="date=1899-08-19" type="diary-entry" xml:id="DKB10008m-232">
        <head>
         <date evidence="year inferenced" when="1899-08-19">
          八月十九日
@@ -14055,7 +14055,7 @@
         晴、読書遊戯ニテ終日記事ナシ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-233">
+      <div subtype="date=1899-08-20" type="diary-entry" xml:id="DKB10008m-233">
        <head>
         <date evidence="year inferenced" when="1899-08-20">
          八月二十日
@@ -14065,7 +14065,7 @@
         晴、朝、竹山純平来ル、午後市原盛宏、志立鉄次郎来ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-234">
+      <div subtype="date=1899-08-21" type="diary-entry" xml:id="DKB10008m-234">
        <head>
         <date evidence="year inferenced" when="1899-08-21">
          八月二十一日
@@ -14075,7 +14075,7 @@
         晴、午前伊藤侯ヲ訪フ、種々ノ要務ヲ話ス、山本達雄来リ会ス、東京銀行ノ諸員ニ書状ヲ発ス、韓国足立太郎、西脇長太郎、佐々木清麿ヘ書状ヲ郵送ス、午後海水ニ浴シテ後遊戯ニ消光ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-235">
+      <div subtype="date=1899-08-22" type="diary-entry" xml:id="DKB10008m-235">
        <head>
         <date evidence="year inferenced" when="1899-08-22">
          八月二十二日
@@ -14093,7 +14093,7 @@
         ヲ以テ深川別邸ニ小集ヲ開クニ付来会ノ事ヲ請求セラル、依テ其出席ヲ約ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-236">
+      <div subtype="date=1899-08-23" type="diary-entry" xml:id="DKB10008m-236">
        <head>
         <date evidence="year inferenced" when="1899-08-23">
          八月二十三日
@@ -14103,7 +14103,7 @@
         晴、朝来海水浴ヲ為シ、浴後読書又ハ遊戯ニ消閑ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-237">
+      <div subtype="date=1899-08-24" type="diary-entry" xml:id="DKB10008m-237">
        <head>
         <date evidence="year inferenced" when="1899-08-24">
          八月二十四日
@@ -14121,7 +14121,7 @@
         東京着、直ニ深川岩崎氏別邸ニ抵リ九州鉄道ニ関スル株主ノ会合ニ列ス、井上伯、岩崎弥之助及久弥、阿部泰蔵、中上川彦次郎、益田孝、毛利五郎、今村清之助、志立鉄次郎、山崎某、豊川良平等数氏来会ス、夜食後現重役ノ身上ニ関シ及反対者ニ応スル所置ニ関シ種々協議セシモ中上川、益田等ニ充分ノ同意ナキヲ以テ、其要領ヲ得ルニ至ラスシテ散会ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-238">
+      <div subtype="date=1899-08-25" type="diary-entry" xml:id="DKB10008m-238">
        <head>
         <date evidence="year inferenced" when="1899-08-25">
          八月二十五日
@@ -14148,7 +14148,7 @@
                                 帰宿後阪谷芳郎、梅浦精一、小栗倉三郎等ヘ書状ヲ発ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-239">
+      <div subtype="date=1899-08-26" type="diary-entry" xml:id="DKB10008m-239">
        <head>
         <date evidence="year inferenced" when="1899-08-26">
          八月二十六日
@@ -14170,7 +14170,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-240">
+      <div subtype="date=1899-08-27" type="diary-entry" xml:id="DKB10008m-240">
        <head>
         <date evidence="year inferenced" when="1899-08-27">
          八月廿七日
@@ -14188,7 +14188,7 @@
         散会ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-241">
+      <div subtype="date=1899-08-28" type="diary-entry" xml:id="DKB10008m-241">
        <head>
         <date evidence="year inferenced" when="1899-08-28">
          八月廿八日
@@ -14210,7 +14210,7 @@
         深川邸ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-242">
+      <div subtype="date=1899-08-29" type="diary-entry" xml:id="DKB10008m-242">
        <head>
         <date evidence="year inferenced" when="1899-08-29">
          八月廿九日
@@ -14232,7 +14232,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-243">
+      <div subtype="date=1899-08-30" type="diary-entry" xml:id="DKB10008m-243">
        <head>
         <date evidence="year inferenced" when="1899-08-30">
          八月三十日
@@ -14246,7 +14246,7 @@
         浜町ニ帰宿ス、此日ハ紅葉館ニテ、清客劉、慶二氏ノ留別会アリテ案内セラレシモ、遅刻セシヲ以テ書ヲ送テ之ヲ謝絶ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-244">
+      <div subtype="date=1899-08-31" type="diary-entry" xml:id="DKB10008m-244">
        <head>
         <date evidence="year inferenced" when="1899-08-31">
          八月三十一日
@@ -14260,7 +14260,7 @@
         商業会議所ニテ役員会ヲ開ク、夜兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-245">
+      <div subtype="date=1899-09-01" type="diary-entry" xml:id="DKB10008m-245">
        <head>
         <date evidence="year inferenced" when="1899-09-01">
          九月一日
@@ -14274,7 +14274,7 @@
         深川邸ニテ鷗盟会常議員会ヲ開ク
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-246">
+      <div subtype="date=1899-09-02" type="diary-entry" xml:id="DKB10008m-246">
        <head>
         <date evidence="year inferenced" when="1899-09-02">
          九月二日
@@ -14288,7 +14288,7 @@
         過キ北越鉄道会社ニテ帳簿ヲ点検ス、西田敬止来ル、午後外務省ニテ高平次官ニ面会シ米国費府商業大会ノ事ヲ談ス、午後銀行ニ出勤シテ事務ヲ視ル、夜兜町ニ帰宿ス、此夕北海道製麻会社重役会ヲ浜町弥生ニ開ク
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-247">
+      <div subtype="date=1899-09-03" type="diary-entry" xml:id="DKB10008m-247">
        <head>
         <date evidence="year inferenced" when="1899-09-03">
          九月三日
@@ -14298,7 +14298,7 @@
         晴、午前数多ノ来客ニ接ス、午後宅ニ在テ書類ヲ調査ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-248">
+      <div subtype="date=1899-09-04" type="diary-entry" xml:id="DKB10008m-248">
        <head>
         <date evidence="year inferenced" when="1899-09-04">
          九月四日
@@ -14308,7 +14308,7 @@
         ★★B1102★ 晴、此日風邪ニテ平臥ス、商業会議所ニ於テ大谷氏送別会ヲ開キシモ不快ニテ欠席ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-249">
+      <div subtype="date=1899-09-05" type="diary-entry" xml:id="DKB10008m-249">
        <head>
         <date evidence="year inferenced" when="1899-09-05">
          九月五日
@@ -14318,7 +14318,7 @@
         曇、此日モ風邪未快ニ付、褥中ニテ読書遊戯ニ消閑ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-250">
+      <div subtype="date=1899-09-06" type="diary-entry" xml:id="DKB10008m-250">
        <head>
         <date evidence="year inferenced" when="1899-09-06">
          九月六日
@@ -14328,7 +14328,7 @@
         曇、風邪稍愈ユレトモ出勤スル能ハス、宅ニ在テ書類ヲ整理ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-251">
+      <div subtype="date=1899-09-07" type="diary-entry" xml:id="DKB10008m-251">
        <head>
         <date evidence="year inferenced" when="1899-09-07">
          九月七日
@@ -14338,7 +14338,7 @@
         雨、昨来ノ小痾ハ稍快方ナレトモ天気悪ク外出スル能ハサルニ付、宅ニ在テ諸務ヲ調理シ、且来客ニ接ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-252">
+      <div subtype="date=1899-09-08" type="diary-entry" xml:id="DKB10008m-252">
        <head>
         <date evidence="year inferenced" when="1899-09-08">
          九月八日
@@ -14348,7 +14348,7 @@
         小雨、夜ニ入リテ暴風雨ナリシカ夜半ニ至リテ快晴トナル、此日モ天候悪キタメ外出セス、宅ニ在テ事務ヲ視ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-253">
+      <div subtype="date=1899-09-09" type="diary-entry" xml:id="DKB10008m-253">
        <head>
         <date evidence="year inferenced" when="1899-09-09">
          九月九日
@@ -14380,7 +14380,7 @@
         散会、夫ヨリ中島伊平氏ノ宅ニ抵リテ投宿ス、此夜大雨、深更ニ至リテ歇ム
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-254">
+      <div subtype="date=1899-09-10" type="diary-entry" xml:id="DKB10008m-254">
        <head>
         <date evidence="year inferenced" when="1899-09-10">
          九月十日
@@ -14410,7 +14410,7 @@
         過帰京ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-255">
+      <div subtype="date=1899-09-11" type="diary-entry" xml:id="DKB10008m-255">
        <head>
         <date evidence="year inferenced" when="1899-09-11">
          九月十一日
@@ -14424,7 +14424,7 @@
         兜町ニ帰宅ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-256">
+      <div subtype="date=1899-09-12" type="diary-entry" xml:id="DKB10008m-256">
        <head>
         <date evidence="year inferenced" when="1899-09-12">
          九月十二日
@@ -14438,7 +14438,7 @@
         成田銀行重役会ニ参席ス、夜兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-257">
+      <div subtype="date=1899-09-13" type="diary-entry" xml:id="DKB10008m-257">
        <head>
         <date evidence="year inferenced" when="1899-09-13">
          九月十三日
@@ -14452,7 +14452,7 @@
         瓦斯会社重役及中島土木学士来会シテ電気事業ニ付、瓦斯鉄管ニ与フル妨害ノ事ヲ談話ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-258">
+      <div subtype="date=1899-09-14" type="diary-entry" xml:id="DKB10008m-258">
        <head>
         <date evidence="year inferenced" when="1899-09-14">
          九月十四日
@@ -14482,7 +14482,7 @@
         兜町ニ帰宿ス、此夜麻生太吉氏来ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-259">
+      <div subtype="date=1899-09-15" type="diary-entry" xml:id="DKB10008m-259">
        <head>
         <date evidence="year inferenced" when="1899-09-15">
          九月十五日
@@ -14500,7 +14500,7 @@
         築地瓢屋ニテ開会スル九州鉄道会社重役及賛成員ノ会同ニ列シテ調停ノ事ヲ談話ス、此夜浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-260">
+      <div subtype="date=1899-09-16" type="diary-entry" xml:id="DKB10008m-260">
        <head>
         <date evidence="year inferenced" when="1899-09-16">
          九月十六日
@@ -14518,7 +14518,7 @@
         麻生、井上伯ヲ訪フテ前項ノ事ヲ話シ、且其仲裁ノ事ヲ内托ス、午後雨宮再ヒ来リテ今村、麻生ト共ニ仲裁ノ事ヲ都テ無条件ニテ井上伯ニ依頼スル事ニ決セシ旨ヲ告ク、依テ伯ニ電話ヲ発シテ明日麻布ノ邸ニ一同参会ノ事ヲ通ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-261">
+      <div subtype="date=1899-09-17" type="diary-entry" xml:id="DKB10008m-261">
        <head>
         <date evidence="year inferenced" when="1899-09-17">
          九月十七日
@@ -14536,7 +14536,7 @@
         過帰宿ス、此夜、野崎広太、高見亀両氏来ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-262">
+      <div subtype="date=1899-09-18" type="diary-entry" xml:id="DKB10008m-262">
        <head>
         <date evidence="year inferenced" when="1899-09-18">
          九月十八日
@@ -14546,7 +14546,7 @@
         曇、朝来風邪気ナルヲ以テ外出ヲ見合セ、宅ニ在テ来人ニ接シ且文書ヲ調理ス、此日瓢屋ニ九鉄関係ノ人々会合ノ約アレトモ病ノ為ニ出席ヲ謝絶ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-263">
+      <div subtype="date=1899-09-19" type="diary-entry" xml:id="DKB10008m-263">
        <head>
         <date evidence="year inferenced" when="1899-09-19">
          九月十九日
@@ -14556,7 +14556,7 @@
         曇、此日モ風邪全愈セサルニヨリ、家ニ在テ来人ニ接シ且文書ヲ調理ス、益田孝、雨宮敬次郎来ル、岡村輝彦来ル、成田銀行ノ事ヲ話ス、此夜ハ横浜経済会ヨリ演説ヲ依頼サレシモ風邪ノ為ニ辞シテ出席セス渋沢作太郎来ル、村瀬貞吉来ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-264">
+      <div subtype="date=1899-09-20" type="diary-entry" xml:id="DKB10008m-264">
        <head>
         <date evidence="year inferenced" when="1899-09-20">
          九月廿日
@@ -14566,7 +14566,7 @@
         雨、午前辻川新三郎来、織物会社ノ事ヲ談ス、岡村輝彦、村瀬貞吉来リテ成田銀行ノ事ヲ談ス、時事新報記者来リテ経済界ノ意見ヲ詢ハル、増田多郎来ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-265">
+      <div subtype="date=1899-09-21" type="diary-entry" xml:id="DKB10008m-265">
        <head>
         <date evidence="year inferenced" when="1899-09-21">
          九月廿一日
@@ -14576,7 +14576,7 @@
         曇、朝数多ノ来人ニ接ス、午後第一銀行重役会ニ列ス、数項ノ要務ヲ★★B1104★議決ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-266">
+      <div subtype="date=1899-09-22" type="diary-entry" xml:id="DKB10008m-266">
        <head>
         <date evidence="year inferenced" when="1899-09-22">
          九月廿二日
@@ -14594,7 +14594,7 @@
         帰宿
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-267">
+      <div subtype="date=1899-09-23" type="diary-entry" xml:id="DKB10008m-267">
        <head>
         <date evidence="year inferenced" when="1899-09-23">
          九月廿三日
@@ -14604,7 +14604,7 @@
         曇、此日ハ秋季恒例祭《（皇霊）》ナルヲ以テ来人モ少ク終日在宅シテ文書ヲ理ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-268">
+      <div subtype="date=1899-09-24" type="diary-entry" xml:id="DKB10008m-268">
        <head>
         <date evidence="year inferenced" when="1899-09-24">
          九月廿四日
@@ -14614,7 +14614,7 @@
         晴、此日モ日曜日ナルヲ以テ終日外出セス、家ニ在テ客ニ接シ、又ハ文書ヲ整理ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-269">
+      <div subtype="date=1899-09-25" type="diary-entry" xml:id="DKB10008m-269">
        <head>
         <date evidence="year inferenced" when="1899-09-25">
          九月廿五日
@@ -14632,7 +14632,7 @@
         過麻布井上伯ヲ訪ヒ、九州鉄道会社善後ノ事ヲ談話ス、夜浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-270">
+      <div subtype="date=1899-09-26" type="diary-entry" xml:id="DKB10008m-270">
        <head>
         <date evidence="year inferenced" when="1899-09-26">
          九月廿六日
@@ -14654,7 +14654,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-271">
+      <div subtype="date=1899-09-27" type="diary-entry" xml:id="DKB10008m-271">
        <head>
         <date evidence="year inferenced" when="1899-09-27">
          九月廿七日
@@ -14668,7 +14668,7 @@
         日本郵船会社重役会ニ列ス、午後第一銀行ニ抵リ事務ヲ視ル、夜兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-272">
+      <div subtype="date=1899-09-28" type="diary-entry" xml:id="DKB10008m-272">
        <head>
         <date evidence="year inferenced" when="1899-09-28">
          九月廿八日
@@ -14678,7 +14678,7 @@
         午前霊南阪ニテ伊藤侯ヲ訪フ、京釜鉄道ノ事ヲ談ス、午後第一銀行ニ於テ重役会ヲ開ク、畢テ深川区役所ニ於テ区会ヲ開ク、夜深川ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-273">
+      <div subtype="date=1899-09-29" type="diary-entry" xml:id="DKB10008m-273">
        <head>
         <date evidence="year inferenced" when="1899-09-29">
          九月廿九日
@@ -14692,7 +14692,7 @@
         浜町常盤屋ニ於テ開宴スル九州鉄道会社ノ懇親会ニ列ス、夜兜町ニ帰宿ス、此日商業会議所ニ於テ委員会ヲ開クニ会ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-274">
+      <div subtype="date=1899-09-30" type="diary-entry" xml:id="DKB10008m-274">
        <head>
         <date evidence="year inferenced" when="1899-09-30">
          九月三十日
@@ -14706,7 +14706,7 @@
         過兜町ニ帰宿ス此夜築地香雪軒ニ於テ尾崎三良外数名ヨリノ招宴アリシモ、電話ニテ謝絶ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-275">
+      <div subtype="date=1899-10-01" type="diary-entry" xml:id="DKB10008m-275">
        <head>
         <date evidence="year inferenced" when="1899-10-01">
          十月一日
@@ -14732,7 +14732,7 @@
         浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-276">
+      <div subtype="date=1899-10-02" type="diary-entry" xml:id="DKB10008m-276">
        <head>
         <date evidence="year inferenced" when="1899-10-02">
          十月二日
@@ -14742,7 +14742,7 @@
         ★★B1105★ 雨、此日ハ格別ノ要務ナキニヨリ、浜町宅ニ在テ読書ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-277">
+      <div subtype="date=1899-10-03" type="diary-entry" xml:id="DKB10008m-277">
        <head>
         <date evidence="year inferenced" when="1899-10-03">
          十月三日
@@ -14752,7 +14752,7 @@
         晴、朝第一銀行ニ出勤シテ事務ヲ視ル、夕方兜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-278">
+      <div subtype="date=1899-10-04" type="diary-entry" xml:id="DKB10008m-278">
        <head>
         <date evidence="year inferenced" when="1899-10-04">
          十月四日
@@ -14770,7 +14770,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-279">
+      <div subtype="date=1899-10-05" type="diary-entry" xml:id="DKB10008m-279">
        <head>
         <date evidence="year inferenced" when="1899-10-05">
          十月五日
@@ -14784,7 +14784,7 @@
         山県総理大臣ヲ訪フ、京釜鉄道ノ事ヲ談ス、夜兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-280">
+      <div subtype="date=1899-10-06" type="diary-entry" xml:id="DKB10008m-280">
        <head>
         <date evidence="year inferenced" when="1899-10-06">
          十月六日
@@ -14810,7 +14810,7 @@
         散会ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-281">
+      <div subtype="date=1899-10-07" type="diary-entry" xml:id="DKB10008m-281">
        <head>
         <date evidence="year inferenced" when="1899-10-07">
          十月七日
@@ -14837,7 +14837,7 @@
         深川宅ニ抵リ書生等ノ談話会ヲ聞ク
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-282">
+      <div subtype="date=1899-10-08" type="diary-entry" xml:id="DKB10008m-282">
        <head>
         <date evidence="year inferenced" when="1899-10-08">
          十月八日
@@ -14847,7 +14847,7 @@
         晴、朝数多ノ来人ニ接ス、午後日本鉄道会社臨時重役会ニ列ス、夕浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-283">
+      <div subtype="date=1899-10-09" type="diary-entry" xml:id="DKB10008m-283">
        <head>
         <date evidence="year inferenced" when="1899-10-09">
          十月九日
@@ -14861,7 +14861,7 @@
         紅葉館ニ於テ各地商業会議所聯合会員ト懇親会ヲ開ク、夜兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-284">
+      <div subtype="date=1899-10-10" type="diary-entry" xml:id="DKB10008m-284">
        <head>
         <date evidence="year inferenced" when="1899-10-10">
          十月十日
@@ -14879,7 +14879,7 @@
         過浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-285">
+      <div subtype="date=1899-10-11" type="diary-entry" xml:id="DKB10008m-285">
        <head>
         <date evidence="year inferenced" when="1899-10-11">
          十月十一日
@@ -14897,7 +14897,7 @@
         兜町ニ帰宿ス、此日議事終了ノ後、日本郵船会社ヲ訪ヒ重役会ニ列シ、且農商務省ニテ木内氏ニ談話ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-286">
+      <div subtype="date=1899-10-12" type="diary-entry" xml:id="DKB10008m-286">
        <head>
         <date evidence="year inferenced" when="1899-10-12">
          十月十二日
@@ -14916,7 +14916,7 @@
                                 ★★B1106★
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-287">
+      <div subtype="date=1899-10-13" type="diary-entry" xml:id="DKB10008m-287">
        <head>
         <date evidence="year inferenced" when="1899-10-13">
          十月十三日
@@ -14946,7 +14946,7 @@
         過散会、浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-288">
+      <div subtype="date=1899-10-14" type="diary-entry" xml:id="DKB10008m-288">
        <head>
         <date evidence="year inferenced" when="1899-10-14">
          十月十四日
@@ -14976,7 +14976,7 @@
         過大磯長生館ニ投宿ス、蓋シ兼子病ニ由テ此家ニ療養シ在ルヲ以テナリ、皆川夫人モ同宿セラレシニヨリ種々ノ談話ニ欝寥ヲ散シタリ
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-289">
+      <div subtype="date=1899-10-15" type="diary-entry" xml:id="DKB10008m-289">
        <head>
         <date evidence="year inferenced" when="1899-10-15">
          十月十五日
@@ -14994,7 +14994,7 @@
         ノ汽車ニテ帰京ス、此日兜町宅ニ於テ日下義雄氏韓国行ニ付送別ノ宴会ヲ開ク、西園寺、佐々木、須藤、市原、西園寺亀次郎、清水泰吉、仲又七郎ノ諸氏来会ス、囲碁又ハ軍談、落語ノ余興ヲ催シ、一同歓ヲ尽シテ去ル
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-290">
+      <div subtype="date=1899-10-16" type="diary-entry" xml:id="DKB10008m-290">
        <head>
         <date evidence="year inferenced" when="1899-10-16">
          十月十六日
@@ -15012,7 +15012,7 @@
         閉会ス、帰路日下義雄氏ヲ訪ヒ、夜浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-291">
+      <div subtype="date=1899-10-17" type="diary-entry" xml:id="DKB10008m-291">
        <head>
         <date evidence="year inferenced" when="1899-10-17">
          十月十七日
@@ -15030,7 +15030,7 @@
         深川区役所ニ抵リ区会議員ノ協議会ニ列ス、市街鉄道ノ許否ニ関スルナリ、畢テ深川宅ニ帰宿ス、此夜韓国釜山尾高、仁川西脇、京城佐々木及足立太郎ニ書翰ヲ裁ス、又外山、熊谷其他ノ諸氏ヘモ書状ヲ裁ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-292">
+      <div subtype="date=1899-10-18" type="diary-entry" xml:id="DKB10008m-292">
        <head>
         <date evidence="year inferenced" when="1899-10-18">
          十月十八日
@@ -15056,7 +15056,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-293">
+      <div subtype="date=1899-10-19" type="diary-entry" xml:id="DKB10008m-293">
        <head>
         <date evidence="year inferenced" when="1899-10-19">
          十月十九日
@@ -15083,7 +15083,7 @@
         浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-294">
+      <div subtype="date=1899-10-20" type="diary-entry" xml:id="DKB10008m-294">
        <head>
         <date evidence="year inferenced" when="1899-10-20">
          十月二十日
@@ -15093,7 +15093,7 @@
         雨、此日ハ少ク風邪気ナルト雨強キヲ以テ宅ニ在テ読書ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-295">
+      <div subtype="date=1899-10-21" type="diary-entry" xml:id="DKB10008m-295">
        <head>
         <date evidence="year inferenced" when="1899-10-21">
          十月廿一日
@@ -15103,7 +15103,7 @@
         晴、此日モ風邪全愈ニ至ラサルヲ以テ浜町宅ニ在テ読書遊戯ニ消閑ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-296">
+      <div subtype="date=1899-10-22" type="diary-entry" xml:id="DKB10008m-296">
        <head>
         <date evidence="year inferenced" when="1899-10-22">
          十月二十二日
@@ -15125,7 +15125,7 @@
         大磯長生館ニ抵ル此夜同館ニ投宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-297">
+      <div subtype="date=1899-10-23" type="diary-entry" xml:id="DKB10008m-297">
        <head>
         <date evidence="year inferenced" when="1899-10-23">
          十月廿三日
@@ -15143,7 +15143,7 @@
         帰館、此日ハ終日読書遊戯ニ消閑ス、午後横浜長谷川氏ニ電報ヲ発シ、明夕同地ニ赴ク事ヲ告知ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-298">
+      <div subtype="date=1899-10-24" type="diary-entry" xml:id="DKB10008m-298">
        <head>
         <date evidence="year inferenced" when="1899-10-24">
          十月廿四日
@@ -15185,7 +15185,7 @@
         過帰京、兜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-299">
+      <div subtype="date=1899-10-25" type="diary-entry" xml:id="DKB10008m-299">
        <head>
         <date evidence="year inferenced" when="1899-10-25">
          十月廿五日
@@ -15207,7 +15207,7 @@
         日本郵船会社重役会ニ列ス、畢テ兜町ニ帰宅シ書類ヲ調査シ、大橋新太郎氏来リ市街鉄道ノ事ヲ話ス、此夜浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-300">
+      <div subtype="date=1899-10-26" type="diary-entry" xml:id="DKB10008m-300">
        <head>
         <date evidence="year inferenced" when="1899-10-26">
          十月廿六日
@@ -15230,7 +15230,7 @@
         第一銀行ニ抵リ重役会ヲ開ク、岡野広来リテ京坂鉄道ノ事ヲ談ス、渡辺嘉一来リテ北越鉄道ノ営業景況ヲ話ス、久我通久氏来リテ学生ニ関スル会館ノ事ヲ話ス、夜兜町ニ帰宿ス、此夜台湾銀行土岐〓ヘ書状ヲ発ス、二橋元長、大橋半七郎二氏ヘモ書状ヲ裁ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-301">
+      <div subtype="date=1899-10-27" type="diary-entry" xml:id="DKB10008m-301">
        <head>
         <date evidence="year inferenced" when="1899-10-27">
          十月廿七日
@@ -15252,7 +15252,7 @@
         帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-302">
+      <div subtype="date=1899-10-28" type="diary-entry" xml:id="DKB10008m-302">
        <head>
         <date evidence="year inferenced" when="1899-10-28">
          十月廿八日
@@ -15286,7 +15286,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-303">
+      <div subtype="date=1899-10-29" type="diary-entry" xml:id="DKB10008m-303">
        <head>
         <date evidence="year inferenced" when="1899-10-29">
          十月二十九日
@@ -15312,7 +15312,7 @@
         兜町ニ帰宿シ要務ヲ処理シ、此夜浜町常盤屋ニ抵リテ田口、鈴木等ノ諸氏ト会話ス、夜兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-304">
+      <div subtype="date=1899-10-30" type="diary-entry" xml:id="DKB10008m-304">
        <head>
         <date evidence="year inferenced" when="1899-10-30">
          十月三十日
@@ -15334,7 +15334,7 @@
         兜町ニ帰宿シテ東京商業会議所建築要覧ヲ手書ス、此夕親族会ヲ開ク、一同来会シテ家務ヲ議決ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-305">
+      <div subtype="date=1899-10-31" type="diary-entry" xml:id="DKB10008m-305">
        <head>
         <date evidence="year inferenced" when="1899-10-31">
          十月三十一日
@@ -15356,7 +15356,7 @@
         散会ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-306">
+      <div subtype="date=1899-01-01" type="diary-entry" xml:id="DKB10008m-306">
        <head>
         十
         <date evidence="year inferenced" when="1899-01-01">
@@ -15383,7 +15383,7 @@
         浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-307">
+      <div subtype="date=1899-11-02" type="diary-entry" xml:id="DKB10008m-307">
        <head>
         <date evidence="year inferenced" when="1899-11-02">
          十一月二日
@@ -15405,7 +15405,7 @@
         第一銀行ニ於テ重役会ヲ開ク、夜兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-308">
+      <div subtype="date=1899-11-03" type="diary-entry" xml:id="DKB10008m-308">
        <head>
         <date evidence="year inferenced" when="1899-11-03">
          十一月三日
@@ -15420,7 +15420,7 @@
         寝ニ付ク
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-309">
+      <div subtype="date=1899-11-04" type="diary-entry" xml:id="DKB10008m-309">
        <head>
         <date evidence="year inferenced" when="1899-11-04">
          十一月四日
@@ -15435,7 +15435,7 @@
         浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-310">
+      <div subtype="date=1899-11-05" type="diary-entry" xml:id="DKB10008m-310">
        <head>
         <date evidence="year inferenced" when="1899-11-05">
          十一月五日
@@ -15453,7 +15453,7 @@
         上野精養軒ニ於テ、竜門社第二十三回秋季総会ニ出席ス、此日阪谷芳郎社長ニ代リ各般ノ報告ヲ為シ、且経済ニ関スル一場ノ演説ヲ為ス、次ニ諸井六郎氏清国蘇州ノ風土商業等ニ関スル演説ヲ為シ、次ニ堀越善重郎氏我国商業ノ不振ヲ歎スル演説アリ、次ニ林忠正氏ハ堀越氏ノ歎息ヲ慰シ、我邦ノ商業ハ大ニ進歩ノ望アリトノ意ヲ陳弁ス、最後ニ商業者ノ徳操ニ関シテ竜門社後進生ニ告クト云フ演題ヲ以テ一場ノ演説ヲ為ス、先年独乙人ト談話セシ道徳談及一昨夜記載セシ鳩巣試筆ノ詞等ヲ加ヘテ終局ス、此夜石油事業ニ付浅野、林忠正、田中善助、米国人ハース氏ト偕楽園ニ会ス、夜浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-311">
+      <div subtype="date=1899-11-06" type="diary-entry" xml:id="DKB10008m-311">
        <head>
         <date evidence="year inferenced" when="1899-11-06">
          十一月六日
@@ -15467,7 +15467,7 @@
         会議所落成式ニ祝詞朗読ノ事ヲ依頼ス、午後商業会議所ニ抵リ落成式ニ関スル手続ヲ談ス、第一銀行ニ出勤シテ事務ヲ視ル、夜兜町ニ帰宿ス、此夕帝国ホテルニ抵リ、又富士見軒ニ於テ開キタル海外教育会ノ宴会ニ列ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-312">
+      <div subtype="date=1899-11-07" type="diary-entry" xml:id="DKB10008m-312">
        <head>
         <date evidence="year inferenced" when="1899-11-07">
          十一月七日
@@ -15493,7 +15493,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-313">
+      <div subtype="date=1899-11-08" type="diary-entry" xml:id="DKB10008m-313">
        <head>
         <date evidence="year inferenced" when="1899-11-08">
          十一月八日
@@ -15507,7 +15507,7 @@
         浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-314">
+      <div subtype="date=1899-11-09" type="diary-entry" xml:id="DKB10008m-314">
        <head>
         <date evidence="year inferenced" when="1899-11-09">
          十一月九日
@@ -15521,7 +15521,7 @@
         第一銀行ニ出勤シテ事務ヲ視ル、午後同行重役会ヲ開ク此日観菊ノ御宴ニ参列ノ通知ヲ宮内大臣ヨリ得タリシモ微恙ノ為メ参観セサリシ、夕方堀井医師ヲ招キテ診察ヲ受ク、夜兜町ニ宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-315">
+      <div subtype="date=1899-11-10" type="diary-entry" xml:id="DKB10008m-315">
        <head>
         <date evidence="year inferenced" when="1899-11-10">
          十一月十日
@@ -15539,7 +15539,7 @@
         日本鉄道会社重役会ニ出席ス、畢テ常盤屋ニ抵リ偕楽会ニ列ス、此日増島六一郎氏ニ園遊会ノ招宴アリシモ参席セス、夜浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-316">
+      <div subtype="date=1899-11-11" type="diary-entry" xml:id="DKB10008m-316">
        <head>
         <date evidence="year inferenced" when="1899-11-11">
          十一月十一日
@@ -15549,7 +15549,7 @@
         朝曇夜雨、此日ハ福沢氏別邸ニ催ス処ノ園遊会、八百松楼ニ於ル鷗盟★★B1111★会秋季総会及夜大倉邸ニモ小宴ノ案内アリシモ、天気悪ク且小恙ナルヲ以テ総テ出席セス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-317">
+      <div subtype="date=1899-11-12" type="diary-entry" xml:id="DKB10008m-317">
        <head>
         <date evidence="year inferenced" when="1899-11-12">
          十一月十二日
@@ -15575,7 +15575,7 @@
         過兜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-318">
+      <div subtype="date=1899-11-13" type="diary-entry" xml:id="DKB10008m-318">
        <head>
         <date evidence="year inferenced" when="1899-11-13">
          十一月十三日
@@ -15594,7 +15594,7 @@
                                 三十軒堀杉山市松方ニテ京釜鉄道ニ関スル評議会ヲ開ク
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-319">
+      <div subtype="date=1899-11-14" type="diary-entry" xml:id="DKB10008m-319">
        <head>
         <date evidence="year inferenced" when="1899-11-14">
          十一月十四日
@@ -15612,7 +15612,7 @@
         深川宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-320">
+      <div subtype="date=1899-11-15" type="diary-entry" xml:id="DKB10008m-320">
        <head>
         <date evidence="year inferenced" when="1899-11-15">
          十一月十五日
@@ -15646,7 +15646,7 @@
         浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-321">
+      <div subtype="date=1899-11-16" type="diary-entry" xml:id="DKB10008m-321">
        <head>
         <date evidence="year inferenced" when="1899-11-16">
          十一月十六日
@@ -15676,7 +15676,7 @@
         過兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-322">
+      <div subtype="date=1899-11-17" type="diary-entry" xml:id="DKB10008m-322">
        <head>
         <date evidence="year inferenced" when="1899-11-17">
          十一月十七日
@@ -15706,7 +15706,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-323">
+      <div subtype="date=1899-11-18" type="diary-entry" xml:id="DKB10008m-323">
        <head>
         <date evidence="year inferenced" when="1899-11-18">
          十一月十八日
@@ -15736,7 +15736,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-324">
+      <div subtype="date=1899-11-19" type="diary-entry" xml:id="DKB10008m-324">
        <head>
         <date evidence="year inferenced" when="1899-11-19">
          十一月十九日
@@ -15758,7 +15758,7 @@
         大磯ニ着ス、長生館ニ投宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-325">
+      <div subtype="date=1899-01-20" type="diary-entry" xml:id="DKB10008m-325">
        <head>
         十
         <date evidence="year inferenced" when="1899-01-20">
@@ -15769,7 +15769,7 @@
         晴、此日ハ大磯ニ滞留セシヲ以テ別ニ記事ナシ、終日散歩又ハ雑話遊戯等ニ消閑ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-326">
+      <div subtype="date=1899-11-21" type="diary-entry" xml:id="DKB10008m-326">
        <head>
         <date evidence="year inferenced" when="1899-11-21">
          十一月廿一日
@@ -15783,7 +15783,7 @@
         ノ閑ヲ偸ム事ニ決ス、第一銀行佐々木氏ヘモ電信シテ銀行集会所ノ事ヲ依頼シ、終日大磯ニ在テ散歩又ハ遊戯等ニ消閑ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-327">
+      <div subtype="date=1899-11-22" type="diary-entry" xml:id="DKB10008m-327">
        <head>
         <date evidence="year inferenced" when="1899-11-22">
          十一月廿二日
@@ -15801,7 +15801,7 @@
         兜町邸ニ於テ秋月領事、佐々木勇之助、日下義雄氏等来会シ、韓国貨幣政度改良《（制）》ニ関スル談話ヲ為ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-328">
+      <div subtype="date=1899-11-23" type="diary-entry" xml:id="DKB10008m-328">
        <head>
         <date evidence="year inferenced" when="1899-11-23">
          十一月廿三日
@@ -15819,7 +15819,7 @@
         ニ至リテ散会ス、夫ヨリ日本橋倶楽部ニ於テ開カレタル水力電気会社委員会ニ列ス、富田、柿沼、銀林ノ諸氏ト談話ス、此夜浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-329">
+      <div subtype="date=1899-11-24" type="diary-entry" xml:id="DKB10008m-329">
        <head>
         <date evidence="year inferenced" when="1899-11-24">
          十一月廿四日
@@ -15833,7 +15833,7 @@
         岩越鉄道会社重役会ニ列ス、午後日本鉄道会社重役会ニ列ス、夕方浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-330">
+      <div subtype="date=1899-11-25" type="diary-entry" xml:id="DKB10008m-330">
        <head>
         <date evidence="year inferenced" when="1899-11-25">
          十一月廿五日
@@ -15863,7 +15863,7 @@
         散会ス、兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-331">
+      <div subtype="date=1899-11-26" type="diary-entry" xml:id="DKB10008m-331">
        <head>
         <date evidence="year inferenced" when="1899-11-26">
          十一月廿六日
@@ -15893,7 +15893,7 @@
         過兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-332">
+      <div subtype="date=1899-11-27" type="diary-entry" xml:id="DKB10008m-332">
        <head>
         <date evidence="year inferenced" when="1899-11-27">
          十一月廿七日
@@ -15919,7 +15919,7 @@
         過浜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-333">
+      <div subtype="date=1899-11-28" type="diary-entry" xml:id="DKB10008m-333">
        <head>
         <date evidence="year inferenced" when="1899-11-28">
          十一月廿八日
@@ -15937,7 +15937,7 @@
         第一銀行ニ出勤ス、夜兜町ニ帰宿ス、此夜韓国釜山尾高、仁川西脇ヘ書状ヲ裁ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-334">
+      <div subtype="date=1899-11-29" type="diary-entry" xml:id="DKB10008m-334">
        <head>
         <date evidence="year inferenced" when="1899-11-29">
          十一月廿九日
@@ -15951,7 +15951,7 @@
         兜町ニ帰ル、此夜兜町宅ニ於テ親族会ヲ開ク、阪谷夫婦、穂積歌子、深川宅ヨリ敦子等来会ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-335">
+      <div subtype="date=1899-01-30" type="diary-entry" xml:id="DKB10008m-335">
        <head>
         十
         <date evidence="year inferenced" when="1899-01-30">
@@ -15990,7 +15990,7 @@
                                 　　御寿命を銅像千とせと願へつる《（ひ）》祝ひにそへし家名ハ万年
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-336">
+      <div subtype="date=1899-12-01" type="diary-entry" xml:id="DKB10008m-336">
        <head>
         <date evidence="year inferenced" when="1899-12-01">
          十二月一日
@@ -16004,7 +16004,7 @@
         頃第一銀行ニ出勤ス、日本鉄道会社重役会ハ病気ヲ以テ断書ヲ送ル、此夕商業会議所役員会及帝国ホテルニ催ス処ノ函樽鉄道重役会ハ風邪ヲ以テ出席ヲ謝絶ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-337">
+      <div subtype="date=1899-12-02" type="diary-entry" xml:id="DKB10008m-337">
        <head>
         <date evidence="year inferenced" when="1899-12-02">
          十二月二日
@@ -16018,7 +16018,7 @@
         銀行集会所ニ於テ外山、田中、池田、中橋諸氏会合シテ修正ノ事ヲ談ス、夜兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-338">
+      <div subtype="date=1899-12-03" type="diary-entry" xml:id="DKB10008m-338">
        <head>
         <date evidence="year inferenced" when="1899-12-03">
          十二月三日
@@ -16036,7 +16036,7 @@
         帰宅此日ハ休日ナルヲ以テ宅ニ在テ書類ヲ調査ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-339">
+      <div subtype="date=1899-12-04" type="diary-entry" xml:id="DKB10008m-339">
        <head>
         <date evidence="year inferenced" when="1899-12-04">
          十二月四日
@@ -16050,7 +16050,7 @@
         益田孝、瓜生震両氏来リ京仁鉄道ノ事ヲ談ス、午後銀行ニ出勤シテ事務ヲ視ル、夜ニ入テ兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-340">
+      <div subtype="date=1899-12-05" type="diary-entry" xml:id="DKB10008m-340">
        <head>
         <date evidence="year inferenced" when="1899-12-05">
          十二月五日
@@ -16068,7 +16068,7 @@
         浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-341">
+      <div subtype="date=1899-12-06" type="diary-entry" xml:id="DKB10008m-341">
        <head>
         <date evidence="year inferenced" when="1899-12-06">
          十二月六日
@@ -16078,7 +16078,7 @@
         晴、此日ハ浦賀分工場ニ於テ犬島丸進水式アルヲ以テ出張ノ筈ナリシモ、風邪気ナルヲ以テ電報ヲ以テ之ヲ謝絶ス、終日宅ニ在テ療養ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-342">
+      <div subtype="date=1899-12-07" type="diary-entry" xml:id="DKB10008m-342">
        <head>
         <date evidence="year inferenced" when="1899-12-07">
          十二月七日
@@ -16108,7 +16108,7 @@
         頃兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-343">
+      <div subtype="date=1899-12-08" type="diary-entry" xml:id="DKB10008m-343">
        <head>
         <date evidence="year inferenced" when="1899-12-08">
          十二月八日
@@ -16134,7 +16134,7 @@
         散会、夜兜町ニ帰宿ス、此夜荒井栄蔵再ヒ来リテ釜山店赴任ノ件ニ関シテ要務ヲ談話ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-344">
+      <div subtype="date=1899-12-09" type="diary-entry" xml:id="DKB10008m-344">
        <head>
         <date evidence="year inferenced" when="1899-12-09">
          十二月九日
@@ -16152,7 +16152,7 @@
         浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-345">
+      <div subtype="date=1899-12-10" type="diary-entry" xml:id="DKB10008m-345">
        <head>
         <date evidence="year inferenced" when="1899-12-10">
          十二月十日
@@ -16162,7 +16162,7 @@
         晴、此日ハ休日ナルヲ以テ終日遊戯ニ消閑ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-346">
+      <div subtype="date=1899-12-11" type="diary-entry" xml:id="DKB10008m-346">
        <head>
         <date evidence="year inferenced" when="1899-12-11">
          十二月十一日
@@ -16180,7 +16180,7 @@
         兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-347">
+      <div subtype="date=1899-12-12" type="diary-entry" xml:id="DKB10008m-347">
        <head>
         <date evidence="year inferenced" when="1899-12-12">
          十二月十二日
@@ -16190,7 +16190,7 @@
         晴、午前数多ノ来人ニ接ス、午後第一銀行ニ出勤ス、夜兜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-348">
+      <div subtype="date=1899-12-13" type="diary-entry" xml:id="DKB10008m-348">
        <head>
         <date evidence="year inferenced" when="1899-12-13">
          十二月十三日
@@ -16200,7 +16200,7 @@
         晴、午前来人ニ接ス、午後日本郵船会社重役会ニ出席ス、畢テ第一銀行ニ出勤ス、夜深川宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-349">
+      <div subtype="date=1899-12-14" type="diary-entry" xml:id="DKB10008m-349">
        <head>
         <date evidence="year inferenced" when="1899-12-14">
          十二月十四日
@@ -16218,7 +16218,7 @@
         深川宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-350">
+      <div subtype="date=1899-12-15" type="diary-entry" xml:id="DKB10008m-350">
        <head>
         <date evidence="year inferenced" when="1899-12-15">
          十二月十五日
@@ -16236,7 +16236,7 @@
         銀行集会所例会ニ出席ス、夜浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-351">
+      <div subtype="date=1899-12-16" type="diary-entry" xml:id="DKB10008m-351">
        <head>
         <date evidence="year inferenced" when="1899-12-16">
          十二月十六日
@@ -16254,7 +16254,7 @@
         散会ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-352">
+      <div subtype="date=1899-12-17" type="diary-entry" xml:id="DKB10008m-352">
        <head>
         <date evidence="year inferenced" when="1899-12-17">
          十二月十七日
@@ -16268,7 +16268,7 @@
         ノ汽車ニテ大磯長生館ニ抵リ兼子ノ病ヲ訪フ、此夜大磯ニ宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-353">
+      <div subtype="date=1899-12-18" type="diary-entry" xml:id="DKB10008m-353">
        <head>
         <date evidence="year inferenced" when="1899-12-18">
          十二月十八日
@@ -16278,7 +16278,7 @@
         雨寒甚シ、萩原源太郎氏来ル、商業会議所役員会ヲ開ク事ヲ申リ《（シ）》来ル此日ハ雨強キヲ以テ終日外出ヲ得ス、家ニ在テ読書遊戯ニ消閑ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-354">
+      <div subtype="date=1899-12-19" type="diary-entry" xml:id="DKB10008m-354">
        <head>
         <date evidence="year inferenced" when="1899-12-19">
          十二月十九日
@@ -16300,7 +16300,7 @@
         浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-355">
+      <div subtype="date=1899-02-20" type="diary-entry" xml:id="DKB10008m-355">
        <head>
         十
         <date evidence="year inferenced" when="1899-02-20">
@@ -16319,7 +16319,7 @@
         佐々木勇之助氏ト共ニ帰京、兜町ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-356">
+      <div subtype="date=1899-12-21" type="diary-entry" xml:id="DKB10008m-356">
        <head>
         <date evidence="year inferenced" when="1899-12-21">
          十二月二十一日
@@ -16337,7 +16337,7 @@
         兜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-357">
+      <div subtype="date=1899-12-22" type="diary-entry" xml:id="DKB10008m-357">
        <head>
         <date evidence="year inferenced" when="1899-12-22">
          十二月二十二日
@@ -16355,7 +16355,7 @@
         銀行倶楽部ニ於テ夜餐シ、席上倶楽部ノ拡張ニ関スル演説ヲ為ス、夜浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-358">
+      <div subtype="date=1899-12-23" type="diary-entry" xml:id="DKB10008m-358">
        <head>
         <date evidence="year inferenced" when="1899-12-23">
          十二月廿三日
@@ -16381,7 +16381,7 @@
         後トスル事トシ、其規程ノ草案ヲ余ト益田氏トニ托セラル、此夜雷雨、深川宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-359">
+      <div subtype="date=1899-12-24" type="diary-entry" xml:id="DKB10008m-359">
        <head>
         <date evidence="year inferenced" when="1899-12-24">
          十二月二十四日
@@ -16395,7 +16395,7 @@
         築地香雪軒ニ抵リ田中源太郎氏ト共ニ藤田農商務次官、木内、美濃部、崎川、手島精一ノ諸氏ヲ招宴ス、船坂八郎仏蘭西ヨリ帰朝セシニヨリ其修業中ノ事ヲ報告スル為ナリ、夜九★★B1116★時兜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-360">
+      <div subtype="date=1899-12-25" type="diary-entry" xml:id="DKB10008m-360">
        <head>
         <date evidence="year inferenced" when="1899-12-25">
          十二月二十五日
@@ -16409,7 +16409,7 @@
         磐城炭坑会社株主総会ニ列ス、畢テ陸軍省ニ抵リ野田経理局長ニ面会シテ平沢氏ノ事ヲ話ス、更ニ桂大臣ヲ訪フテ京釜鉄道ノ事ヲ話ス、夜兜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-361">
+      <div subtype="date=1899-02-26" type="diary-entry" xml:id="DKB10008m-361">
        <head>
         十
         <date evidence="year inferenced" when="1899-02-26">
@@ -16432,7 +16432,7 @@
         浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-362">
+      <div subtype="date=1899-02-27" type="diary-entry" xml:id="DKB10008m-362">
        <head>
         十
         <date evidence="year inferenced" when="1899-02-27">
@@ -16451,7 +16451,7 @@
         兜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-363">
+      <div subtype="date=1899-12-28" type="diary-entry" xml:id="DKB10008m-363">
        <head>
         <date evidence="year inferenced" when="1899-12-28">
          十二月廿八日
@@ -16473,7 +16473,7 @@
         中村陸軍次官ヲ番町ノ宅ニ訪ヒ京釜鉄道ニ関スル機密ノ事ヲ談ス、此夜兜町宅ニ同族会ヲ開キテ要務ヲ議決ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-364">
+      <div subtype="date=1899-12-29" type="diary-entry" xml:id="DKB10008m-364">
        <head>
         <date evidence="year inferenced" when="1899-12-29">
          十二月二十九日
@@ -16495,7 +16495,7 @@
         兜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-365">
+      <div subtype="date=1899-12-30" type="diary-entry" xml:id="DKB10008m-365">
        <head>
         <date evidence="year inferenced" when="1899-12-30">
          十二月三十日
@@ -16529,7 +16529,7 @@
         浜町宅ニ帰宿ス
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10008m-366">
+      <div subtype="date=1899-12-31" type="diary-entry" xml:id="DKB10008m-366">
        <head>
         <date evidence="year inferenced" when="1899-12-31">
          十二月三十一日

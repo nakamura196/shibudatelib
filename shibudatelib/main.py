@@ -244,3 +244,59 @@ def getTimeWhen(value):
     
 
     return obj
+
+def addWeather(inputpath, outputpath):
+    # レスポンスの HTML から BeautifulSoup オブジェクトを作る
+    soup = bs4.BeautifulSoup(open(inputpath), 'xml')
+
+    currentYear = "XXXX"
+
+    if not soup.find("text"):
+        return
+
+    entries = soup.findAll("div", {"type" : "diary-entry"})
+
+    for entry in entries:
+
+        subtype = ""
+
+        head = entry.find("head")
+
+        if not head:
+            continue
+
+        headStr = head.text
+
+        weathers = []
+
+        if "晴" in headStr:
+            weathers.append("晴")
+
+        if "雨" in headStr:
+            weathers.append("雨")
+
+        if "曇" in headStr:
+            weathers.append("曇")
+
+        if "雪" in headStr:
+            weathers.append("雪")
+            
+        if len(weathers) > 0:
+            subtype += "&weather="+(",").join(weathers)
+
+        dates = head.find_all("date")
+
+        for date in dates:
+            when = date.get("when")
+            whens = when.split("-")
+
+            if len(whens) == 3 and "XX" not in when:
+                subtype += "&date="+when
+                break
+
+        if subtype != "":
+            entry["subtype"] = subtype[1:]
+
+    html = soup.prettify("utf-8")
+    with open(outputpath, "wb") as file:
+        file.write(html)

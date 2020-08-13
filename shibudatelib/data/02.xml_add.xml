@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>渋沢栄一伝記資料別巻第<date when='XXXX-XX-02' evidence='year, month'>二日</date>記他のTEIマークアップ</title>
+                <title>渋沢栄一伝記資料別巻第二日記他のTEIマークアップ</title>
                 <respStmt>
                     <resp>テキストデータの作成</resp>
                     <orgName xml:id="ShibusawaInfoCenter"
@@ -83,14 +83,14 @@
             <titlePage>
                 <pb xml:id="B1nn0a"/>
                 <docTitle>
-                    <titlePart>澁澤栄一傳記資料別巻第<date when='XXXX-XX-02' evidence='year, month'>二日</date>記他</titlePart>
+                    <titlePart>澁澤栄一傳記資料別巻第二日記他</titlePart>
                 </docTitle>
                 <byline>渋沢青淵記念財団竜門社編纂刊行</byline>
                 <note place="overleaf" xml:id="B2nn0b">背文字 渋沢栄一遺墨集字</note>
             </titlePage>
             <div type="frontispiece" xml:id="DKB20000a">
                 <pb xml:id="B2nn1"/>
-                <p>渋沢栄<date when='XXXX-XX-01' evidence='year, month'>一日</date>記・写本</p>
+                <p>渋沢栄一日記・写本</p>
                 <figure>
                     <ab type="caption">左図（本文第三一六頁参照）当用日記。<date when='1930-01-08'>昭和五年一月八日</date>。鉛筆で記入してある。栄一の日記はこの日で終っている。</ab>
                 </figure>
@@ -112,7 +112,7 @@
                 </docTitle>
             </titlePage>
             <div type="contents" xml:id="DKB10002e">
-                <head>渋沢栄一伝記資料別巻第<date when='XXXX-XX-02' evidence='year, month'>二日</date>記他 目次</head>
+                <head>渋沢栄一伝記資料別巻第二日記他 目次</head>
                 <pb xml:id="B2nn"/>
                 <pb xml:id="B2n01"/>
                 <fw type="pageNum">一</fw>
@@ -190,7 +190,7 @@
                                 <head>○原本概要</head>
                                 <p>書名。<date when='1915'>大正四年</date>新案当用日記。</p>
                                 <p>体裁。四六判13.6cm×19.7cm.背文字銀地紺ヌキ、クロス紺色。見返シ、白無色。</p>
-                                <p>扉。淡青色地ニ墨色ニテ<date when='1915'>大正四年</date>春陽堂発行新案当用日記紀元二千五百<date when='XXXX' evidence='year'>七十五年</date>西暦千九百<date when='XXXX' evidence='year'>十五年</date>ト円ノ中ニ印刷、兎ノカツトヲ配ス。</p>
+                                <p>扉。淡青色地ニ墨色ニテ<date when='1915'>大正四年</date>春陽堂発行新案当用日記紀<date when='XXXX' evidence='year'>元二千五百七十五年</date>西暦<date when='XXXX' evidence='year'>千九百十五年</date>ト円ノ中ニ印刷、兎ノカツトヲ配ス。</p>
                                 <p>本文。四〇九頁（各月ノ初メニ二頁宛ソノ月ノ行事等ヲ掲グ）<date when='XXXX-XX-01' evidence='year, month'>一日</date>一頁宛トシ、本文記入欄十一行、毎右側ニ新旧月日、七曜、干支、九星、六曜、詩歌散文等ヲ掲グ。天候記入ノ欄ナシ。記入ハ総テ鉛筆書キ。</p>
                                 <p>奥付。<date when='1914-10-15'>大正三年十月十五日</date>印刷、同年<date when='XXXX-10-18' evidence='year'>十月十八日</date>発行、同年<date when='XXXX-11-20' evidence='year'>十一月二十日</date>再版。新案当用日記定価金六拾銭、編輯者柳川春葉・斎藤松洲。発行者東京市日本橋区通四丁目五番地和田静子。印刷者東京市京橋区南小田原町三丁目九番地中野鍈太郎。印刷所東京市芝区愛宕町三丁目二番地東洋印刷株式会社。発行所東京市日本橋区通四丁目五番地春陽堂。電話本局五十一番。振替口座東京一六一七。不許複製・版権所有。</p>
                                 <p>前付並ニ後付。略ス。</p>
@@ -246,7 +246,7 @@
                                     <div type="day" xml:id="DKB20015m-1">
                                         <head><date when="1913-12-17"><date when='XXXX-XX-17' evidence='year, month'>十七日</date>（水）</date></head>
                                         <listEvent>
-                                            <event><desc><time when="11:00:00">午前十<time when='01:00:00' cert='low'>一時</time></time>帝国劇場役員会（中央亭）</desc></event>
+                                            <event><desc><time when="11:00:00">午前<time when='11:00:00' cert='low'>十一時</time></time>帝国劇場役員会（中央亭）</desc></event>
                                             <event><desc><time when="13:30:00">午後<time when='01:30:00' cert='low'>一時半</time></time>教育調査会（文部大臣官舎）</desc></event>
                                             <event><desc><time when="16:00:00">午後<time when='04:00:00' cert='low'>四時</time></time>渡米実業団記念会（日本橋クラブ）</desc></event>
                                         </listEvent>
@@ -262,20 +262,20 @@
                                         <head><date when="1913-12-19"><date when='XXXX-XX-19' evidence='year, month'>十九日</date>（金）</date></head>
                                         <div4>
                                             <p><time when="14:30:00">午后<time when='02:30:00' cert='low'>二時半</time></time>日本女子大学移転式御出席</p>
-                                            <p><time when="17:00:00">午後<time when='05:00:00' cert='low'>五時</time></time>東照宮三百年奉斎会（華族会館）</p>
+                                            <p><time when="17:00:00">午後<time when='05:00:00' cert='low'>五時</time></time>東照宮<date when='XXXX' evidence='year'>三百年</date>奉斎会（華族会館）</p>
                                         </div4>
                                     </div3>
                                     <div3 xml:id="DKB20015m-4">
                                         <head><date when="1913-12-20"><date when='XXXX-XX-20' evidence='year, month'>廿日</date>（土）</date></head>
                                         <div4>
-                                            <p><time when="11:00:00">午前十<time when='01:00:00' cert='low'>一時</time></time>堀切善兵衛氏来約（兜町）</p>
+                                            <p><time when="11:00:00">午前<time when='11:00:00' cert='low'>十一時</time></time>堀切善兵衛氏来約（兜町）</p>
                                             <p><time when="13:00:00">午後<time when='01:00:00' cert='low'>一時</time></time>在米同胞後援会ノ件（大隈伯）</p>
                                             <p><time when="16:30:00">午後<time when='04:30:00' cert='low'>四時半</time></time>帰一協会評議員会（上野精養軒）</p>
                                             <p><time when="17:00:00">午後<time when='05:00:00' cert='low'>五時</time></time>帰一協会例会（上野精養軒）</p>
                                         </div4>
                                     </div3>
                                     <div3 xml:id="DKB20015m-5">
-                                        <head><date when="1913-12-21">廿<date when='XXXX-XX-01' evidence='year, month'>一日</date>（日）</date></head>
+                                        <head><date when="1913-12-21"><date when='XXXX-XX-21' evidence='year, month'>廿一日</date>（日）</date></head>
                                         <div4>
                                             <p><time when="10:00:00"
                                                 >午前<time when='10:00:00' cert='low'>十時</time></time>故徳川公<date when='XXXX' evidence='year'>三十年</date>祭（御邸）午后<time when='02:00:00' cert='low'>二時</time>ヨリ御墓前祭（御墓所）</p>
@@ -284,7 +284,7 @@
                                         </div4>
                                     </div3>
                                     <div3 xml:id="DKB20015m-6">
-                                        <head><date when="1913-12-22">廿<date when='XXXX-XX-02' evidence='year, month'>二日</date>（月）</date></head>
+                                        <head><date when="1913-12-22"><date when='XXXX-XX-22' evidence='year, month'>廿二日</date>（月）</date></head>
                                         <div4>
                                             <p><time when="10:00:00">午前<time when='10:00:00' cert='low'>十時</time></time>古河、中島両氏来ル（兜町）</p>
                                             <p><time when="10:00:00">午前<time when='10:00:00' cert='low'>十時</time></time>広沢氏来ル（兜町）</p>
@@ -317,7 +317,7 @@
                                         <div4>
                                             <p><time type="occasion">午前中</time>第一銀行　</p>
                                             <p><time when="11:00:00"
-                                                >午前十<time when='01:00:00' cert='low'>一時</time></time>神社奉祠会《（祀）》ノ件（内山下町内相官邸）</p>
+                                                >午前<time when='11:00:00' cert='low'>十一時</time></time>神社奉祠会《（祀）》ノ件（内山下町内相官邸）</p>
                                             <p><time when="13:50:00">午後<time when='01:50:00' cert='low'>一時五十分</time></time>正雄殿新橋着</p>
                                             <p><time when="16:00:00"
                                                 >午後<time when='04:00:00' cert='low'>四時</time></time>宇治原退蔵氏結婚披露（大松閣）　外務大臣ヨリ御案内（官邸）　エンビフク、クンシヨウ</p>

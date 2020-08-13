@@ -3,18 +3,51 @@ import hashlib
 import requests
 from kanjize import int2kanji, kanji2int
 from jeraconv import jeraconv
+import bs4
 
 idMap = {}
 huMap = {}
 
-numbers = "元一二弐三四五六七八九十廿卅"
+# 日付の追加処理　(1)廿→20　(2)正月→1月(3)閏四月
+# 第十一時がミス
+# 時間を足していく
+
+'''
+(1)日付→単語として扱うもの
+*6-12：「別巻第一日記」
+*164-170：「渋沢栄一日記」
+*1506-1519：「四日市伏木新潟巡回紀行」
+*7194-7207：「四日市」
+*9156-9163：「三日程」日付ではない、でもここは手修正か
+
+(2)数値が分割されて還元されてしまっているもの
+*3986-4010：「廿一日」
+*6699-6703：「三十日」
+*7019-7025：「十一日」
+*14466-14469：「十一時」
+
+(3)日付として変換したいもの
+*4242-4259：「正月」→1月
+*5387-5395：「正月」→1月、「朔」→1日、後者は個別確認が必要か
+*5742-5479：「正月」→1月、「元日」→1日
+'''
+
+numbers = "元一二弐三四五六七八九十廿卅正朔千百"
 
 itaiji = {
     "元" : "一",
     "廿": "二十",
     "卅" : "三十",
     "弐" : "二",
+    "正" : "一",
+    "朔" : "一"
 }
+
+stops_array = ["日記", "四日市", "三日程"]
+
+stops_map = {}
+for s in stops_array:
+    stops_map[s] = hashlib.md5(s.encode('utf-8')).hexdigest()
 
 # J2W クラスのインスタンス生成
 # このタイミングで変換の要となる JSON データが load される
@@ -22,7 +55,8 @@ j2w = jeraconv.J2W()
 
 def addtag(pattern, text):
     m = re.findall(pattern, text)
-    for e in m:
+    for i in range(len(m)):
+        e = m[len(m) - 1 -i]
         id = hashlib.md5(e.encode('utf-8')).hexdigest()
         idMap[id] = e
         text = text.replace(e, id)
@@ -33,6 +67,10 @@ def adddate(text):
     yearPattern = "["+numbers+"]+?年"
     monthPattern = "["+numbers+"]+?月"
     dayPattern = "["+numbers+"]+?日"
+
+    # 除外語を置換
+    for stopword in stops_map:
+        text = text.replace(stopword, stops_map[stopword])
     
     # 4
     text = addtag(warekiPattern + yearPattern + monthPattern + dayPattern, text)
@@ -49,6 +87,7 @@ def adddate(text):
     # 1
     text = addtag(yearPattern, text)
     text = addtag(monthPattern, text)
+
     text = addtag(dayPattern, text)
 
     for id in idMap:
@@ -57,6 +96,10 @@ def adddate(text):
         whenObj = getwhen(value)
 
         text = text.replace(id, "<date"+(" when='"+whenObj["when"]+"'" if whenObj["when"] != None else '')+(" evidence='"+whenObj["evidence"]+"'" if whenObj["evidence"] != None else '')+">"+value+"</date>")
+
+    # 除外語を戻す
+    for stopword in stops_map:
+        text = text.replace(stops_map[stopword], stopword) 
 
     return text
 
@@ -140,7 +183,7 @@ def getwhen(value):
 
     return obj
 
-import bs4
+
 
 def inf(inputpath, outputpath):
     # レスポンスの HTML から BeautifulSoup オブジェクトを作る

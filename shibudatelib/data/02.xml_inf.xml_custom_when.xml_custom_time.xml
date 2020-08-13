@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     渋沢栄一伝記資料別巻第二日記他のTEIマークアップ
+    </title>
+    <respStmt>
+     <resp>
+      テキストデータの作成
+     </resp>
+     <orgName ref="http://viaf.org/viaf/841149066744665602221" xml:id="ShibusawaInfoCenter">
+      公益財団法人渋沢栄一記念財団情報資源センター
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEIマークアップ
+     </resp>
+     <orgName>
+      公益財団法人渋沢栄一記念財団情報資源センター
+     </orgName>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     公益財団法人渋沢栄一記念財団
+    </publisher>
+    <pubPlace>
+     日本、東京
+    </pubPlace>
+    <date when="2019">
+     2019年
+    </date>
+    <availability>
+     <licence target="http://creativecommons.org/licenses/by-nc/4.0/">
+      Creative
+                        Commons Atrow role="data"ibution-NonCommercial 4.0 International (CC BY-NC
+                        4.0）
+     </licence>
+    </availability>
+    <address>
+     <addrLine>
+      郵便番号114-0024
+     </addrLine>
+     <addrLine>
+      東京都北区西ヶ原2丁目16番1号
+     </addrLine>
+     <addrLine>
+      公益財団法人渋沢栄一記念財団
+     </addrLine>
+     <addrLine>
+      電話：03-3910-0029
+     </addrLine>
+    </address>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct type="book">
+     <monogr>
+      <title level="m">
+       渋沢栄一伝記資料別巻第二 日記他
+      </title>
+      <editor>
+       渋沢青渊記念財団竜門社
+      </editor>
+      <imprint>
+       <pubPlace>
+        東京
+       </pubPlace>
+       <publisher>
+        渋沢青渊記念財団竜門社
+       </publisher>
+       <date when="1966-11-30">
+        <date when="1966">
+         昭和四十一年
+        </date>
+        (1966年）
+        <date evidence="year" when="XXXX-11-30">
+         十一月三十日
+        </date>
+       </date>
+      </imprint>
+     </monogr>
+     <series>
+      <title level="s">
+       渋沢栄一伝記資料
+      </title>
+      <biblScope unit="vol">
+       別巻2
+      </biblScope>
+      <note>
+       全68巻（本編58巻、別巻10）
+      </note>
+     </series>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>
+     公益財団法人渋沢栄一記念財団は、財団の前身である渋沢青淵記念財団竜門社が編纂した
+                    『渋沢栄一伝記資料』（渋沢栄一伝記資料刊行会刊、1955年～1965年、本編58巻。
+                    別巻：渋沢青淵記念財団竜門社刊、1966年～1971年、全10冊）のデジタル化に
+                    2004年から着手し、2017年に本編にあたる全58巻のテキストデータを公開した。
+    </p>
+    <p>
+     デジタル化にあたっては、旧字体などの漢字表記以外には変更せずに、間違いと 思われる記述も含め、冊子体に記載のままとした。
+    </p>
+   </projectDesc>
+   <editorialDecl>
+    <p>
+     文字 ⅰ．文字コードはユニコードを使用した。 ⅱ．原則として記載通りの文字で入力、ただし旧字は新旧文字置換対照表により新字に変換した。
+                    ⅳ．ひらがな／カタカナ、旧仮名遣いは原稿の通りとするが、「より」など「かなの合字」は修正した。
+                    ⅴ．英数字は半角、和文中の記号は原則全角、英文中の記号は半角とした。 ⅵ．機種依存文字は使用しない。①などの○付き数字は半角括弧で表現した。（例：①→(1））
+                    ⅶ．ローマ数字は、半角英字の「I(i)」「V(v)」「X(x)」で表現した。（例：Ⅶ→VII、ⅸ→ix）
+                    ⅷ．アンダーライン、太字などの文字装飾、傍点情報は記載しない。 ⅸ．ルビは全角「二重山括弧《》」で当該漢字の後ろに挿入した。
+                    　　ただしルビが熟語中の一部に対するものの場合、熟語を分断しない位置に挿入した。 　（例）日本の紡績(ぼうせき)業が・・・・　→　日本の紡績業《ぼうせき》が
+                    ⅹ．「々」などの踊り字（畳字）記号はそのまま入力するが、 　　繰り返しを示す「ゝ」、「ゞ」などの畳み記号は仮名に直した。
+    </p>
+    <p>
+     記号、スペース、体裁など ⅰ．文字コードの関係で入力不能であった文字には〓（ゲタ）を、判読不能文字には＠を代入した。
+                    ⅱ．改ページ位置が表の中でテキスト中への挿入が困難な場合には、表の冒頭に挿入した。 ⅲ．印章、屋号など、行中に挿入された小サイズの画像は〓[img]と入力した。
+                    ⅳ．熟語中のスペースは削除した（例：海　運　→　海運)
+    </p>
+    <p>
+     図版中のテキスト ⅰ．描画、地図、写真など図版中のテキストは以下の例のように入力した。 　描画の場合・・・・■■[img 図]木戸　○　○　西郷■
+                    　地図の場合・・・・■■[img 地図]水源地　明神山　畠中　谷戸　宮下　紺＠町　田中　三崎ニ至ル■
+                    　写真の場合・・・・■■[img写真]アーラン・シヤンド氏■
+    </p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text type="diary">
+  <front>
+   <titlePage>
+    <pb xml:id="B1nn0a"/>
+    <docTitle>
+     <titlePart>
+      澁澤栄一傳記資料別巻第二日記他
+     </titlePart>
+    </docTitle>
+    <byline>
+     渋沢青淵記念財団竜門社編纂刊行
+    </byline>
+    <note place="overleaf" xml:id="B2nn0b">
+     背文字 渋沢栄一遺墨集字
+    </note>
+   </titlePage>
+   <div type="frontispiece" xml:id="DKB20000a">
+    <pb xml:id="B2nn1"/>
+    <p>
+     渋沢栄一日記・写本
+    </p>
+    <figure>
+     <ab type="caption">
+      左図（本文第三一六頁参照）当用日記。
+      <date when="1930-01-08">
+       昭和五年一月八日
+      </date>
+      。鉛筆で記入してある。栄一の日記はこの日で終っている。
+     </ab>
+    </figure>
+    <figure>
+     <ab type="caption">
+      下図（別巻第一。解題第四頁参照）　写本。　全二十二冊。但し、第一冊は浄書・合綴・製本未了のままである。
+     </ab>
+    </figure>
+   </div>
+   <div>
+    <pb xml:id="B2nn2"/>
+    <figure>
+     <head>
+      集会日時通知表
+      <date evidence="day" when="1924-06">
+       大正十三年六月
+      </date>
+      （本文第六二六頁～第六三〇頁参照）
+     </head>
+    </figure>
+   </div>
+   <titlePage xml:id="DKB20000b">
+    <pb xml:id="B2nn3"/>
+    <docTitle>
+     <titlePart type="main">
+      渋沢栄一伝記資料別巻第二 日記 他
+     </titlePart>
+     <titlePart type="sub">
+      <date when="1915">
+       大正四年
+      </date>
+      ―
+      <date when="1930">
+       昭和五年
+      </date>
+     </titlePart>
+    </docTitle>
+   </titlePage>
+   <div type="contents" xml:id="DKB10002e">
+    <head>
+     渋沢栄一伝記資料別巻第二日記他 目次
+    </head>
+    <pb xml:id="B2nn"/>
+    <pb xml:id="B2n01"/>
+    <fw type="pageNum">
+     一
+    </fw>
+    <list type="gloss">
+     <item>
+      <list>
+       <item>
+        写真（巻頭)
+       </item>
+      </list>
+     </item>
+    </list>
+    <list type="gloss">
+     <head>
+      <label>
+       日記（二）
+      </label>
+     </head>
+     <item>
+      <date when="1915">
+       大正四年
+      </date>
+      <date when="1916">
+       大正五年
+      </date>
+      <date evidence="year" when="XXXX-01-01">
+       一月一日
+      </date>
+      ―
+      <date evidence="year" when="XXXX-01-03">
+       一月三日
+      </date>
+      …………………………………………　　　一
+     </item>
+     <item>
+      <date when="1917">
+       大正六年
+      </date>
+      <date evidence="year" when="XXXX-01-01">
+       一月一日
+      </date>
+      ―
+      <date evidence="year" when="XXXX-03-22">
+       三月二十二日
+      </date>
+      …………………………………………………　　八五
+     </item>
+     <item>
+      <date when="1918">
+       大正七年
+      </date>
+      <date evidence="year" when="XXXX-01-01">
+       一月一日
+      </date>
+      ―
+      <date evidence="year" when="XXXX-04-13">
+       四月十三日
+      </date>
+      ……………………………………………………　一〇〇
+     </item>
+     <item>
+      <date when="1919">
+       大正八年
+      </date>
+      <date evidence="year" when="XXXX-01-01">
+       一月一日
+      </date>
+      ―
+      <date evidence="year" when="XXXX-08-20">
+       八月二十日
+      </date>
+      ……………………………………………………　一二三
+     </item>
+     <item>
+      <date when="1920">
+       大正九年
+      </date>
+      <date evidence="year" when="XXXX-01-01">
+       一月一日
+      </date>
+      ―
+      <date evidence="year" when="XXXX-03-14">
+       三月十四日
+      </date>
+      ……………………………………………………　一六四
+     </item>
+     <item>
+      <date when="1921">
+       大正十年
+      </date>
+      <date when="1922">
+       大正十一年
+      </date>
+      <date evidence="year" when="XXXX-01-01">
+       一月一日
+      </date>
+      ―
+      <date evidence="year" when="XXXX-01-22">
+       一月二十二日
+      </date>
+      …………………………………　一八四
+     </item>
+     <item>
+      <date when="1923">
+       大正十二年
+      </date>
+      <date evidence="year" when="XXXX-01-01">
+       一月一日
+      </date>
+      ―
+      <date evidence="year" when="XXXX-03-06">
+       三月六日
+      </date>
+      ……………………………………………………　二三〇
+     </item>
+     <item>
+      <date when="1925">
+       大正十四年
+      </date>
+      <date evidence="year" when="XXXX-01-01">
+       一月一日
+      </date>
+      ―
+      <date evidence="year" when="XXXX-04-10">
+       四月十日
+      </date>
+      ……………………………………………………　二四四
+     </item>
+     <item>
+      <date when="1926">
+       大正十五年
+      </date>
+      <date evidence="year" when="XXXX-01-01">
+       一月一日
+      </date>
+      ―
+      <date evidence="year" when="XXXX-04-03">
+       四月三日
+      </date>
+      ……………………………………………………　二七〇
+     </item>
+     <item>
+      <date when="1927">
+       昭和二年
+      </date>
+      <date evidence="year" when="XXXX-01-01">
+       一月一日
+      </date>
+      ―
+      <date evidence="year" when="XXXX-03-12">
+       三月十二日
+      </date>
+      ……………………………………………………　二九〇
+     </item>
+     <item>
+      <date when="1928">
+       昭和三年
+      </date>
+      <date evidence="year" when="XXXX-01-01">
+       一月一日
+      </date>
+      ―
+      <date evidence="year" when="XXXX-03-05">
+       三月五日
+      </date>
+      ………………………………………………………　三〇一
+     </item>
+     <item>
+      <date when="1929">
+       昭和四年
+      </date>
+      <date evidence="year" when="XXXX-01-01">
+       一月一日
+      </date>
+      ―
+      <date evidence="year" when="XXXX-01-04">
+       一月四日
+      </date>
+      ………………………………………………………　三一四
+     </item>
+     <pb xml:id="B2n02"/>
+     <item>
+      <date when="1930">
+       昭和五年
+      </date>
+      <date evidence="year" when="XXXX-01-01">
+       一月一日
+      </date>
+      ―
+      <date evidence="year" when="XXXX-01-08">
+       一月八日
+      </date>
+      ………………………………………………………　三一六
+     </item>
+    </list>
+    <list type="gloss">
+     <head>
+      <label>
+       集会日時通知表
+      </label>
+     </head>
+     <item>
+      <list>
+       <item>
+        解題
+       </item>
+      </list>
+     </item>
+     <item>
+      <date when="1913">
+       大正二年
+      </date>
+      …………………………………………………………………………………　三二三
+     </item>
+     <item>
+      <date when="1914">
+       大正三年
+      </date>
+      …………………………………………………………………………………　三二五
+     </item>
+     <item>
+      <date when="1915">
+       大正四年
+      </date>
+      …………………………………………………………………………………　三三四
+     </item>
+     <item>
+      <date when="1916">
+       大正五年
+      </date>
+      …………………………………………………………………………………　三五五
+     </item>
+     <item>
+      <date when="1917">
+       大正六年
+      </date>
+      …………………………………………………………………………………　三八四
+     </item>
+     <item>
+      <date when="1918">
+       大正七年
+      </date>
+      …………………………………………………………………………………　四一七
+     </item>
+     <item>
+      <date when="1919">
+       大正八年
+      </date>
+      …………………………………………………………………………………　四四八
+     </item>
+     <item>
+      <date when="1920">
+       大正九年
+      </date>
+      …………………………………………………………………………………　四八一
+     </item>
+     <item>
+      <date when="1921">
+       大正十年
+      </date>
+      …………………………………………………………………………………　五一一
+     </item>
+     <item>
+      <date when="1922">
+       大正十一年
+      </date>
+      ………………………………………………………………………………　五四一
+     </item>
+     <item>
+      <date when="1923">
+       大正十二年
+      </date>
+      ………………………………………………………………………………　五七七
+     </item>
+     <item>
+      <date when="1924">
+       大正十三年
+      </date>
+      ………………………………………………………………………………　六〇九
+     </item>
+     <item>
+      <date when="1925">
+       大正十四年
+      </date>
+      ………………………………………………………………………………　六四五
+     </item>
+     <pb xml:id="B2n03"/>
+     <item>
+      <date when="1926">
+       大正十五年
+      </date>
+      <date when="1926">
+       昭和元年
+      </date>
+      ……………………………………………………………………　六六〇
+     </item>
+     <item>
+      <date when="1927">
+       昭和二年
+      </date>
+      …………………………………………………………………………………　六九四
+     </item>
+     <item>
+      <date when="1928">
+       昭和三年
+      </date>
+      …………………………………………………………………………………　七二九
+     </item>
+     <item>
+      <date when="1929">
+       昭和四年
+      </date>
+      …………………………………………………………………………………　七五一
+     </item>
+     <item>
+      <date when="1930">
+       昭和五年
+      </date>
+      …………………………………………………………………………………　七六七
+     </item>
+     <item>
+      <date when="1931">
+       昭和六年
+      </date>
+      …………………………………………………………………………………　七八一
+     </item>
+    </list>
+   </div>
+  </front>
+  <group>
+   <text>
+    <front>
+     <titlePage xml:id="DKB20000f">
+      <docTitle>
+       <pb xml:id="B2nn4"/>
+       <titlePart type="subtitle">
+        日記（二）
+       </titlePart>
+      </docTitle>
+     </titlePage>
+    </front>
+    <group>
+     <text xml:id="DKB20001m">
+      <pb xml:id="B2001"/>
+      <front>
+       <head>
+        <date when="1915">
+         大正四年
+        </date>
+        <date when="1916">
+         大正五年
+        </date>
+        1915―1916
+       </head>
+       <div type="archival_description" xml:id="DKB20001m-0">
+        <head>
+         ○原本概要
+        </head>
+        <p>
+         書名。
+         <date when="1915">
+          大正四年
+         </date>
+         新案当用日記。
+        </p>
+        <p>
+         体裁。四六判13.6cm×19.7cm.背文字銀地紺ヌキ、クロス紺色。見返シ、白無色。
+        </p>
+        <p>
+         扉。淡青色地ニ墨色ニテ
+         <date when="1915">
+          大正四年
+         </date>
+         春陽堂発行新案当用日記紀
+         <date evidence="year inferenced" when="1915">
+          元二千五百七十五年
+         </date>
+         西暦
+         <date evidence="year inferenced" when="1915">
+          千九百十五年
+         </date>
+         ト円ノ中ニ印刷、兎ノカツトヲ配ス。
+        </p>
+        <p>
+         本文。四〇九頁（各月ノ初メニ二頁宛ソノ月ノ行事等ヲ掲グ）
+         <date evidence="year inferenced, month" when="1915-XX-01">
+          一日
+         </date>
+         一頁宛トシ、本文記入欄十一行、毎右側ニ新旧月日、七曜、干支、九星、六曜、詩歌散文等ヲ掲グ。天候記入ノ欄ナシ。記入ハ総テ鉛筆書キ。
+        </p>
+        <p>
+         奥付。
+         <date when="1914-10-15">
+          大正三年十月十五日
+         </date>
+         印刷、同年
+         <date evidence="year inferenced" when="1915-10-18">
+          十月十八日
+         </date>
+         発行、同年
+         <date evidence="year inferenced" when="1915-11-20">
+          十一月二十日
+         </date>
+         再版。新案当用日記定価金六拾銭、編輯者柳川春葉・斎藤松洲。発行者東京市日本橋区通四丁目五番地和田静子。印刷者東京市京橋区南小田原町三丁目九番地中野鍈太郎。印刷所東京市芝区愛宕町三丁目二番地東洋印刷株式会社。発行所東京市日本橋区通四丁目五番地春陽堂。電話本局五十一番。振替口座東京一六一七。不許複製・版権所有。
+        </p>
+        <p>
+         前付並ニ後付。略ス。
+        </p>
+       </div>
+      </front>
+      <body>
+       <div type="diary-entry" xml:id="DKB20001m-1">
+        <head>
+         <date evidence="year inferenced" when="1915-01-01">
+          一月一日
+         </date>
+         金
+        </head>
+        <p>
+         昨日ハ南風強クシテ雲行急ナリシカバ、今日ノ天気如何ト気遣ヘタリシモ、朝来快晴ニテ風少シ、午前
+         <time cert="low" when="08:00:00">
+          八時
+         </time>
+         起床、入浴シテ衣服ヲ改メ、
+         <time cert="low" when="09:00:00">
+          九時
+         </time>
+         頃ニ至リ家内打揃フテ屠蘇ノ祝盃ヲ挙ク、又、家僕其他外来人ノ新年祝賀ヲ受ク
+                                    大倉鶴彦翁明日満州旅行ノ途ニ上ルトテ告別ノ為来訪セラル、中日実業会社ノ要務ヲ托ス、横山、尾高、吉岡、増田ノ諸氏来賀ス
+                                    午前ヨリ昨年冬修正シ得サリシ演説筆記ヲ閲覧ス、夜ニ入リテ御伝記稿本ヲ校正ス
+                                    演説筆記ハ四回分ヲ修正シ、御伝記ハ二冊ヲ校ス、夜ニ入ルモ勤勉シテ午前
+         <time cert="low" when="13:00:00">
+          一時
+         </time>
+         ニ至リテ就寝ス
+        </p>
+       </div>
+       <div type="diary-entry" xml:id="DKB20001m-2">
+        <head>
+         <date evidence="year inferenced" when="1915-01-02">
+          一月二日
+         </date>
+         土
+        </head>
+        <p>
+         朝来雲多クシテ天日見ヘサルモ、雨トハナラス、午前
+         <time cert="low" when="08:00:00">
+          八時
+         </time>
+         起床、入浴後、各新聞紙類ヲ一覧ス、
+         <time cert="low" when="09:00:00">
+          九時
+         </time>
+         過ニ家人ト共ニ朝飧ス、阪谷氏来リ賀詞アリ、成瀬仁蔵氏来リ賀ス、帰一協会ノ事ヲ談ス、阪谷氏トハ電灯会社ノ事ヲ協議ス
+                                    関西評論社員来リテ時事問題ニ付談話ス、尾高次郎氏年賀ノ為来訪ス其家族多人数来訪ス、午後ヨリ諸方年賀客多ク来ル
+                                    朝飧後、書斎ニ於テ演説筆記ノ修正ニ勉ム、夜ニ入リテモ継続ス、夜食後、御伝記ノ校正ヲ為ス、午前
+         <time cert="low" when="13:30:00">
+          一時半
+         </time>
+         就寝 ★★B2002★
+        </p>
+       </div>
+       <div type="diary-entry" xml:id="DKB20001m-3">
+        <p>
+         中略：続きを入れてください～
+        </p>
+       </div>
+      </body>
+     </text>
+    </group>
+   </text>
+   <text>
+    <front>
+     <titlePage xml:id="DKB20014f">
+      <docTitle>
+       <pb xml:id="B2nn5"/>
+       <titlePart type="subtitle">
+        集会日時通知表
+       </titlePart>
+      </docTitle>
+     </titlePage>
+     <div type="preface" xml:id="DKB20014m">
+      <head>
+       解題
+      </head>
+      <p>
+       「集会日時通知表」とは、飛鳥山邸と渋沢事務所との間で、来訪者や栄一の訪問先き、会合等を相互に連絡し合うために用いられた表である。
+                            　用紙は厚手の洋紙で、大きさは38×26.5cm.一枚を半月分として日付其他が印刷されている。
+       <date evidence="year inferenced, month" when="1915-XX-01">
+        一日
+       </date>
+       は更に時間割に細分されていて（写真参照）、これに飛鳥山邸なり、渋沢事務所なりで必要事項を書き込んだものである。
+      </p>
+      <p>
+       栄一が飛鳥山邸を出る時、この表は折って革の袋に入れ、自動車の運転手に渡された。運転手はこの表に従って行く先きをきめた――と言われている。渋沢事務所に着くと、表は運転手から係に渡された。表の中に「御出勤」とあるのはその時間を示すものである。事務所では新たに発生した予定があれば書き加えた。その上で其日の会合や訪問に赴く時、表は再び運転手に渡り、運転手はこれに依って行動した。臨時に変更があった時は、書き込んだ予定を消したと伝えられているが、消し残しもあったであろうと想像される従って栄一の
+       <date evidence="year inferenced, month" when="1915-XX-01">
+        一日
+       </date>
+       の行動の大部分はこの表に依って知り得ると言ってよいであろう。
+      </p>
+      <p>
+       しかし、予定という点から言えば、飽くまで予定であって、事実を知ろうとすれば更に傍証を必要とする性質のものであるが、大体はこの通り行われたと見て大差はないし、少くともここに示されたものについては、栄一が面会や訪問、出席の意志のあった事は明白である。又、面会を約しながら時間が無くなって余儀なく打ち切ったり、出席すべき会合に欠席した場合も考えられるし、臨時の来訪者や急の訪問先きの変更等のあったことは、日記を参照すればこの表以外に更に多い事を知り得るが、主たるものはここに★★B2322★記入されているのである。急患の生じた場合で抹消されずにいるものもある。ここにはそれらを斟酌せず原本のままを活字とした。とまれ多岐にわたる栄一の行動はこの表に最も簡単に示されている。
+      </p>
+      <p>
+       この表は
+       <date when="1913">
+        大正二年
+       </date>
+       末から
+       <date when="1931">
+        昭和六年
+       </date>
+       （歿年）に至る十八カ年余が渋沢家に保存されていた。即ち栄一晩年の活動の記録というべきであり、この期間は日記も十分には書かれていないので、その補充としても不可欠の資料である。
+      </p>
+      <p>
+       尚、この表を渋沢事務所で整理したと見られる「集会控」と呼ぶ帳面二冊があるが、
+       <date when="1926-11-26">
+        大正十五年十一月二十六日
+       </date>
+       以降のものであり、「集会日時通知表」の方が更に古くから有るので「集会控」は収録しない事とした。又、竜門雑誌第四三三号（
+       <date evidence="day" when="1924-10">
+        大正十三年十月
+       </date>
+       ）以後に掲載せられた「青渊先生動静大要」は「集会控」に依ったものと思われる。
+      </p>
+     </div>
+    </front>
+    <group>
+     <text>
+      <body>
+       <div type="year" xml:id="DKB20015m">
+        <head>
+         <date when="1913">
+          <date when="1913">
+           大正二年
+          </date>
+          1913
+         </date>
+        </head>
+        <div type="month">
+         <head>
+          <date when="1913-12">
+           <date evidence="year inferenced, day" when="1915-12">
+            十二月
+           </date>
+          </date>
+         </head>
+         <div type="day" xml:id="DKB20015m-1">
+          <head>
+           <date when="1913-12-17">
+            <date evidence="year inferenced, month" when="1915-XX-17">
+             十七日
+            </date>
+            （水）
+           </date>
+          </head>
+          <listEvent>
+           <event>
+            <desc>
+             <time when="11:00:00">
+              午前
+              <time cert="low" when="11:00:00">
+               十一時
+              </time>
+             </time>
+             帝国劇場役員会（中央亭）
+            </desc>
+           </event>
+           <event>
+            <desc>
+             <time when="13:30:00">
+              午後
+              <time cert="low" when="01:30:00">
+               一時半
+              </time>
+             </time>
+             教育調査会（文部大臣官舎）
+            </desc>
+           </event>
+           <event>
+            <desc>
+             <time when="16:00:00">
+              午後
+              <time cert="low" when="04:00:00">
+               四時
+              </time>
+             </time>
+             渡米実業団記念会（日本橋クラブ）
+            </desc>
+           </event>
+          </listEvent>
+         </div>
+         <div3 xml:id="DKB20015m-2">
+          <head>
+           <date when="1913-12-18">
+            <date evidence="year inferenced, month" when="1915-XX-18">
+             十八日
+            </date>
+            （木）
+           </date>
+          </head>
+          <div4>
+           <p>
+            <time when="13:00:00">
+             午後
+             <time cert="low" when="01:00:00">
+              一時
+             </time>
+            </time>
+            第一銀行
+           </p>
+           <p>
+            <time when="15:00:00">
+             午後
+             <time cert="low" when="03:00:00">
+              三時
+             </time>
+            </time>
+            諸井恒平氏ヨリ御案内
+           </p>
+          </div4>
+         </div3>
+         <div3 xml:id="DKB20015m-3">
+          <head>
+           <date when="1913-12-19">
+            <date evidence="year inferenced, month" when="1915-XX-19">
+             十九日
+            </date>
+            （金）
+           </date>
+          </head>
+          <div4>
+           <p>
+            <time when="14:30:00">
+             午后
+             <time cert="low" when="02:30:00">
+              二時半
+             </time>
+            </time>
+            日本女子大学移転式御出席
+           </p>
+           <p>
+            <time when="17:00:00">
+             午後
+             <time cert="low" when="05:00:00">
+              五時
+             </time>
+            </time>
+            東照宮
+            <date evidence="year inferenced" when="1915">
+             三百年
+            </date>
+            奉斎会（華族会館）
+           </p>
+          </div4>
+         </div3>
+         <div3 xml:id="DKB20015m-4">
+          <head>
+           <date when="1913-12-20">
+            <date evidence="year inferenced, month" when="1915-XX-20">
+             廿日
+            </date>
+            （土）
+           </date>
+          </head>
+          <div4>
+           <p>
+            <time when="11:00:00">
+             午前
+             <time cert="low" when="11:00:00">
+              十一時
+             </time>
+            </time>
+            堀切善兵衛氏来約（兜町）
+           </p>
+           <p>
+            <time when="13:00:00">
+             午後
+             <time cert="low" when="01:00:00">
+              一時
+             </time>
+            </time>
+            在米同胞後援会ノ件（大隈伯）
+           </p>
+           <p>
+            <time when="16:30:00">
+             午後
+             <time cert="low" when="04:30:00">
+              四時半
+             </time>
+            </time>
+            帰一協会評議員会（上野精養軒）
+           </p>
+           <p>
+            <time when="17:00:00">
+             午後
+             <time cert="low" when="05:00:00">
+              五時
+             </time>
+            </time>
+            帰一協会例会（上野精養軒）
+           </p>
+          </div4>
+         </div3>
+         <div3 xml:id="DKB20015m-5">
+          <head>
+           <date when="1913-12-21">
+            <date evidence="year inferenced, month" when="1915-XX-21">
+             廿一日
+            </date>
+            （日）
+           </date>
+          </head>
+          <div4>
+           <p>
+            <time when="10:00:00">
+             午前
+             <time cert="low" when="10:00:00">
+              十時
+             </time>
+            </time>
+            故徳川公
+            <date evidence="year inferenced" when="1915">
+             三十年
+            </date>
+            祭（御邸）午后
+            <time cert="low" when="02:00:00">
+             二時
+            </time>
+            ヨリ御墓前祭（御墓所）
+           </p>
+           <p>
+            <time when="17:00:00">
+             午後
+             <time cert="low" when="05:00:00">
+              五時
+             </time>
+            </time>
+            養育院資増殖会慰労会（ツキジ精養軒）
+           </p>
+          </div4>
+         </div3>
+         <div3 xml:id="DKB20015m-6">
+          <head>
+           <date when="1913-12-22">
+            <date evidence="year inferenced, month" when="1915-XX-22">
+             廿二日
+            </date>
+            （月）
+           </date>
+          </head>
+          <div4>
+           <p>
+            <time when="10:00:00">
+             午前
+             <time cert="low" when="10:00:00">
+              十時
+             </time>
+            </time>
+            古河、中島両氏来ル（兜町）
+           </p>
+           <p>
+            <time when="10:00:00">
+             午前
+             <time cert="low" when="10:00:00">
+              十時
+             </time>
+            </time>
+            広沢氏来ル（兜町）
+           </p>
+           <p>
+            <time when="12:00:00">
+             正午
+            </time>
+            実業協会ノ午餐会（各大臣御招キ）（保険協会ニテ）
+           </p>
+          </div4>
+         </div3>
+         <div3 xml:id="DKB20015-7">
+          <head>
+           <date when="1913-12-23">
+            <date evidence="year inferenced, month" when="1915-XX-23">
+             廿三日
+            </date>
+            （火）
+           </date>
+          </head>
+          <div4>
+           <p>
+            <time when="09:00:00">
+             午前
+             <time cert="low" when="09:00:00">
+              九時
+             </time>
+            </time>
+            メキヒ《（メキシコ大使）》コ大使之件（商業役所《（商業会議所カ）》）
+           </p>
+           <p>
+            <time when="10:00:00">
+             午前
+             <time cert="low" when="10:00:00">
+              十時
+             </time>
+            </time>
+            木口九一氏来約（兜町）
+           </p>
+           <p>
+            <time when="13:00:00">
+             午后
+             <time cert="low" when="01:00:00">
+              一時
+             </time>
+            </time>
+            大六天町様《（第）》ノ顧問会
+           </p>
+          </div4>
+         </div3>
+         <div3 xml:id="DKB20015-8">
+          <head>
+           <date when="1913-12-24">
+            <date evidence="year inferenced, month" when="1915-XX-24">
+             廿四日
+            </date>
+            （水）
+           </date>
+          </head>
+          <div4>
+           <p>
+            <time when="10:00:00">
+             午前
+             <time cert="low" when="10:00:00">
+              十時
+             </time>
+            </time>
+            東京商業会議所ヘ御出向
+           </p>
+           <p>
+            <time when="13:00:00">
+             午後
+             <time cert="low" when="01:00:00">
+              一時
+             </time>
+            </time>
+            養育院委員会（東京市役所）
+           </p>
+           <p>
+            <time when="15:00:00">
+             午後
+             <time cert="low" when="03:00:00">
+              三時
+             </time>
+            </time>
+            博覧会事務所ヘ御出向（麴町区内幸町一丁目）
+           </p>
+           <p>
+            <time when="20:25:00">
+             午後
+             <time cert="low" when="08:25:00">
+              八時廿五分
+             </time>
+            </time>
+            倉知氏一行新橋着　但シ正雄殿ハ岡山ニ御立寄
+           </p>
+          </div4>
+         </div3>
+         <div3 xml:id="DKB20015-9">
+          <head>
+           <date when="1913-12-25">
+            <date evidence="year inferenced, month" when="1915-XX-25">
+             廿五日
+            </date>
+            （木）
+           </date>
+          </head>
+          <div4>
+           <p>
+            <time type="occasion">
+             午前中
+            </time>
+            第一銀行
+           </p>
+           <p>
+            <time when="11:00:00">
+             午前
+             <time cert="low" when="11:00:00">
+              十一時
+             </time>
+            </time>
+            神社奉祠会《（祀）》ノ件（内山下町内相官邸）
+           </p>
+           <p>
+            <time when="13:50:00">
+             午後
+             <time cert="low" when="01:50:00">
+              一時五十分
+             </time>
+            </time>
+            正雄殿新橋着
+           </p>
+           <p>
+            <time when="16:00:00">
+             午後
+             <time cert="low" when="04:00:00">
+              四時
+             </time>
+            </time>
+            宇治原退蔵氏結婚披露（大松閣）　外務大臣ヨリ御案内（官邸）　エンビフク、クンシヨウ
+           </p>
+          </div4>
+         </div3>
+         <div3 xml:id="DKB20015-10">
+          <p>
+           中略　続きを入れてください
+          </p>
+         </div3>
+        </div>
+       </div>
+      </body>
+     </text>
+     <text>
+      <body>
+       <div1 type="subtitle" xml:id="DKB20016m">
+        <head>
+         <date when="1914">
+          <date when="1914">
+           大正三年
+          </date>
+          1914
+         </date>
+        </head>
+        <div2>
+         <p>
+          中略　続きを入れてください
+         </p>
+         <div3>
+          <div4/>
+         </div3>
+        </div2>
+       </div1>
+      </body>
+     </text>
+    </group>
+   </text>
+  </group>
+  <back>
+   <pb xml:id="B2tt1"/>
+   <docTitle>
+    <titlePart>
+     渋沢栄一伝記資料　別巻第二　日記（二）他
+    </titlePart>
+   </docTitle>
+   <docImprint>
+    <date when="1966-11-20">
+     <date when="1966-11-20">
+      昭和四十一年十一月二十日
+     </date>
+    </date>
+    印刷（会員頒布）
+    <date when="1966-11-30">
+     <date when="1966-11-30">
+      昭和四十一年十一月三十日
+     </date>
+    </date>
+    発行
+    <publisher>
+     編纂兼発行者　渋沢青渊記念財団竜門社　理事長　酒井杏之助
+    </publisher>
+    印刷者　仙台市堤通二十七番地　笹気出版印刷株式会社　代表者　笹気幸助
+    <pubPlace>
+     発行所　東京都北区西ケ原二丁目十六番ノ一　渋沢青渊記念財団竜門社　電話東京九一一局二三一四番　振替貯金東京第四四五〇二番
+    </pubPlace>
+    印刷用紙　王子製紙株式会社　クロース　日本クロス工業株式会社 製本 株式会社小林製本所
+   </docImprint>
+  </back>
+ </text>
+</TEI>

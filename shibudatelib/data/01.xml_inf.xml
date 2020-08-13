@@ -4,11 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     渋沢栄一伝記資料別巻第
-     <date evidence="year, month" when="XXXX-XX-01">
-      一日
-     </date>
-     記のTEIマークアップ
+     渋沢栄一伝記資料別巻第一日記のTEIマークアップ
     </title>
     <respStmt>
      <resp>
@@ -63,11 +59,7 @@
     <biblStruct type="book">
      <monogr>
       <title level="m">
-       渋沢栄一伝記資料別巻第
-       <date evidence="year, month" when="XXXX-XX-01">
-        一日
-       </date>
-       記
+       渋沢栄一伝記資料別巻第一日記
       </title>
       <editor>
        渋沢青渊記念財団竜門社
@@ -145,11 +137,7 @@
     <pb xml:id="B1nn0a"/>
     <docTitle>
      <titlePart>
-      澁澤栄一傳記資料別巻第
-      <date evidence="year, month" when="XXXX-XX-01">
-       一日
-      </date>
-      記
+      澁澤栄一傳記資料別巻第一日記
      </titlePart>
     </docTitle>
     <byline>
@@ -162,11 +150,7 @@
    <div type="frontispiece" xml:id="DKB10000a">
     <pb xml:id="B1nn1"/>
     <p>
-     渋沢栄
-     <date evidence="year, month" when="XXXX-XX-01">
-      一日
-     </date>
-     記
+     渋沢栄一日記
     </p>
     <p>
      文部省史料館所蔵
@@ -231,9 +215,9 @@
       <date when="1902-09-10">
        明治三十五年九月十日
       </date>
-      ・十
-      <date evidence="year, month" when="XXXX-XX-01">
-       一日
+      ・
+      <date evidence="year, month" when="XXXX-XX-11">
+       十一日
       </date>
       本文第二七三頁―二七四頁参照
      </ab>
@@ -395,9 +379,9 @@
      <date evidence="year, day" when="XXXX-04">
       三十七年四月
      </date>
-     まであるが、各年に新しく出版されたのを用いたのではなく、
+     まであるが、各年に新しく出版されたのを用いたのではなく、三十
      <date evidence="year" when="XXXX">
-      三十一年
+      一年
      </date>
      出版のもの五冊に逐次書きこんで行ったものである。机上日記は自由日記のように頁ごとに月日の印刷がないので順次書き入れていて、新年になっても改めることはなく、そのまま書き続けて行っている。第一冊に「第一号」、第二冊目に「第二号」、第三冊目に「第三号」と記入しているが、それ以後この
      <pb xml:id="B1n03"/>
@@ -478,9 +462,9 @@
      <date evidence="year" when="XXXX">
       四十年
      </date>
-     、
+     、四十
      <date evidence="year" when="XXXX">
-      四十一年
+      一年
      </date>
      、
      <date evidence="year" when="XXXX">
@@ -494,11 +478,7 @@
     </fw>
     <table>
      <head>
-      渋沢栄
-      <date evidence="year, month" when="XXXX-XX-01">
-       一日
-      </date>
-      記原本並ニ写本一覧
+      渋沢栄一日記原本並ニ写本一覧
      </head>
      <note>
       原本所蔵者欄ノ「史料館」ハ文部省史料館、「竜門社」ハ渋沢青渊記念財団竜門社ノ略。
@@ -1396,11 +1376,7 @@
    </div>
    <div type="contents" xml:id="DKB10002e">
     <head>
-     渋沢栄一伝記資料別巻第
-     <date evidence="year, month" when="XXXX-XX-01">
-      一日
-     </date>
-     記 目次
+     渋沢栄一伝記資料別巻第一日記 目次
     </head>
     <pb xml:id="B1nn"/>
     <pb xml:id="B1n08"/>
@@ -1449,12 +1425,8 @@
        明治元年十一月三日
       </date>
       至
-      <date when="1869">
-       明治二年
-      </date>
-      正月
-      <date evidence="year, month" when="XXXX-XX-18">
-       十八日
+      <date when="1869-01-18">
+       明治二年正月十八日
       </date>
       …………………………………　　二七
      </item>
@@ -1504,10 +1476,7 @@
       </date>
       <list>
        <item>
-        <date evidence="year, month" when="XXXX-XX-04">
-         四日
-        </date>
-        市伏木新潟巡回紀行
+        四日市伏木新潟巡回紀行
         <date evidence="year" when="XXXX-05-26">
          五月二十六日
         </date>
@@ -1910,9 +1879,9 @@
                                 夫より海岸の海入場を添ふて昨日到着せし汽車場を通り、此地は岩山多し、道巨嵓に添ふて甚嶮ナリ、路傍にいと大なる岩山あり、
                                 其嶺に一の石にて築立たる台場あり、シヤーブール四万五千人、尤fort du Roule
                                 山は総而岩石ニ而道路屈曲せり、凡十丁斗にして巓にいたる、
-                                巓に大なる〓台あり、千八百五
+                                巓に大なる〓台あり、千八百
         <date evidence="year inferenced" when="1868">
-         十三年
+         五十三年
         </date>
         の製造といふ、兵卒の陣屋弾薬の貯所備れり、此台場は港を攻る兵の山裏より来るを禦く為なりといふ、
                                 砲台は土台場ニ而砲門はいまた備へす、第
@@ -2038,9 +2007,9 @@
         <time cert="low" when="10:30:00">
          十時半
         </time>
-        午餐、第
-        <time cert="low" when="11:40:00">
-         十一時四十分
+        午餐、第十
+        <time cert="low" when="01:40:00">
+         一時四十分
         </time>
         御旅宿を御発、昨日到着せし汽車場ニ而汽車乗組、第十
         <time cert="low" when="02:30:00">
@@ -2271,9 +2240,9 @@
         <date evidence="year inferenced" when="1868-08-12">
          八月十二日
         </date>
-        ヨリ同
-        <date evidence="year inferenced, month" when="1868-XX-23">
-         二十三日
+        ヨリ同二
+        <date evidence="year inferenced, month" when="1868-XX-13">
+         十三日
         </date>
         マデノ記事ヲ欠ク。
        </p>
@@ -3060,9 +3029,9 @@
         <date evidence="year inferenced" when="1868-09-17">
          九月十七日
         </date>
-        晴風　日　北緯十三度四十六　東経四十度三十一　速百八十九里　亜丁迄百八十里　十
-        <date evidence="year inferenced" when="1868-01-01">
-         一月一日
+        晴風　日　北緯十三度四十六　東経四十度三十一　速百八十九里　亜丁迄百八十里
+        <date evidence="year inferenced" when="1868-11-01">
+         十一月一日
         </date>
        </head>
        <p>
@@ -3405,9 +3374,9 @@
         <date evidence="year inferenced" when="1868-10-07">
          十月七日
         </date>
-        晴　金　発新嘉埠
-        <date evidence="year inferenced" when="1868-11-20">
-         十一月廿日
+        晴　金　発新嘉埠　十
+        <date evidence="year inferenced" when="1868-01-20">
+         一月廿日
         </date>
        </head>
        <p>
@@ -4098,9 +4067,8 @@
       </div>
       <div type="diary-entry" xml:id="DKB10001m-79">
        <head>
-        十
-        <date evidence="year inferenced" when="1868-01-01">
-         一月一日
+        <date evidence="year inferenced" when="1868-11-01">
+         十一月一日
         </date>
         晴　月　緯三十度五十八　経百弐十八度　弐百三十六里　横迄五百七十九里
         <date evidence="year inferenced" when="1868-12-14">
@@ -4248,12 +4216,8 @@
        明治元年十一月三日
       </date>
       至同
-      <date evidence="year inferenced" when="1868">
-       二年
-      </date>
-      正月
-      <date evidence="year inferenced, month" when="1868-XX-18">
-       十八日
+      <date evidence="year inferenced" when="1868-01-18">
+       二年正月十八日
       </date>
       1868―1869
      </head>
@@ -4389,9 +4353,9 @@
         <date evidence="year inferenced" when="1868-11-08">
          十一月八日
         </date>
-        晴　日
-        <date evidence="year inferenced" when="1868-12-21">
-         十二月廿一日
+        晴　日　十
+        <date evidence="year inferenced" when="1868-02-21">
+         二月廿一日
         </date>
        </head>
        <p>
@@ -4403,9 +4367,9 @@
         <date evidence="year inferenced" when="1868-11-09">
          十一月九日
         </date>
-        曇　月
-        <date evidence="year inferenced" when="1868-12-22">
-         十二月廿二日
+        曇　月　十
+        <date evidence="year inferenced" when="1868-02-22">
+         二月廿二日
         </date>
        </head>
        <p>
@@ -4433,9 +4397,9 @@
         <date evidence="year inferenced" when="1868-11-11">
          十一月十一日
         </date>
-        晴　水
-        <date evidence="year inferenced" when="1868-12-24">
-         十二月廿四日
+        晴　水　十
+        <date evidence="year inferenced" when="1868-02-24">
+         二月廿四日
         </date>
        </head>
        <p>
@@ -4448,16 +4412,16 @@
         <date evidence="year inferenced" when="1868-11-12">
          十一月十二日
         </date>
-        晴　木
-        <date evidence="year inferenced" when="1868-12-25">
-         十二月廿五日
+        晴　木　十
+        <date evidence="year inferenced" when="1868-02-25">
+         二月廿五日
         </date>
        </head>
        <p>
         朝、黄賓行之儀ニ付、泉太郎申談いたす ヒストル三四挺、銀時計五ツ計御買上之積申談有之
-                                荷物調分いたす、三ツ井手代来る、金子受取、杉浦愛蔵来、黄行之儀申談、明後十
-        <date evidence="year inferenced, month" when="1868-XX-04">
-         四日
+                                荷物調分いたす、三ツ井手代来る、金子受取、杉浦愛蔵来、黄行之儀申談、明後
+        <date evidence="year inferenced, month" when="1868-XX-14">
+         十四日
         </date>
         出立之積申談、諸勘定いたす
                                 吉田次郎来、仏行書状之儀申談★★B1029★
@@ -4608,9 +4572,9 @@
         <date evidence="year inferenced" when="1868-11-19">
          十一月十九日
         </date>
-        美晴　千八百六
+        美晴　千八百
         <date evidence="year inferenced" when="1868">
-         十九年
+         六十九年
         </date>
         第
         <date evidence="year inferenced" when="1868-01-01">
@@ -4633,8 +4597,9 @@
       </div>
       <div type="diary-entry" xml:id="DKB10002m-18">
        <head>
-        <date evidence="year inferenced" when="1868-11-20">
-         十一月廿日
+        十
+        <date evidence="year inferenced" when="1868-01-20">
+         一月廿日
         </date>
         晴
         <date evidence="year inferenced" when="1868-01-02">
@@ -4741,9 +4706,9 @@
          四時
         </time>
         頃礫邸へ出る、明日仏行御供之者一同罷出候様被申渡
-                                栗本仏行勘定書之儀ニ付、明後
-        <date evidence="year inferenced, month" when="1868-XX-27">
-         廿七日
+                                栗本仏行勘定書之儀ニ付、明後廿
+        <date evidence="year inferenced, month" when="1868-XX-07">
+         七日
         </date>
         田安殿可罷出旨相達す、夕方帰宿、此夜伊東玄伯之招に応し、杉浦同行、両国川長といふ割庖楼に至る、夜十
         <time cert="low" when="01:00:00">
@@ -4922,9 +4887,9 @@
         <date evidence="year inferenced" when="1868-01-17">
          一月十七日
         </date>
-        《（
-        <date evidence="year inferenced, month" when="1868-XX-18">
-         十八日
+        《（十
+        <date evidence="year inferenced, month" when="1868-XX-08">
+         八日
         </date>
         ）》
        </head>
@@ -4987,16 +4952,16 @@
         <date evidence="year inferenced" when="1868-01-20">
          一月廿日
         </date>
-        《（二十
-        <date evidence="year inferenced, month" when="1868-XX-01">
-         一日
+        《（二
+        <date evidence="year inferenced, month" when="1868-XX-11">
+         十一日
         </date>
         ）》
        </head>
        <p>
-        朝、杉浦同行飯田丁ニ而平岡四郎を訪ふ、不在ニ付明朝を約し、夫より御殿へ出る、大久保一翁に逢而駿府出立之儀申立る、郷里より帰着せし儀、駿出立之儀其外届差出す、森川面会、開成所残金会計局へ返納之儀、仏行之者御手当請取方等申談、来
-        <date evidence="year inferenced, month" when="1868-XX-12">
-         十二日
+        朝、杉浦同行飯田丁ニ而平岡四郎を訪ふ、不在ニ付明朝を約し、夫より御殿へ出る、大久保一翁に逢而駿府出立之儀申立る、郷里より帰着せし儀、駿出立之儀其外届差出す、森川面会、開成所残金会計局へ返納之儀、仏行之者御手当請取方等申談、来十
+        <date evidence="year inferenced, month" when="1868-XX-02">
+         二日
         </date>
         一同出殿之積相約し、夕方退散、夫より礫邸へ出る、公子明日水国御発途ニ付、夜拝謁被仰付、★★B1033★御内用之儀被仰聞、菊池平八郎其他之者面会、爾後之御用手筈打合、夜
         <time cert="low" when="10:00:00">
@@ -5018,9 +4983,9 @@
         <date evidence="year inferenced" when="1868-01-21">
          一月廿一日
         </date>
-        《（
-        <date evidence="year inferenced, month" when="1868-XX-22">
-         廿二日
+        《（廿
+        <date evidence="year inferenced, month" when="1868-XX-02">
+         二日
         </date>
         ）》
        </head>
@@ -5049,9 +5014,9 @@
         <date evidence="year inferenced" when="1868-01-22">
          一月廿二日
         </date>
-        《（
-        <date evidence="year inferenced, month" when="1868-XX-23">
-         廿三日
+        《（廿
+        <date evidence="year inferenced, month" when="1868-XX-03">
+         三日
         </date>
         ）》
        </head>
@@ -5076,9 +5041,9 @@
         <date evidence="year inferenced" when="1868-01-23">
          一月廿三日
         </date>
-        《（廿
-        <date evidence="year inferenced, month" when="1868-XX-04">
-         四日
+        《（
+        <date evidence="year inferenced, month" when="1868-XX-24">
+         廿四日
         </date>
         ）》
        </head>
@@ -5096,9 +5061,9 @@
         <date evidence="year inferenced" when="1868-01-24">
          一月廿四日
         </date>
-        《（
-        <date evidence="year inferenced, month" when="1868-XX-25">
-         廿五日
+        《（廿
+        <date evidence="year inferenced, month" when="1868-XX-05">
+         五日
         </date>
         ）》
        </head>
@@ -5143,9 +5108,9 @@
         <date evidence="year inferenced" when="1868-01-26">
          一月廿六日
         </date>
-        《（
-        <date evidence="year inferenced, month" when="1868-XX-27">
-         廿七日
+        《（廿
+        <date evidence="year inferenced, month" when="1868-XX-07">
+         七日
         </date>
         ）》
        </head>
@@ -5170,9 +5135,9 @@
         <date evidence="year inferenced" when="1868-01-27">
          一月廿七日
         </date>
-        《（
-        <date evidence="year inferenced, month" when="1868-XX-28">
-         廿八日
+        《（廿
+        <date evidence="year inferenced, month" when="1868-XX-08">
+         八日
         </date>
         ）》
        </head>
@@ -5252,9 +5217,9 @@
          三時
         </time>
         頃府中着、問屋場ニ而旅宿を談し、油屋吉五郎といふ旗亭投宿、脇阪米次郎来、鵜飼弥一来、同行ニ而七軒町天麩羅やに罷越、夫より上石町汁粉屋に至る、夜、帰宿
-                                　　　梅沢旅宿 　伝馬丁裏鷹匠町 　安在五丁目黄村旅宿 　今村惣右衛門宅 　明後
-        <date evidence="year inferenced, month" when="1868-XX-22">
-         廿二日
+                                　　　梅沢旅宿 　伝馬丁裏鷹匠町 　安在五丁目黄村旅宿 　今村惣右衛門宅 　明後廿
+        <date evidence="year inferenced, month" when="1868-XX-02">
+         二日
         </date>
         朝
                                 神田小柳町梅田慎之助方ニ而川村刀金物請取持参之事
@@ -5281,8 +5246,9 @@
       </div>
       <div type="diary-entry" xml:id="DKB10002m-49">
        <head>
-        <date evidence="year inferenced" when="1868-12-21">
-         十二月廿一日
+        十
+        <date evidence="year inferenced" when="1868-02-21">
+         二月廿一日
         </date>
         雨
        </head>
@@ -5316,9 +5282,9 @@
                                 　　　　　四郎殿　　鷹匠町左側 　　　　余十郎殿　　紺屋町清水尻 ★★B1035★ 　　　　　尚助殿　　草深
                                 　　　　虎次郎殿　　鷹匠町右側 　　　奉願候書付　　　　　　　　　　　　渋沢篤太夫
                                 　私義今般不存寄御勘定組頭被　命難有仕合奉存候、然処去月中民部大輔殿御附添仏国より帰朝仕候以来病身に相成、御用多之御場処勤仕出来兼候様奉存候間、御役御免被成下置候様仕度此段奉願候、以上
-                                　　辰
-        <date evidence="year inferenced" when="1868-12-25">
-         十二月廿五日
+                                　　辰十
+        <date evidence="year inferenced" when="1868-02-25">
+         二月廿五日
         </date>
         元開成所調役 　　　　　　　　　　　　　　　　　　　 渋沢篤太夫
        </p>
@@ -5327,8 +5293,9 @@
      <div type="diary">
       <div type="diary-entry" xml:id="DKB10002m-51">
        <head>
-        <date evidence="year inferenced" when="1868-12-22">
-         十二月廿二日
+        十
+        <date evidence="year inferenced" when="1868-02-22">
+         二月廿二日
         </date>
         晴
        </head>
@@ -5363,8 +5330,9 @@
       </div>
       <div type="diary-entry" xml:id="DKB10002m-53">
        <head>
-        <date evidence="year inferenced" when="1868-12-24">
-         十二月廿四日
+        十
+        <date evidence="year inferenced" when="1868-02-24">
+         二月廿四日
         </date>
         曇午後雨
        </head>
@@ -5379,14 +5347,18 @@
       </div>
       <div type="diary-entry" xml:id="DKB10002m-54">
        <head>
-        <date evidence="year inferenced" when="1868-12-25">
-         十二月廿五日
+        十
+        <date evidence="year inferenced" when="1868-02-25">
+         二月廿五日
         </date>
         雨
        </head>
        <p>
         朝、杉浦愛蔵来、昨日之手続申聞る、梅沢孫太郎へ書状遣す、今日不快ニ而出勤相成兼候旨愛蔵へ托し、御勘定所へ書状差遣す、林研海、鵜飼弥一来、脇坂木次郎来《（脇坂米次郎）》、夕方願書持参ニ而平岡四郎を訪ふ、不快ニ付不逢、帰後書状を以申遣す
-                                　正月朔
+        <date evidence="year inferenced, day" when="1868-01">
+         正月
+        </date>
+        朔
         <time cert="low" when="05:00:00">
          五時
         </time>
@@ -5410,9 +5382,9 @@
         <time cert="low" when="05:00:00">
          五時
         </time>
-        揃　　服紗小袖麻上下 　十
-        <date evidence="year inferenced, month" when="1868-XX-01">
-         一日
+        揃　　服紗小袖麻上下
+        <date evidence="year inferenced, month" when="1868-XX-11">
+         十一日
         </date>
         不勤之者御礼
         <date evidence="year inferenced, month" when="1868-XX-15">
@@ -5473,9 +5445,9 @@
         <date when="1869">
          明治二年
         </date>
-        巳正月
-        <date evidence="year inferenced, month" when="1868-XX-01">
-         元日
+        巳
+        <date evidence="year inferenced" when="1868-01-01">
+         正月元日
         </date>
         晴
        </head>
@@ -5636,9 +5608,9 @@
         <date evidence="year inferenced, day" when="1868-01">
          一月
         </date>
-        ）十
-        <date evidence="year inferenced, month" when="1868-XX-01">
-         一日
+        ）
+        <date evidence="year inferenced, month" when="1868-XX-11">
+         十一日
         </date>
         晴
        </head>
@@ -5653,9 +5625,9 @@
         <date evidence="year inferenced, day" when="1868-01">
          一月
         </date>
-        ）
-        <date evidence="year inferenced, month" when="1868-XX-12">
-         十二日
+        ）十
+        <date evidence="year inferenced, month" when="1868-XX-02">
+         二日
         </date>
         晴
        </head>
@@ -5669,9 +5641,9 @@
         <date evidence="year inferenced, day" when="1868-01">
          一月
         </date>
-        ）十
-        <date evidence="year inferenced, month" when="1868-XX-03">
-         三日
+        ）
+        <date evidence="year inferenced, month" when="1868-XX-13">
+         十三日
         </date>
         晴
        </head>
@@ -5685,9 +5657,9 @@
         <date evidence="year inferenced, day" when="1868-01">
          一月
         </date>
-        ）十
-        <date evidence="year inferenced, month" when="1868-XX-04">
-         四日
+        ）
+        <date evidence="year inferenced, month" when="1868-XX-14">
+         十四日
         </date>
         晴
        </head>
@@ -5717,9 +5689,9 @@
         <date evidence="year inferenced, day" when="1868-01">
          一月
         </date>
-        ）十
-        <date evidence="year inferenced, month" when="1868-XX-06">
-         六日
+        ）
+        <date evidence="year inferenced, month" when="1868-XX-16">
+         十六日
         </date>
         晴
        </head>
@@ -5750,9 +5722,9 @@
         <date evidence="year inferenced, day" when="1868-01">
          一月
         </date>
-        ）
-        <date evidence="year inferenced, month" when="1868-XX-18">
-         十八日
+        ）十
+        <date evidence="year inferenced, month" when="1868-XX-08">
+         八日
         </date>
         雨夕晴
        </head>
@@ -5851,9 +5823,9 @@
          <date evidence="year inferenced, month" when="1868-XX-15">
           十五日
          </date>
-         一　金五両也　　　　　　　　　　　　藤沢ニ而渡 十
-         <date evidence="year inferenced, month" when="1868-XX-04">
-          四日
+         一　金五両也　　　　　　　　　　　　藤沢ニ而渡
+         <date evidence="year inferenced, month" when="1868-XX-14">
+          十四日
          </date>
          一　壱〆七百文　　　　　　　　　　　川崎ニ而渡 　　　　　　　　　　　　　　　　　　　　川崎ニ而渡
                                     　一　壱両七百文《（〆カ）》 　　　　　　　　　　　　　　　　　　　　同断 　一　三朱ト九百文　　　　　　　　　　　　別入用之分
@@ -5862,9 +5834,9 @@
          <date evidence="year inferenced, month" when="1868-XX-17">
           十七日
          </date>
-         一　金七両也　　　　　　　　　　　　三島ニ而渡
-         <date evidence="year inferenced, month" when="1868-XX-18">
-          十八日
+         一　金七両也　　　　　　　　　　　　三島ニ而渡 十
+         <date evidence="year inferenced, month" when="1868-XX-08">
+          八日
          </date>
          一　金五両　　　　　　　　　　　　　　原ニ而渡
          <date evidence="year inferenced, month" when="1868-XX-19">
@@ -5902,16 +5874,16 @@
                                     一　同百両　　　　　　　　　　　　　　　　追而一紙ニ而請取差出し 　　〆弐千六百両　　　　　　　　　　　　　利金取究候積之事
                                     同断 　　外ニ三百八［　　］両《（原本欠字）》　　　　　　　呉服代 　金八百〇壱両壱分銀弐匁五分 　　　　　　　　　此銭五百文
                                     　内五百八拾九両三分 　　　　　　　　　永弐百十九文壱分 　　　　　　　　　此金弐朱ト九百三文
-                                    　差引　　　　　　　　　　　　　　　　　　十
-         <date evidence="year inferenced, month" when="1868-XX-03">
-          三日
+                                    　差引
+         <date evidence="year inferenced, month" when="1868-XX-13">
+          十三日
          </date>
          〆弐百拾壱両壱分　　　　　　　　　　　　　川勝江
                                     　　　　　　　　　銭七百九十三文　　　　　　　　持参渡 高金千九拾両弐分永百四十九文弐分之内
                                     　　　　　　　　　　　　　　　　　　　　加太八兵衛 一　金三百八拾七両壱分永百壱文弐分
-                                    　残七百三両壱分永四十八文来巳正月
-         <date evidence="year inferenced, month" when="1868-XX-20">
-          廿日
+                                    　残七百三両壱分永四十八文来巳
+         <date evidence="year inferenced" when="1868-01-20">
+          正月廿日
          </date>
          迄調達之積書面差出ニ付勘弁日延いたし遣候事
         </p>
@@ -6014,9 +5986,9 @@
         <date evidence="year inferenced" when="1869-08-26">
          八月廿六日
         </date>
-        上ル 同
-        <date evidence="year inferenced, month" when="1869-XX-28">
-         廿八日
+        上ル 同廿
+        <date evidence="year inferenced, month" when="1869-XX-08">
+         八日
         </date>
         伺済 　一翁殿 　商法会所御廃止常平倉御取建之儀ニ付取扱振相伺候書付
                             　　　　　　　　　　　　　　　　　　　　　　渋沢篤太郎 藩上之利お不計諸民之益を主とすへき事
@@ -6115,9 +6087,9 @@
         <date evidence="year inferenced, day" when="1869-10">
          十月
         </date>
-        ）
-        <date evidence="year inferenced, month" when="1869-XX-22">
-         廿二日
+        ）廿
+        <date evidence="year inferenced, month" when="1869-XX-02">
+         二日
         </date>
        </head>
        <p>
@@ -6135,9 +6107,9 @@
         <date evidence="year inferenced, day" when="1869-10">
          十月
         </date>
-        ）
-        <date evidence="year inferenced, month" when="1869-XX-23">
-         廿三日
+        ）廿
+        <date evidence="year inferenced, month" when="1869-XX-03">
+         三日
         </date>
        </head>
        <p>
@@ -6151,9 +6123,9 @@
         <date evidence="year inferenced, day" when="1869-10">
          十月
         </date>
-        ）廿
-        <date evidence="year inferenced, month" when="1869-XX-04">
-         四日
+        ）
+        <date evidence="year inferenced, month" when="1869-XX-24">
+         廿四日
         </date>
        </head>
        <p>
@@ -6166,9 +6138,9 @@
         <date evidence="year inferenced, day" when="1869-10">
          十月
         </date>
-        ）
-        <date evidence="year inferenced, month" when="1869-XX-25">
-         廿五日
+        ）廿
+        <date evidence="year inferenced, month" when="1869-XX-05">
+         五日
         </date>
         晴
        </head>
@@ -6203,9 +6175,9 @@
         <date evidence="year inferenced, day" when="1869-10">
          十月
         </date>
-        ）
-        <date evidence="year inferenced, month" when="1869-XX-27">
-         廿七日
+        ）廿
+        <date evidence="year inferenced, month" when="1869-XX-07">
+         七日
         </date>
        </head>
        <p>
@@ -6218,9 +6190,9 @@
         <date evidence="year inferenced, day" when="1869-10">
          十月
         </date>
-        ）
-        <date evidence="year inferenced, month" when="1869-XX-28">
-         廿八日
+        ）廿
+        <date evidence="year inferenced, month" when="1869-XX-08">
+         八日
         </date>
         晴
        </head>
@@ -6442,9 +6414,9 @@
         <date evidence="year inferenced, day" when="1869-01">
          一月
         </date>
-        ）十
-        <date evidence="year inferenced, month" when="1869-XX-01">
-         一日
+        ）
+        <date evidence="year inferenced, month" when="1869-XX-11">
+         十一日
         </date>
         晴
        </head>
@@ -6452,15 +6424,15 @@
         休日ニ付、朝より調物宅にて認分いたし、午後南八丁堀にて郷之邸を訪ひ、夫より大少輔大少丞を訪ふ、坂出三郎を訪ふ、夜に入る迄談話す風邪之気故同所より駕を命し帰宿す
        </p>
       </div>
-      <div type="diary-entry" xml:id="DKB10003m-22" subtype="wather=晴&when=1999-08-08" >
+      <div type="diary-entry" xml:id="DKB10003m-22">
        <head>
         （十
         <date evidence="year inferenced, day" when="1869-01">
          一月
         </date>
-        ）
-        <date evidence="year inferenced, month" when="1869-XX-12">
-         十二日
+        ）十
+        <date evidence="year inferenced, month" when="1869-XX-02">
+         二日
         </date>
         曇夕雨
        </head>
@@ -6474,9 +6446,9 @@
         <date evidence="year inferenced, day" when="1869-01">
          一月
         </date>
-        ）十
-        <date evidence="year inferenced, month" when="1869-XX-03">
-         三日
+        ）
+        <date evidence="year inferenced, month" when="1869-XX-13">
+         十三日
         </date>
         雨
        </head>
@@ -6491,9 +6463,9 @@
         <date evidence="year inferenced, day" when="1869-01">
          一月
         </date>
-        ）十
-        <date evidence="year inferenced, month" when="1869-XX-04">
-         四日
+        ）
+        <date evidence="year inferenced, month" when="1869-XX-14">
+         十四日
         </date>
         晴
        </head>
@@ -6525,9 +6497,9 @@
         <date evidence="year inferenced, day" when="1869-01">
          一月
         </date>
-        ）十
-        <date evidence="year inferenced, month" when="1869-XX-06">
-         六日
+        ）
+        <date evidence="year inferenced, month" when="1869-XX-16">
+         十六日
         </date>
         晴
        </head>
@@ -6565,9 +6537,9 @@
         <date evidence="year inferenced, day" when="1869-01">
          一月
         </date>
-        ）
-        <date evidence="year inferenced, month" when="1869-XX-18">
-         十八日
+        ）十
+        <date evidence="year inferenced, month" when="1869-XX-08">
+         八日
         </date>
         晴
        </head>
@@ -6640,11 +6612,7 @@
         </head>
         <div type="diary-entry" xml:id="DKB10004m-1">
          <p>
-          大坂、西京及
-          <date evidence="year inferenced, month" when="1884-XX-04">
-           四日
-          </date>
-          市、敦賀等ノ各地ヲ巡回シ、各支店営業ノ実況ヲ査察スル為、東京本店ヲ発セシハ
+          大坂、西京及四日市、敦賀等ノ各地ヲ巡回シ、各支店営業ノ実況ヲ査察スル為、東京本店ヲ発セシハ
           <date evidence="year inferenced" when="1884-05-28">
            五月廿八日
           </date>
@@ -6697,9 +6665,9 @@
           <date evidence="year inferenced, day" when="1884-05">
            五月
           </date>
-          ）三
-          <date evidence="year inferenced, month" when="1884-XX-10">
-           十日
+          ）
+          <date evidence="year inferenced, month" when="1884-XX-30">
+           三十日
           </date>
          </head>
          <p>
@@ -6712,9 +6680,9 @@
           <date evidence="year inferenced, day" when="1884-05">
            五月
           </date>
-          ）三十
-          <date evidence="year inferenced, month" when="1884-XX-01">
-           一日
+          ）三
+          <date evidence="year inferenced, month" when="1884-XX-11">
+           十一日
           </date>
          </head>
          <p>
@@ -6749,11 +6717,7 @@
            三時
           </time>
           静岡ニ達ス、宿ヲ大万屋ニ投ス 此夜紺屋町邸ニ於テ 正二位公ニ謁ス
-                                        森理七、武沢、大久保数氏来訪ス 益田氏及柴崎ヘ書ヲ発ス
-          <date evidence="year inferenced, month" when="1884-XX-04">
-           四日
-          </date>
-          市八巻氏ヘ明後
+                                        森理七、武沢、大久保数氏来訪ス 益田氏及柴崎ヘ書ヲ発ス 四日市八巻氏ヘ明後
           <date evidence="year inferenced, month" when="1884-XX-03">
            三日
           </date>
@@ -6801,15 +6765,8 @@
           <time cert="low" when="05:00:00">
            五時
           </time>
-          <date evidence="year inferenced, month" when="1884-XX-04">
-           四日
-          </date>
-          市ニ達シ、浜田屋某ノ海岸新居ニ投宿ス
-                                        着後、
-          <date evidence="year inferenced, month" when="1884-XX-04">
-           四日
-          </date>
-          市支店ヲ訪ヒ市街ヲ遊歩ス 夜、古谷竜蔵共同会社須藤甫三井銀行及八巻、中島、田原ノ諸氏来話ス
+          四日市ニ達シ、浜田屋某ノ海岸新居ニ投宿ス
+                                        着後、四日市支店ヲ訪ヒ市街ヲ遊歩ス 夜、古谷竜蔵共同会社須藤甫三井銀行及八巻、中島、田原ノ諸氏来話ス
          </p>
         </div>
         <div type="diary-entry" xml:id="DKB10004m-8">
@@ -6819,11 +6776,7 @@
           </date>
          </head>
          <p>
-          晴、
-          <date evidence="year inferenced, month" when="1884-XX-04">
-           四日
-          </date>
-          市滞留《東京本店其外ニ郵書ヲ発ス》、朝田中武兵衛、伊藤伝七、九鬼文之助、古谷竜蔵田中店支配人等数名来話ス、午後
+          晴、四日市滞留《東京本店其外ニ郵書ヲ発ス》、朝田中武兵衛、伊藤伝七、九鬼文之助、古谷竜蔵田中店支配人等数名来話ス、午後
           <time cert="low" when="01:00:00">
            一時
           </time>
@@ -6942,11 +6895,7 @@
           <time cert="low" when="06:00:00">
            六時
           </time>
-          頃《東京、
-          <date evidence="year inferenced, month" when="1884-XX-04">
-           四日
-          </date>
-          市ニ書状ヲ発ス》、大坂店熊谷辰太郎、紡績会社山辺、蒲田両氏来訪ス
+          頃《東京、四日市ニ書状ヲ発ス》、大坂店熊谷辰太郎、紡績会社山辺、蒲田両氏来訪ス
           <time cert="low" when="07:00:00">
            七時
           </time>
@@ -6964,9 +6913,9 @@
           </date>
          </head>
          <p>
-          朝《東京本店ニ出状ス》、熊谷、山辺、蒲田来ル、談話数刻、各去テ大坂ニ帰ル、依テ来ル十
-          <date evidence="year inferenced, month" when="1884-XX-03">
-           三日
+          朝《東京本店ニ出状ス》、熊谷、山辺、蒲田来ル、談話数刻、各去テ大坂ニ帰ル、依テ来ル
+          <date evidence="year inferenced, month" when="1884-XX-13">
+           十三日
           </date>
           ヲ以テ大坂ニ抵リ、紡績会社ノ開業式ハ
           <date evidence="year inferenced, month" when="1884-XX-15">
@@ -7019,9 +6968,9 @@
           <date evidence="year inferenced, day" when="1884-06">
            六月
           </date>
-          ）十
-          <date evidence="year inferenced, month" when="1884-XX-01">
-           一日
+          ）
+          <date evidence="year inferenced, month" when="1884-XX-11">
+           十一日
           </date>
          </head>
          <p>
@@ -7044,9 +6993,9 @@
           <date evidence="year inferenced, day" when="1884-06">
            六月
           </date>
-          ）
-          <date evidence="year inferenced, month" when="1884-XX-12">
-           十二日
+          ）十
+          <date evidence="year inferenced, month" when="1884-XX-02">
+           二日
           </date>
          </head>
          <p>
@@ -7077,9 +7026,9 @@
           <date evidence="year inferenced, day" when="1884-06">
            六月
           </date>
-          ）十
-          <date evidence="year inferenced, month" when="1884-XX-03">
-           三日
+          ）
+          <date evidence="year inferenced, month" when="1884-XX-13">
+           十三日
           </date>
          </head>
          <p>
@@ -7104,9 +7053,9 @@
           <date evidence="year inferenced, day" when="1884-06">
            六月
           </date>
-          ）十
-          <date evidence="year inferenced, month" when="1884-XX-04">
-           四日
+          ）
+          <date evidence="year inferenced, month" when="1884-XX-14">
+           十四日
           </date>
          </head>
          <p>
@@ -7162,9 +7111,9 @@
           <date evidence="year inferenced, day" when="1884-06">
            六月
           </date>
-          ）十
-          <date evidence="year inferenced, month" when="1884-XX-06">
-           六日
+          ）
+          <date evidence="year inferenced, month" when="1884-XX-16">
+           十六日
           </date>
          </head>
          <p>
@@ -7193,15 +7142,8 @@
         </head>
         <div type="note" xml:id="DKB10004m-23">
          <p>
-          名古屋銀行 　　名古屋伝馬町 　　　　水野良助
-          <date evidence="year inferenced, month" when="1884-XX-04">
-           四日
-          </date>
-          市在室山村 　　　　伊藤伝七 　紡績器械増築ノ事及ニールト氏巡視ノ事
-          <date evidence="year inferenced, month" when="1884-XX-04">
-           四日
-          </date>
-          市ニテ倉庫会社法設置ノ事 　　　　金泉楼即事 　無復繊毫承俗紛。高楼眠覚已斜曛。添水蛍火捲簾見。隔岸蛙声欹枕聞。
+          名古屋銀行 　　名古屋伝馬町 　　　　水野良助 　四日市在室山村 　　　　伊藤伝七 　紡績器械増築ノ事及ニールト氏巡視ノ事
+                                    　四日市ニテ倉庫会社法設置ノ事 　　　　金泉楼即事 　無復繊毫承俗紛。高楼眠覚已斜曛。添水蛍火捲簾見。隔岸蛙声欹枕聞。
                                     　幽草緑陰尚勝春。白雲堆処一亭新。平生未遇閑日月。客裏風光却属身。 　　　　倉沢途上
                                     　浦々薫風送細漣。軽帆遠去杳如煙。雲意不知光景美。半捲富峰未現巓。 　　　　甲申
           <date evidence="year inferenced, day" when="1884-06">
@@ -7248,11 +7190,7 @@
         </head>
         <div type="diary-entry" xml:id="DKB10005m-1">
          <p>
-          大阪、西京、神戸、
-          <date evidence="year inferenced, month" when="1884-XX-04">
-           四日
-          </date>
-          市及敦賀等ノ各地ヲ巡回シ、各支店営業ノ実際ヲ視察シ、行務ノ各項ヲ撿閲スヘキ為メ東京本店ヲ発セシハ
+          大阪、西京、神戸、四日市及敦賀等ノ各地ヲ巡回シ、各支店営業ノ実際ヲ視察シ、行務ノ各項ヲ撿閲スヘキ為メ東京本店ヲ発セシハ
           <date evidence="year inferenced" when="1884-05-28">
            五月二十八日
           </date>
@@ -7283,9 +7221,9 @@
           <date evidence="year inferenced, day" when="1884-05">
            五月
           </date>
-          ）三十
-          <date evidence="year inferenced, month" when="1884-XX-01">
-           一日
+          ）三
+          <date evidence="year inferenced, month" when="1884-XX-11">
+           十一日
           </date>
           曇
          </head>
@@ -7322,11 +7260,7 @@
            三時
           </time>
           静岡ニ至リ大万屋ニ投宿ス
-                                        此夜紺屋町邸ニ於テ正二位公ニ謁シ款話数時ニシテ帰宿ス、森理七、大久保、黒崎諸子来話ス、益田孝氏及留守宅ヘ郵書ヲ発シ、
-          <date evidence="year inferenced, month" when="1884-XX-04">
-           四日
-          </date>
-          市八巻氏ヘ電報シテ、
+                                        此夜紺屋町邸ニ於テ正二位公ニ謁シ款話数時ニシテ帰宿ス、森理七、大久保、黒崎諸子来話ス、益田孝氏及留守宅ヘ郵書ヲ発シ、四日市八巻氏ヘ電報シテ、
           <date evidence="year inferenced, month" when="1884-XX-03">
            三日
           </date>
@@ -7376,15 +7310,8 @@
           <time cert="low" when="05:00:00">
            五時
           </time>
-          <date evidence="year inferenced, month" when="1884-XX-04">
-           四日
-          </date>
-          市ニ至リ浜田屋某ニ投宿ス
-                                        着後、
-          <date evidence="year inferenced, month" when="1884-XX-04">
-           四日
-          </date>
-          市新設ノ支店ヲ巡視シ行務ヲ点撿ス、夜、古谷、須藤、八巻、田原、中島其他数子来話ス
+          四日市ニ至リ浜田屋某ニ投宿ス
+                                        着後、四日市新設ノ支店ヲ巡視シ行務ヲ点撿ス、夜、古谷、須藤、八巻、田原、中島其他数子来話ス
          </p>
         </div>
         <div type="diary-entry" xml:id="DKB10005m-6">
@@ -7423,10 +7350,7 @@
           <time cert="low" when="07:00:00">
            七時
           </time>
-          <date evidence="year inferenced, month" when="1884-XX-04">
-           四日
-          </date>
-          市ヲ発シ桑名ニ至リ
+          四日市ヲ発シ桑名ニ至リ
           <time cert="low" when="09:00:00">
            九時
           </time>
@@ -7504,11 +7428,7 @@
           晴
          </head>
          <p>
-          午前西京支店ニ至リ終日行務各項ヲ撿閲ス、府庁勧業課長板原氏、本願寺会計撿査員池田氏来話ス、本店及
-          <date evidence="year inferenced, month" when="1884-XX-04">
-           四日
-          </date>
-          市等ヘ郵書ヲ発ス、午後大阪店熊谷辰太郎、紡績会社山辺、蒲田共ニ来ル、
+          午前西京支店ニ至リ終日行務各項ヲ撿閲ス、府庁勧業課長板原氏、本願寺会計撿査員池田氏来話ス、本店及四日市等ヘ郵書ヲ発ス、午後大阪店熊谷辰太郎、紡績会社山辺、蒲田共ニ来ル、
           <time cert="low" when="07:00:00">
            七時
           </time>
@@ -7527,9 +7447,9 @@
           晴
          </head>
          <p>
-          朝、本店及留守宅ヘ郵書ヲ発ス、熊谷、山辺、蒲田来ル、熊谷ニ約スル
-          <date evidence="year inferenced, month" when="1884-XX-23">
-           二十三日
+          朝、本店及留守宅ヘ郵書ヲ発ス、熊谷、山辺、蒲田来ル、熊谷ニ約スル二
+          <date evidence="year inferenced, month" when="1884-XX-13">
+           十三日
           </date>
           ヲ以テ大阪ニ赴ク事ヲ以テス、又紡績会社ノ開業式ハ
           <date evidence="year inferenced, month" when="1884-XX-15">
@@ -7870,11 +7790,7 @@
           雨
          </head>
          <p>
-          朝、西京、
-          <date evidence="year inferenced, month" when="1884-XX-04">
-           四日
-          </date>
-          市、神戸店ヘ郵書ヲ発ス、明日当地発足帰京ノ筈ナルニ付告別来会ノ者多シ、午後、山内芳秋、児島惟謙、建野府知事ヲ訪ヒ、日本銀行支店ニ至リテ外山修造ニ面話ス、
+          朝、西京、四日市、神戸店ヘ郵書ヲ発ス、明日当地発足帰京ノ筈ナルニ付告別来会ノ者多シ、午後、山内芳秋、児島惟謙、建野府知事ヲ訪ヒ、日本銀行支店ニ至リテ外山修造ニ面話ス、
           <time cert="low" when="03:00:00">
            三時
           </time>
@@ -7980,10 +7896,7 @@
           <time cert="low" when="02:00:00">
            二時
           </time>
-          <date evidence="year inferenced, month" when="1884-XX-04">
-           四日
-          </date>
-          市ニ抵ル、直ニ支店ニ於テ八巻氏ニ面会シ、浜田屋ニ小憩ス、午後
+          四日市ニ抵ル、直ニ支店ニ於テ八巻氏ニ面会シ、浜田屋ニ小憩ス、午後
           <time cert="low" when="06:00:00">
            六時
           </time>
@@ -8035,21 +7948,14 @@
        体裁。洋綴小型手帖。12cm×8.5cm.厚サ、1.7cm,表紙茶ノ麻布。背及ビ角ヲ黒革ニテ被フ。金線模様アリ。見返シ、コゲ茶模様。表紙ノ一方ニゴム紐ヲ付ク、鉛筆挿付。総テ鉛筆書キ。
       </p>
       <p>
-       本文。白紙一九八頁。記入ハ前後ヨリ初メ前部ハ「原田虎蔵云々」以下「陸奥氏持株云々」マデ五頁ヲ記シ、相当ノ余白ヲオキテ　「
-       <date evidence="year inferenced, month" when="1886-XX-04">
-        四日
-       </date>
-       市伏木新潟巡回紀行」（四三頁余）ヲ記ス。後部ハ「亀井戸観梅」以下ノ漢詩並ニ「日光鉢石町小西屋喜一郎云々」ノ八頁ヲ記シ、続イテ「京坂巡回紀行」（二八頁）ヲ記ス。ココニハ覚書ハ前部、後部共ニ、日記ノ後ニ一括収録セリ。
+       本文。白紙一九八頁。記入ハ前後ヨリ初メ前部ハ「原田虎蔵云々」以下「陸奥氏持株云々」マデ五頁ヲ記シ、相当ノ余白ヲオキテ　「四日市伏木新潟巡回紀行」（四三頁余）ヲ記ス。後部ハ「亀井戸観梅」以下ノ漢詩並ニ「日光鉢石町小西屋喜一郎云々」ノ八頁ヲ記シ、続イテ「京坂巡回紀行」（二八頁）ヲ記ス。ココニハ覚書ハ前部、後部共ニ、日記ノ後ニ一括収録セリ。
       </p>
      </div>
     </front>
     <body>
      <div type="diary">
       <head>
-       <date evidence="year inferenced, month" when="1886-XX-04">
-        四日
-       </date>
-       市伏木新潟巡回紀行
+       四日市伏木新潟巡回紀行
       </head>
       <div type="diary-entry" xml:id="DKB10006m-1">
        <head>
@@ -8125,9 +8031,9 @@
         <date evidence="year inferenced, day" when="1886-05">
          五月
         </date>
-        ）二
-        <date evidence="year inferenced, month" when="1886-XX-18">
-         十八日
+        ）二十
+        <date evidence="year inferenced, month" when="1886-XX-08">
+         八日
         </date>
        </head>
        <p>
@@ -8182,9 +8088,9 @@
         <date evidence="year inferenced, day" when="1886-05">
          五月
         </date>
-        ）三
-        <date evidence="year inferenced, month" when="1886-XX-10">
-         十日
+        ）
+        <date evidence="year inferenced, month" when="1886-XX-30">
+         三十日
         </date>
        </head>
        <p>
@@ -8203,10 +8109,7 @@
         <time cert="low" when="04:30:00">
          四時半
         </time>
-        <date evidence="year inferenced, month" when="1886-XX-04">
-         四日
-        </date>
-        市ニ達シ浜田屋ニ投宿ス、晩ニ支店ニ抵リ事務ヲ一覧ス、此日、天気朗★★B1060★晴風強ク塵埃甚シ、夜、熊谷氏、山辺氏等大坂ヨリ来着ス
+        四日市ニ達シ浜田屋ニ投宿ス、晩ニ支店ニ抵リ事務ヲ一覧ス、此日、天気朗★★B1060★晴風強ク塵埃甚シ、夜、熊谷氏、山辺氏等大坂ヨリ来着ス
        </p>
       </div>
       <div type="diary-entry" xml:id="DKB10006m-6">
@@ -8215,9 +8118,9 @@
         <date evidence="year inferenced, day" when="1886-05">
          五月
         </date>
-        ）三十
-        <date evidence="year inferenced, month" when="1886-XX-01">
-         一日
+        ）三
+        <date evidence="year inferenced, month" when="1886-XX-11">
+         十一日
         </date>
        </head>
        <p>
@@ -8248,10 +8151,7 @@
         <time cert="low" when="01:00:00">
          一時
         </time>
-        <date evidence="year inferenced, month" when="1886-XX-04">
-         四日
-        </date>
-        市ヲ発シテ、熊谷、八巻、伊藤、諸氏ト共ニ津ニ赴ク、後藤仁兵衛昨夜ヨリ来リ迎フ、依テ同行ス、追分、神戸、白子ヲ経テ午後
+        四日市ヲ発シテ、熊谷、八巻、伊藤、諸氏ト共ニ津ニ赴ク、後藤仁兵衛昨夜ヨリ来リ迎フ、依テ同行ス、追分、神戸、白子ヲ経テ午後
         <time cert="low" when="02:00:00">
          二時
         </time>
@@ -8321,10 +8221,7 @@
         <time cert="low" when="01:30:00">
          一時半
         </time>
-        <date evidence="year inferenced, month" when="1886-XX-04">
-         四日
-        </date>
-        市ニ達ス、地方諸子皆来リ迎フ。此夜地方諸子ヲ松川楼ニ招宴ス°午後
+        四日市ニ達ス、地方諸子皆来リ迎フ。此夜地方諸子ヲ松川楼ニ招宴ス°午後
         <time cert="low" when="03:00:00">
          三時
         </time>
@@ -8355,11 +8252,7 @@
         <time cert="low" when="02:30:00">
          二時半
         </time>
-        、
-        <date evidence="year inferenced, month" when="1886-XX-04">
-         四日
-        </date>
-        市ヲ発シ、桑名ニ抵リ船津屋ニ休憩ス、
+        、四日市ヲ発シ、桑名ニ抵リ船津屋ニ休憩ス、
         <time cert="low" when="04:00:00">
          四時
         </time>
@@ -8524,9 +8417,9 @@
         <date evidence="year inferenced, day" when="1886-06">
          六月
         </date>
-        ）十
-        <date evidence="year inferenced, month" when="1886-XX-01">
-         一日
+        ）
+        <date evidence="year inferenced, month" when="1886-XX-11">
+         十一日
         </date>
        </head>
        <p>
@@ -8551,9 +8444,9 @@
         <date evidence="year inferenced, day" when="1886-06">
          六月
         </date>
-        ）
-        <date evidence="year inferenced, month" when="1886-XX-12">
-         十二日
+        ）十
+        <date evidence="year inferenced, month" when="1886-XX-02">
+         二日
         </date>
        </head>
        <p>
@@ -8587,9 +8480,9 @@
         <date evidence="year inferenced, day" when="1886-06">
          六月
         </date>
-        ）十
-        <date evidence="year inferenced, month" when="1886-XX-03">
-         三日
+        ）
+        <date evidence="year inferenced, month" when="1886-XX-13">
+         十三日
         </date>
        </head>
        <p>
@@ -8630,9 +8523,9 @@
         <date evidence="year inferenced, day" when="1886-06">
          六月
         </date>
-        ）十
-        <date evidence="year inferenced, month" when="1886-XX-04">
-         四日
+        ）
+        <date evidence="year inferenced, month" when="1886-XX-14">
+         十四日
         </date>
        </head>
        <p>
@@ -8680,9 +8573,9 @@
         <date evidence="year inferenced, day" when="1886-06">
          六月
         </date>
-        ）十
-        <date evidence="year inferenced, month" when="1886-XX-06">
-         六日
+        ）
+        <date evidence="year inferenced, month" when="1886-XX-16">
+         十六日
         </date>
        </head>
        <p>
@@ -8727,9 +8620,9 @@
         <date evidence="year inferenced, day" when="1886-06">
          六月
         </date>
-        ）
-        <date evidence="year inferenced, month" when="1886-XX-18">
-         十八日
+        ）十
+        <date evidence="year inferenced, month" when="1886-XX-08">
+         八日
         </date>
        </head>
        <p>
@@ -8892,9 +8785,9 @@
         <date evidence="year inferenced, day" when="1886-12">
          十二月
         </date>
-        ）十
-        <date evidence="year inferenced, month" when="1886-XX-01">
-         一日
+        ）
+        <date evidence="year inferenced, month" when="1886-XX-11">
+         十一日
         </date>
        </head>
        <p>
@@ -8907,11 +8800,7 @@
          六時
         </time>
         過、豊橋小島屋ニ投宿ス
-                                此夕、
-        <date evidence="year inferenced, month" when="1886-XX-04">
-         四日
-        </date>
-        市支店八巻道成ニ電報シテ、明日宮駅ニ来迎ノ事ヲ促ス
+                                此夕、四日市支店八巻道成ニ電報シテ、明日宮駅ニ来迎ノ事ヲ促ス
                                 金沢出張所青山利恭ニ一書ヲ裁ス、蓋シ小林藤太郎送金ヲ護シテ同地ニ赴クニ托スル為メナリ
        </p>
       </div>
@@ -8921,9 +8810,9 @@
         <date evidence="year inferenced, day" when="1886-12">
          十二月
         </date>
-        ）
-        <date evidence="year inferenced, month" when="1886-XX-12">
-         十二日
+        ）十
+        <date evidence="year inferenced, month" when="1886-XX-02">
+         二日
         </date>
        </head>
        <p>
@@ -8935,11 +8824,7 @@
         <time cert="low" when="01:00:00">
          一時
         </time>
-        熱田ニ抵ル、
-        <date evidence="year inferenced, month" when="1886-XX-04">
-         四日
-        </date>
-        市店八巻道成及地方商估下里、伊藤、水谷等来迎ス、相伴フテ名古屋ニ抵リ、魚半楼ニ投宿ス
+        熱田ニ抵ル、四日市店八巻道成及地方商估下里、伊藤、水谷等来迎ス、相伴フテ名古屋ニ抵リ、魚半楼ニ投宿ス
                                 三重紡績会社ニ関スル事務及水谷工場ノ事ヲ議ス、夜、船本竜之助氏来ル、宴ヲ設ケテ芸妓ノ歌舞ヲ見ル
                                 三重紡績会社器械代ノ事ニ付テ、本店佐々木氏ヘ書状ヲ送ル、東京、西京ヘ電報ヲ発ス
        </p>
@@ -8950,9 +8835,9 @@
         <date evidence="year inferenced, day" when="1886-12">
          十二月
         </date>
-        ）十
-        <date evidence="year inferenced, month" when="1886-XX-03">
-         三日
+        ）
+        <date evidence="year inferenced, month" when="1886-XX-13">
+         十三日
         </date>
        </head>
        <p>
@@ -8999,25 +8884,21 @@
         <date evidence="year inferenced, day" when="1886-12">
          十二月
         </date>
-        ）十
-        <date evidence="year inferenced, month" when="1886-XX-04">
-         四日
+        ）
+        <date evidence="year inferenced, month" when="1886-XX-14">
+         十四日
         </date>
        </head>
        <p>
-        雨、朝、三井銀行浅井氏、中井三郎兵衛、山岸嘉蔵等来テ織物会社創立ノ事ヲ談ス、荒川新一郎氏来ル、織物会社ニ関スル書類調査ノ事ヲ托シ、且来ル十
-        <date evidence="year inferenced, month" when="1886-XX-06">
-         六日
+        雨、朝、三井銀行浅井氏、中井三郎兵衛、山岸嘉蔵等来テ織物会社創立ノ事ヲ談ス、荒川新一郎氏来ル、織物会社ニ関スル書類調査ノ事ヲ托シ、且来ル
+        <date evidence="year inferenced, month" when="1886-XX-16">
+         十六日
         </date>
         午後地方発起者ト会合談話ノ事ヲ約ス、高木斎造来ル、同シク織物会社ノ事ヲ談ス、稲畑勝太郎来ル、大坂店熊谷来訪ス、神戸店田中ハ来ル十七
         <date evidence="year inferenced, month" when="1886-XX-08">
          八日
         </date>
-        頃同地ヘ巡回ノ事ヲ約シテ帰店ス、
-        <date evidence="year inferenced, month" when="1886-XX-04">
-         四日
-        </date>
-        市支店営業ノ見込ヲ八巻ニ細説ス
+        頃同地ヘ巡回ノ事ヲ約シテ帰店ス、四日市支店営業ノ見込ヲ八巻ニ細説ス
                                 東京佐々木ヘ郵書ヲ発シテ、稲畑氏ヨリ借リ置キタル染物ノ見本逓送ノ事ヲ書通ス ★★B1065★
                                 陸奥宗光氏ヘ一書ヲ送リテ、第二銀行増株ノ事ニ付、原善三郎氏ニ於テ仲裁ヲ諾セサルニ付、此取扱ヲ謝絶ノ旨ヲ通知ス
                                 午後
@@ -9061,9 +8942,9 @@
         <date evidence="year inferenced, day" when="1886-12">
          十二月
         </date>
-        ）十
-        <date evidence="year inferenced, month" when="1886-XX-06">
-         六日
+        ）
+        <date evidence="year inferenced, month" when="1886-XX-16">
+         十六日
         </date>
        </head>
        <p>
@@ -9156,11 +9037,7 @@
       <div type="note" xml:id="DKB10007m-13">
        <p>
         亀井戸観梅 池塘雨過緑参差。傍水多看売酒家。 春暖菅公祠畔路。好携女伴探梅花。 　　　　杉田観梅 幽禽声断寂春山。行到渓流凸凹間。
-                            一路清風香馥郁。梅花只作白雲看。 　　　　春日遊江島 一邱一壑足幽情。嵐翠煙波
-        <date evidence="year inferenced, month" when="1886-XX-03">
-         三日
-        </date>
-        程。 休怪帰遺多好句。慈游奇絶冠平生。
+                            一路清風香馥郁。梅花只作白雲看。 　　　　春日遊江島 一邱一壑足幽情。嵐翠煙波三日程。 休怪帰遺多好句。慈游奇絶冠平生。
                             　　　　題大倉氏巡欧貿易意見書 論理縦横意有余。精神只向此篇舒。 賈生当日治安策。輸与君家一巻書。 ★★B1067★
                             通商可講販鬻昌。起工開場豈無方。 従来権勢縁民力。未必文明果富強。 　　　　曖依村荘偶成 李白桃紅映窓紗。小院午閑細雨斜。
                             好是泥濘妨行楽。軽寒数日護残花。 　　　　仙石原矚目 雨洗峰巒緑樹新。原頭矚目総清真。 最怡淡靄指蓮岳。猶見軽紗隔美人。
@@ -9349,13 +9226,13 @@
         <time cert="low" when="10:00:00">
          十時
         </time>
-        山県侯爵来ル、偶雨夜譚ヲ浄書シ居リタルニヨリ其序文ヲ侯ニ示シ且往事ノ履歴ヲ話ス、尋テ興山公ノ事ヲ詳話シ其伝記編纂ノ挙ヲ告ク、侯ハ大ニ之ヲ賛成セラル、東京商業会議所小崎懋氏来ル、臨時会議ヲ開クノ請求書会員ヨリ申出テタルニヨル、依テ来十
-        <date evidence="year inferenced, month" when="1899-XX-01">
-         一日
+        山県侯爵来ル、偶雨夜譚ヲ浄書シ居リタルニヨリ其序文ヲ侯ニ示シ且往事ノ履歴ヲ話ス、尋テ興山公ノ事ヲ詳話シ其伝記編纂ノ挙ヲ告ク、侯ハ大ニ之ヲ賛成セラル、東京商業会議所小崎懋氏来ル、臨時会議ヲ開クノ請求書会員ヨリ申出テタルニヨル、依テ来
+        <date evidence="year inferenced, month" when="1899-XX-11">
+         十一日
         </date>
-        ニ役員会ヲ開キ十
-        <date evidence="year inferenced, month" when="1899-XX-03">
-         三日
+        ニ役員会ヲ開キ
+        <date evidence="year inferenced, month" when="1899-XX-13">
+         十三日
         </date>
         午後臨時会ヲ開クヘキ旨ヲ示ス、午後梅浦精一氏夫人トモ来訪ス、石川島造船所株主総会ニ於テ増資案提出ニ付テノ事ヲ商議ス、西村勝三氏来ル、八十島親徳ヨリ書状来ル、モールスヨリノ来書ヲ報シ来ル
                                 三重紡績会社ヘ書状ヲ発シ総会ノ委任状ヲ送ル
@@ -9812,9 +9689,9 @@
         <time cert="low" when="10:00:00">
          十時
         </time>
-        モールス氏来ル、外務省雇米人テニソン氏来ル、蓋シ京仁鉄道譲渡ノ件ニ付今日ヲ以テ会合スヘキ約アルニヨル、益田孝、足立太郎来会セシニヨリ取引ニ関スル協議ヲ為セシモ、横浜正金銀行ヘノ返金モールスヨリ借入タル金額三十
-        <date evidence="year inferenced, month" when="1899-XX-01">
-         一日
+        モールス氏来ル、外務省雇米人テニソン氏来ル、蓋シ京仁鉄道譲渡ノ件ニ付今日ヲ以テ会合スヘキ約アルニヨル、益田孝、足立太郎来会セシニヨリ取引ニ関スル協議ヲ為セシモ、横浜正金銀行ヘノ返金モールスヨリ借入タル金額三
+        <date evidence="year inferenced, month" when="1899-XX-11">
+         十一日
         </date>
         ナラデハ終了シ得サルニヨリ、同日ヲ以テ決算スル事ヲ約シテ諸氏退散ス
                                 モールス去テ後、益田、足立氏ト京仁鉄道将来ノ取扱ヲ協議ス、午後前島氏来ル、依テモールス氏ト談話ノ手続ヲ示ス
@@ -10165,9 +10042,9 @@
         <time cert="low" when="04:00:00">
          四時
         </time>
-        帝国ホテルニ於テ伊藤侯爵ヲ訪フ、十
-        <date evidence="year inferenced, month" when="1899-XX-04">
-         四日
+        帝国ホテルニ於テ伊藤侯爵ヲ訪フ、
+        <date evidence="year inferenced, month" when="1899-XX-14">
+         十四日
         </date>
         集会ノ事、外ニ徳川一位公御身上ノ事ヲ話ス、午後
         <time cert="low" when="07:00:00">
@@ -10811,9 +10688,9 @@
          一時
         </time>
         平井晴次郎氏商業会議所ニ来リ、京仁鉄道技師ノ事ヲ話ス
-                                夕方兜町ニ帰宅ス、此夜大坂佐々木勇之助氏ヨリ回電アリ、来十
-        <date evidence="year inferenced, month" when="1899-XX-01">
-         一日
+                                夕方兜町ニ帰宅ス、此夜大坂佐々木勇之助氏ヨリ回電アリ、来
+        <date evidence="year inferenced, month" when="1899-XX-11">
+         十一日
         </date>
         帰京ノ事報シ来ル
        </p>
@@ -10882,9 +10759,9 @@
         <time cert="low" when="04:00:00">
          四時
         </time>
-        海上保険会社ニ於テ倫敦ヨリ来着セル各務謙吉《（各務鎌吉）》ノ来書及会社支店存廃ニ関スル意見書ヲ一読シ、来ル十
-        <date evidence="year inferenced, month" when="1899-XX-04">
-         四日
+        海上保険会社ニ於テ倫敦ヨリ来着セル各務謙吉《（各務鎌吉）》ノ来書及会社支店存廃ニ関スル意見書ヲ一読シ、来ル
+        <date evidence="year inferenced, month" when="1899-XX-14">
+         十四日
         </date>
         ヲ以テ重役会ヲ開ク事ヲ約ス、午後
         <time cert="low" when="05:00:00">
@@ -11676,11 +11553,7 @@
         </date>
        </head>
        <p>
-        曇、朝深川宅ニテ撮影ス、
-        <date evidence="year inferenced, month" when="1899-XX-04">
-         四日
-        </date>
-        市支店荒井栄蔵来ル、午前第一銀行ニ於テ事務ヲ視ル、午後
+        曇、朝深川宅ニテ撮影ス、四日市支店荒井栄蔵来ル、午前第一銀行ニ於テ事務ヲ視ル、午後
         <time cert="low" when="02:00:00">
          二時
         </time>
@@ -13948,9 +13821,9 @@
         </date>
        </head>
        <p>
-        晴、昨日ト同シク海水浴後読書遊戯ニ消閑ス 　　　○右十
-        <date evidence="year inferenced, month" when="1899-XX-03">
-         三日
+        晴、昨日ト同シク海水浴後読書遊戯ニ消閑ス 　　　○右
+        <date evidence="year inferenced, month" when="1899-XX-13">
+         十三日
         </date>
         ハ日付、記事共ニ重複セリ。
        </p>
@@ -14086,9 +13959,9 @@
         <time cert="low" when="05:00:00">
          五時
         </time>
-        岩崎久弥氏来ル九州鉄道会社ノ事ニ付テ来ル廿
-        <date evidence="year inferenced, month" when="1899-XX-04">
-         四日
+        岩崎久弥氏来ル九州鉄道会社ノ事ニ付テ来ル
+        <date evidence="year inferenced, month" when="1899-XX-24">
+         廿四日
         </date>
         ヲ以テ深川別邸ニ小集ヲ開クニ付来会ノ事ヲ請求セラル、依テ其出席ヲ約ス
        </p>
@@ -15358,9 +15231,8 @@
       </div>
       <div type="diary-entry" xml:id="DKB10008m-306">
        <head>
-        十
-        <date evidence="year inferenced" when="1899-01-01">
-         一月一日
+        <date evidence="year inferenced" when="1899-11-01">
+         十一月一日
         </date>
        </head>
        <p>
@@ -15760,9 +15632,8 @@
       </div>
       <div type="diary-entry" xml:id="DKB10008m-325">
        <head>
-        十
-        <date evidence="year inferenced" when="1899-01-20">
-         一月二十日
+        <date evidence="year inferenced" when="1899-11-20">
+         十一月二十日
         </date>
        </head>
        <p>
@@ -15953,9 +15824,8 @@
       </div>
       <div type="diary-entry" xml:id="DKB10008m-335">
        <head>
-        十
-        <date evidence="year inferenced" when="1899-01-30">
-         一月三十日
+        <date evidence="year inferenced" when="1899-11-30">
+         十一月三十日
         </date>
        </head>
        <p>
@@ -15973,17 +15843,17 @@
         </time>
         深川宅ヘ帰宿ス
                                 　　　○追記。
-        <date evidence="year inferenced" when="1899-12-01">
-         十二月一日
+        <date evidence="year inferenced, day" when="1899-12">
+         十二月
         </date>
-        記入。
+        一日記入。
                                 　麻布井上伯ノ銅像ヲ製シ、其庭中ニ一宇ヲ築キ之ヲ安置スルノ挙ハ伯ノ親友相会シテ昨年来其工ヲ起セシカ、今年十
         <date evidence="year inferenced, day" when="1899-01">
          一月
         </date>
-        竣工セシニ付一昨日之《（昨脱）》ヲ開ク為ニ園遊会ヲ催シテ其知人ヲ会セリ、時ニ伯ハ左ノ狂歌ヲ作リタルヲ以テ、昨三
-        <date evidence="year inferenced, month" when="1899-XX-10">
-         十日
+        竣工セシニ付一昨日之《（昨脱）》ヲ開ク為ニ園遊会ヲ催シテ其知人ヲ会セリ、時ニ伯ハ左ノ狂歌ヲ作リタルヲ以テ、昨
+        <date evidence="year inferenced, month" when="1899-XX-30">
+         三十日
         </date>
         ノ宴会ニ於テ更ニ之ニ応スルノ意ヲ以テ一首ノ狂歌ヲ以テセリ
                                 　　　伯ノ狂歌 　　因縁ノ深イ同志ノ御情デ尚此娑婆ニ銅像千年 　　　井上伯の戯にものせられし御歌の御かへしにとて
@@ -16089,9 +15959,9 @@
         <time cert="low" when="10:00:00">
          十時
         </time>
-        麻布井上伯ヲ訪ヒ十
-        <date evidence="year inferenced, month" when="1899-XX-01">
-         一日
+        麻布井上伯ヲ訪ヒ
+        <date evidence="year inferenced, month" when="1899-XX-11">
+         十一日
         </date>
         三井倶楽部ニ於テ催スヘキ集会ノ事ヲ話ス、東京市役所ニ抵リテ養育院ノ事ヲ談ス、午後
         <time cert="low" when="01:00:00">
@@ -16302,9 +16172,8 @@
       </div>
       <div type="diary-entry" xml:id="DKB10008m-355">
        <head>
-        十
-        <date evidence="year inferenced" when="1899-02-20">
-         二月二十日
+        <date evidence="year inferenced" when="1899-12-20">
+         十二月二十日
         </date>
        </head>
        <p>
@@ -16411,9 +16280,8 @@
       </div>
       <div type="diary-entry" xml:id="DKB10008m-361">
        <head>
-        十
-        <date evidence="year inferenced" when="1899-02-26">
-         二月二十六日
+        <date evidence="year inferenced" when="1899-12-26">
+         十二月二十六日
         </date>
        </head>
        <p>
@@ -16434,9 +16302,8 @@
       </div>
       <div type="diary-entry" xml:id="DKB10008m-362">
        <head>
-        十
-        <date evidence="year inferenced" when="1899-02-27">
-         二月二十七日
+        <date evidence="year inferenced" when="1899-12-27">
+         十二月二十七日
         </date>
        </head>
        <p>

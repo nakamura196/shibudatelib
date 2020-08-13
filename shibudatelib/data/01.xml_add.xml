@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>渋沢栄一伝記資料別巻第<date when='XXXX-XX-01' evidence='year, month'>一日</date>記のTEIマークアップ</title>
+                <title>渋沢栄一伝記資料別巻第一日記のTEIマークアップ</title>
                 <respStmt>
                     <resp>テキストデータの作成</resp>
                     <orgName xml:id="ShibusawaInfoCenter" ref="http://viaf.org/viaf/841149066744665602221">公益財団法人渋沢栄一記念財団情報資源センター</orgName>
@@ -32,7 +32,7 @@
             <sourceDesc>
                 <biblStruct type="book">
                     <monogr>
-                        <title level="m">渋沢栄一伝記資料別巻第<date when='XXXX-XX-01' evidence='year, month'>一日</date>記</title>
+                        <title level="m">渋沢栄一伝記資料別巻第一日記</title>
                         <editor>渋沢青渊記念財団竜門社</editor>
                         <imprint>
                             <pubPlace>東京</pubPlace>
@@ -80,14 +80,14 @@
             <titlePage>
                 <pb xml:id="B1nn0a"/>
                 <docTitle>
-                    <titlePart>澁澤栄一傳記資料別巻第<date when='XXXX-XX-01' evidence='year, month'>一日</date>記</titlePart>
+                    <titlePart>澁澤栄一傳記資料別巻第一日記</titlePart>
                 </docTitle>
                 <byline>渋沢青淵記念財団竜門社編纂刊行</byline>
                 <note place="overleaf" xml:id="B1nn0b">背文字 渋沢栄一遺墨集字</note>
             </titlePage>
             <div type="frontispiece" xml:id="DKB10000a">
                 <pb xml:id="B1nn1"/>
-                <p>渋沢栄<date when='XXXX-XX-01' evidence='year, month'>一日</date>記</p>
+                <p>渋沢栄一日記</p>
                 <p>文部省史料館所蔵</p>
                 <figure>
                     <ab type="caption">上 （左）<date when='1868-06-14'>慶応四年六月十四日</date>―<date when='1868-11-02'>明治元年十一月二日</date></ab>
@@ -109,7 +109,7 @@
                     <ab type="caption">上欄ツヅキ</ab>
                 </figure>
                 <figure>
-                    <ab type="caption"><date when='1902-09-10'>明治三十五年九月十日</date>・十<date when='XXXX-XX-01' evidence='year, month'>一日</date> 本文第二七三頁―二七四頁参照</ab>
+                    <ab type="caption"><date when='1902-09-10'>明治三十五年九月十日</date>・<date when='XXXX-XX-11' evidence='year, month'>十一日</date> 本文第二七三頁―二七四頁参照</ab>
                 </figure>
             </div>
             <titlePage xml:id="DKB10000b">
@@ -135,16 +135,16 @@
                 <p>この横帳には後半に「見廻書類請払」として、民部省に在って取扱った書類の控が記されているが、この全文は本資料第二巻第二一三頁以下に収録してあるのでここには収録していない。</p>
                 <p>以後、<date when='1899'>明治三十二年</date>に至るまで正確な日記体のものは残っていない。<date when='1884'>明治十七年</date>と、<date when='XXXX' evidence='year'>十九年</date>に短時日の日記があるが、共に旅行に出た折の記録で、二種とも携帯に便利な小型手帖が用いられ、記入も旅行中の記事のみであって、余白には漢詩や覚書が書きこまれてあるのである。</p>
                 <p>後に表示するように<date when='1899'>明治三十二年</date>から<date when='1930'>昭和五年</date>までは断続はあっても一応揃っている。<date when='XXXX' evidence='year'>三十二年</date>になって用い初めた机上日記（博文館発行）には扉に栄一の手跡で「第一号」と記されているのは、この時から日記を初めたという意味にも取れるし、机上日記の第一号と見れば、これ以前に日記があったとも思えるが、<date when='1869'>明治二年</date>後、旅行中の日記を省けば日記らしいものは現在していない。</p>
-                <p>机上日記は五冊用いていて<date when='XXXX-04' evidence='year, day'>三十七年四月</date>まであるが、各年に新しく出版されたのを用いたのではなく、<date when='XXXX' evidence='year'>三十一年</date>出版のもの五冊に逐次書きこんで行ったものである。机上日記は自由日記のように頁ごとに月日の印刷がないので順次書き入れていて、新年になっても改めることはなく、そのまま書き続けて行っている。第一冊に「第一号」、第二冊目に「第二号」、第三冊目に「第三号」と記入しているが、それ以後この<pb xml:id="B1n03"/><fw type="pageNum">三</fw>記入はない。冊数と年次の関係は後表に示した。</p>
+                <p>机上日記は五冊用いていて<date when='XXXX-04' evidence='year, day'>三十七年四月</date>まであるが、各年に新しく出版されたのを用いたのではなく、三十<date when='XXXX' evidence='year'>一年</date>出版のもの五冊に逐次書きこんで行ったものである。机上日記は自由日記のように頁ごとに月日の印刷がないので順次書き入れていて、新年になっても改めることはなく、そのまま書き続けて行っている。第一冊に「第一号」、第二冊目に「第二号」、第三冊目に「第三号」と記入しているが、それ以後この<pb xml:id="B1n03"/><fw type="pageNum">三</fw>記入はない。冊数と年次の関係は後表に示した。</p>
                 <p><date when='1905'>明治三十八年</date>以後は一貫して当用日記（博文館発行）を用いていた。当用日記は机上日記とは異って、<date when='XXXX-XX-01' evidence='year, month'>一日</date>一頁宛となっており、月日、曜日等は印刷されているので、次ぎの年が股がって出て来るような事はないが、僅かに<date when='1915'>大正四年</date>の洋行中と<date when='1921'>大正十年</date>にその事があった。<date when='1922'>大正十一年</date>、<date when='XXXX' evidence='year'>十三年</date>は原本が無く、<date when='1916'>大正五年</date>と、<date when='1931'>昭和六年</date>は日記はあるが、全く記入はされていない。</p>
                 <p>記入の仕方は、来訪者、訪問先、会議等の記録が主で、これは終生変ることがない。感想類の記入は稀にしか見る事が出来ず、「日記ヲ編成ス」という記事が時時出てくるが、これ依って見ると、必ずしも当日の記入ではなくて、後日、記入した場合もあったように思われる。</p>
                 <p>渋沢栄一伝記資料の編纂は<date when='1932-10' evidence='day'>昭和七年十月</date>から幸田成友博士を主任として着手されたのが第一次であったが（土屋喬雄博士を主任として着手された第二次は<date when='1936'>昭和十一年</date>以降である）、日記・書翰類の写本作成は第一次の編纂着手と共に進められた。日記の写本は浄書の上、校訂を加えて和綴二十二冊に編成された。原本とこの写本との関係及び筆写、校訂者は後表の通りである。</p>
                 <p>今回の刊行に際しては、右写本を原稿とし、新に校訂を加えた。写本は後表のように年次を以って区分しているが、今回は年次に関らず原本別に区分配列した。また、写本には原本の形態等についての説明はないが、新たに原本概要をそれぞれの初めに付けた。</p>
-                <p>現在原本は、<date when='1869'>明治二年</date>の和綴横帳の分及び<date when='1884'>明治十七年</date>の第一銀行京都支店所蔵分を除く外、総て文部省史料館が所蔵している。<date when='1905'>明治三十八年</date>以後の当用日記の内四冊（<date when='1906'>明治三十九年</date>、<date when='XXXX' evidence='year'>四十年</date>、<date when='XXXX' evidence='year'>四十一年</date>、<date when='XXXX' evidence='year'>四十二年</date>）は写本作成当時は在ったが、現在は散佚している（戦禍を受けたか）。従ってこの分の原本概要の記述と、新校訂は成し得なかった。原本は渋沢家の所蔵であったが、終戦後、文部省史料館に寄贈されて現在に至っている。四冊の散佚はこの寄贈以前であった。 </p>
+                <p>現在原本は、<date when='1869'>明治二年</date>の和綴横帳の分及び<date when='1884'>明治十七年</date>の第一銀行京都支店所蔵分を除く外、総て文部省史料館が所蔵している。<date when='1905'>明治三十八年</date>以後の当用日記の内四冊（<date when='1906'>明治三十九年</date>、<date when='XXXX' evidence='year'>四十年</date>、四十<date when='XXXX' evidence='year'>一年</date>、<date when='XXXX' evidence='year'>四十二年</date>）は写本作成当時は在ったが、現在は散佚している（戦禍を受けたか）。従ってこの分の原本概要の記述と、新校訂は成し得なかった。原本は渋沢家の所蔵であったが、終戦後、文部省史料館に寄贈されて現在に至っている。四冊の散佚はこの寄贈以前であった。 </p>
                 <pb xml:id="B1n04"/>
                 <fw type="pageNum">四</fw>
                 <table>
-                    <head>渋沢栄<date when='XXXX-XX-01' evidence='year, month'>一日</date>記原本並ニ写本一覧</head>
+                    <head>渋沢栄一日記原本並ニ写本一覧</head>
                     <note>原本所蔵者欄ノ「史料館」ハ文部省史料館、「竜門社」ハ渋沢青渊記念財団竜門社ノ略。</note>
                     <row role="label">
                         <cell role="data">数ぇ年</cell>
@@ -490,7 +490,7 @@
                 </list>
             </div>
             <div type="contents" xml:id="DKB10002e">
-                <head>渋沢栄一伝記資料別巻第<date when='XXXX-XX-01' evidence='year, month'>一日</date>記 目次</head>
+                <head>渋沢栄一伝記資料別巻第一日記 目次</head>
                 <pb xml:id="B1nn"/>
                 <pb xml:id="B1n08"/>
                 <fw type="pageNum">八</fw>
@@ -510,7 +510,7 @@
                 <list type="gloss">
                     <head><label>日記（一）</label></head>
                     <item>自<date when='1868-06-14'>慶応四年六月十四日</date>至<date when='1868-11-02'>明治元年十一月二日</date>…………………………………　　　一</item>
-                    <item>自<date when='1868-11-03'>明治元年十一月三日</date>至<date when='1869'>明治二年</date>正月<date when='XXXX-XX-18' evidence='year, month'>十八日</date>…………………………………　　二七</item>
+                    <item>自<date when='1868-11-03'>明治元年十一月三日</date>至<date when='1869-01-18'>明治二年正月十八日</date>…………………………………　　二七</item>
                     <item>自<date when='1869-10-21'>明治二年十月二十一日</date>至同年<date when='XXXX-11-19' evidence='year'>十一月十九日</date>…………………………………　　四二</item>
                     <item><date when='1884'>明治十七年</date> <list>
                             <item>西遊日記　<date when='XXXX-05-28' evidence='year'>五月二十八日</date>―<date when='XXXX-06-17' evidence='year'>六月十七日</date>…………………………………………　　五〇</item>
@@ -518,7 +518,7 @@
                         </list>
                     </item>
                     <item><date when='1886'>明治十九年</date> <list>
-                            <item><date when='XXXX-XX-04' evidence='year, month'>四日</date>市伏木新潟巡回紀行　<date when='XXXX-05-26' evidence='year'>五月二十六日</date>―<date when='XXXX-06-19' evidence='year'>六月十九日</date>……………………　　五九</item>
+                            <item>四日市伏木新潟巡回紀行　<date when='XXXX-05-26' evidence='year'>五月二十六日</date>―<date when='XXXX-06-19' evidence='year'>六月十九日</date>……………………　　五九</item>
                             <item>京坂巡回紀行　<date when='XXXX-12-08' evidence='year'>十二月八日</date>―<date when='XXXX-12-17' evidence='year'>十二月十七日</date>…………………………………　　六三</item>
                         </list>
                     </item>
@@ -602,7 +602,7 @@
                                 夫より海岸の海入場を添ふて昨日到着せし汽車場を通り、此地は岩山多し、道巨嵓に添ふて甚嶮ナリ、路傍にいと大なる岩山あり、
                                 其嶺に一の石にて築立たる台場あり、シヤーブール四万五千人、尤fort du Roule
                                 山は総而岩石ニ而道路屈曲せり、凡十丁斗にして巓にいたる、
-                                巓に大なる〓台あり、千八百五<date when='XXXX' evidence='year'>十三年</date>の製造といふ、兵卒の陣屋弾薬の貯所備れり、此台場は港を攻る兵の山裏より来るを禦く為なりといふ、
+                                巓に大なる〓台あり、千八百<date when='XXXX' evidence='year'>五十三年</date>の製造といふ、兵卒の陣屋弾薬の貯所備れり、此台場は港を攻る兵の山裏より来るを禦く為なりといふ、
                                 砲台は土台場ニ而砲門はいまた備へす、第<time when='02:30:00' cert='low'>二時半</time>山を下り、第<time when='03:00:00' cert='low'>三時</time>湊口ニ而小船に乗組、第<time when='03:35:00' cert='low'>三時三十五分</time>海中築立之台場着、上陸、築立台場長凡壱里余、
                                 巾七八間、総而山石ニ而築立たり、其貌長く築立たる堤の如し、尤石少し屈曲あり、石砲台四ケ所、小大同しからす、尤製造は総而石ニ而製作したり、
                                 此台場海岸より凡壱里半計なる海中江人力もて埋立、如此築城したりといふ、凡百年余に至り、いまた全備せすといふ、
@@ -626,7 +626,7 @@
                         </div>
                         <div type="diary-entry" xml:id="DKB10001m-4">
                             <head><date when='XXXX-08-05' evidence='year'>八月五日</date>　<date when='XXXX-06-17' evidence='year'>六月十七日</date></head>
-                            <p> 朝<time when='10:30:00' cert='low'>十時半</time>午餐、第<time when='11:40:00' cert='low'>十一時四十分</time>御旅宿を御発、昨日到着せし汽車場ニ而汽車乗組、第十<time when='02:30:00' cert='low'>二時半</time>発軔、第<time when='01:00:00' cert='low'>一時</time>le
+                            <p> 朝<time when='10:30:00' cert='low'>十時半</time>午餐、第十<time when='01:40:00' cert='low'>一時四十分</time>御旅宿を御発、昨日到着せし汽車場ニ而汽車乗組、第十<time when='02:30:00' cert='low'>二時半</time>発軔、第<time when='01:00:00' cert='low'>一時</time>le
                                 Guillaumes着、第<time when='03:50:00' cert='low'>三時五十分</time>Rennes着、小休、汽車乗替、此日午後甚暑し、第<time when='07:00:00' cert='low'>七時</time>St-Brieuc着、小夜食、第<time when='12:00:00' cert='low'>十二時</time>Brest着、夕方より雨Brest
                                 Hotel de province </p>
                         </div>
@@ -667,7 +667,7 @@
                             <p>朝<time when='06:30:00' cert='low'>六時半</time>客舎御発し、第<time when='07:00:00' cert='low'>七時</time>発軔之汽車御乗組、第十<time when='01:00:00' cert='low'>一時</time>Tours着午餐、<time when='02:05:00' cert='low'>二時五分</time>Orl〓ans第<time when='04:30:00' cert='low'>四時三十分</time>巴里ガアルデヲレヤン御着、三輪端蔵、小遣召連馬車《を備》ニ而御出迎□□《（為スカ）》、直様馬車御乗組、第<time when='05:30:00' cert='low'>五時三十分</time>御帰館</p>
                         </div>
                         <div type="note">
-                             <p>　　　○新暦<date when='XXXX-08-12' evidence='year'>八月十二日</date>ヨリ同<date when='XXXX-XX-23' evidence='year, month'>二十三日</date>マデノ記事ヲ欠ク。</p>
+                             <p>　　　○新暦<date when='XXXX-08-12' evidence='year'>八月十二日</date>ヨリ同二<date when='XXXX-XX-13' evidence='year, month'>十三日</date>マデノ記事ヲ欠ク。</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10001m-11">
                             <head><date when='XXXX-07-07' evidence='year'>七月七日</date>　晴　月 <date when='XXXX-08-24' evidence='year'>八月廿四日</date></head>
@@ -845,7 +845,7 @@
                             <p>朝より逆風強く、天気朗晴なれとも波濤頗る高し、時々両沿に島嶼を見る、午後より風ますます強く、船追々揺動せり、夜に入ては殊に甚し</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10001m-35">
-                            <head><date when='XXXX-09-17' evidence='year'>九月十七日</date>　晴風　日　北緯十三度四十六　東経四十度三十一　速百八十九里　亜丁迄百八十里　十<date when='XXXX-01-01' evidence='year'>一月一日</date></head>
+                            <head><date when='XXXX-09-17' evidence='year'>九月十七日</date>　晴風　日　北緯十三度四十六　東経四十度三十一　速百八十九里　亜丁迄百八十里　<date when='XXXX-11-01' evidence='year'>十一月一日</date></head>
                             <p>朝より逆風〓行甚あしし、午後蒸気船の東より来るを見る、時々船の右に小島を見る、風故暑気ハ稍凌よきを覚ゆ、第<time when='03:00:00' cert='low'>三時</time>頃亜剌比亜洲の地方を左に見る、一箇の市街白壁の海岸に映するを見る、モツカアといふ市街なり、カツフヘイの名所なりといふ、市街もいと繁華なるへく見ゆ、追々風穏かに〓行随意なり、時々両沿の島嶼を見る
                                 夜に入ては清風涼しく、甲板上の夕涼尤清絶なり</p>
                         </div>
@@ -926,7 +926,7 @@
                                 此辺は<time when='04:00:00' cert='low'>四時</time>皆夏なれは、草木とも黄落の時なし、尤樹木は総而常盤木なり、夜水辺にて蛍火を見る、水樹に添ふて尤多し、又一奇観なり、★★B1014★時候炎熱中に苦みし身なればさまて奇異の観もなされとも《（さ脱カ）》、<date when='XXXX-10' evidence='year, day'>十月</date>初旬の観蛍火、従来未曾有ともいふへく、宇内の宏確《（廓カ）》なる感すへく驚くへし</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10001m-54">
-                            <head><date when='XXXX-10-07' evidence='year'>十月七日</date>　晴　金　発新嘉埠　<date when='XXXX-11-20' evidence='year'>十一月廿日</date></head>
+                            <head><date when='XXXX-10-07' evidence='year'>十月七日</date>　晴　金　発新嘉埠　十<date when='XXXX-01-20' evidence='year'>一月廿日</date></head>
                             <p>朝電気《（雷）》ニ而暴雨来る、第<time when='09:00:00' cert='low'>九時</time>頃より雨稍減しぬれば、港口より馬車を雇ひ市街御越、尤一同御供いたす、行程一里許、海辺に臨める客舎オテル・ヨウロツプ御投館、御休息、御昼食、午餐後市街御遊覧、御買上物等調へ、第<time when='02:00:00' cert='low'>二時</time>御帰船
                                 第<time when='05:20:00' cert='low'>五時弐十分</time>同港発釘《（〓）》、風静に波なく海水如席、〓行尤随意なり</p>
                         </div>
@@ -1128,7 +1128,7 @@
                             <p>暁より器械破損して〓行をとゝむ、されとも順風なれは帆前にて<time when='01:00:00' cert='low'>一時</time>間五六里を行といふ、夜<time when='08:00:00' cert='low'>八時</time>機関修繕せしとて〓行す、夕方より風強く舟行快よし、夜風烈しく雨来る</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10001m-79">
-                            <head>十<date when='XXXX-01-01' evidence='year'>一月一日</date>　晴　月　緯三十度五十八　経百弐十八度　弐百三十六里　横迄五百七十九里　<date when='XXXX-12-14' evidence='year'>十二月十四日</date></head>
+                            <head><date when='XXXX-11-01' evidence='year'>十一月一日</date>　晴　月　緯三十度五十八　経百弐十八度　弐百三十六里　横迄五百七十九里　<date when='XXXX-12-14' evidence='year'>十二月十四日</date></head>
                             <p>暁より日本南陲の島嶼を認む、第<time when='08:00:00' cert='low'>八時</time>頃、モンシケンといふ島の辺を〓行す、夫より硫黄島、竹島を際して〓行す、海門岳《（開聞）》を船の左辺に認る、追々薩隅南辺の諸山を見る、風強く舟行速なり
                                 三ツ部屋、弐ツ中檀、弐ツ下檀入、〆七ツ</p>
                         </div>
@@ -1225,7 +1225,7 @@
             <text xml:id="DKB10002m">
                 <pb xml:id="B1027"/>
                 <front>
-                    <head>自<date when='1868-11-03'>明治元年十一月三日</date>至同<date when='XXXX' evidence='year'>二年</date>正月<date when='XXXX-XX-18' evidence='year, month'>十八日</date>　1868―1869</head>
+                    <head>自<date when='1868-11-03'>明治元年十一月三日</date>至同<date when='XXXX-01-18' evidence='year'>二年正月十八日</date>　1868―1869</head>
                     <div type="archival_description" xml:id="DKB10002m-0">
                         <p>○原本概要</p>
                         <p>体裁。洋綴手帖。15.3cm×10.2cm厚サ、1.2cm表紙黒色クロス。表紙一方ニゴム平紐ヲ付ク。細鉛筆付見返シ、茶ト紺ノマーブル模様。</p>
@@ -1262,11 +1262,11 @@
                                 着後両人とも拝謁被　仰付、品々申上る</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-6">
-                            <head><date when='XXXX-11-08' evidence='year'>十一月八日</date>　晴　日　<date when='XXXX-12-21' evidence='year'>十二月廿一日</date></head>
+                            <head><date when='XXXX-11-08' evidence='year'>十一月八日</date>　晴　日　十<date when='XXXX-02-21' evidence='year'>二月廿一日</date></head>
                             <p>朝拝謁、御供にて後楽園といふ邸中の御庭拝見被仰付、午後儀左衛門罷出、三人同道ニ而田安御殿罷出、森川荘次郎面会、夫より明神下ニ而西吉十郎を訪ひ面会、同行ニ而麦斗といふ楼ニ而一酌いたす、夜る時雨来る</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-7">
-                            <head><date when='XXXX-11-09' evidence='year'>十一月九日</date>　曇　月　<date when='XXXX-12-22' evidence='year'>十二月廿二日</date></head>
+                            <head><date when='XXXX-11-09' evidence='year'>十一月九日</date>　曇　月　十<date when='XXXX-02-22' evidence='year'>二月廿二日</date></head>
                             <p>朝、西吉十郎面会、夫より杉浦愛蔵縁戚の両国広小路を尋、吉田次郎面会《箱舘の新報承る》いたす
                                 夕方独行ニ而梅田慎之助を尋、留守中ニ付婦人面会、折節郷里の従妹罷越居りしとて、呼寄、面会、旧話徹夜</p>
                         </div>
@@ -1276,14 +1276,14 @@
                                 杉浦愛蔵来る、滞留中宿所之儀取計之旨申聞る</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-9">
-                            <head><date when='XXXX-11-11' evidence='year'>十一月十一日</date>　晴　水　<date when='XXXX-12-24' evidence='year'>十二月廿四日</date></head>
+                            <head><date when='XXXX-11-11' evidence='year'>十一月十一日</date>　晴　水　十<date when='XXXX-02-24' evidence='year'>二月廿四日</date></head>
                             <p>朝より荷物御開きいたす、御為替之儀ニ付三ツ井呼出し、申談す 野村彜之助面会いたす、井坂泉太郎同行
                                 山高石見、小出涌之助江書状遣す、夜、深川出火</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-10">
-                            <head><date when='XXXX-11-12' evidence='year'>十一月十二日</date>　晴　木　<date when='XXXX-12-25' evidence='year'>十二月廿五日</date></head>
+                            <head><date when='XXXX-11-12' evidence='year'>十一月十二日</date>　晴　木　十<date when='XXXX-02-25' evidence='year'>二月廿五日</date></head>
                             <p>朝、黄賓行之儀ニ付、泉太郎申談いたす ヒストル三四挺、銀時計五ツ計御買上之積申談有之
-                                荷物調分いたす、三ツ井手代来る、金子受取、杉浦愛蔵来、黄行之儀申談、明後十<date when='XXXX-XX-04' evidence='year, month'>四日</date>出立之積申談、諸勘定いたす
+                                荷物調分いたす、三ツ井手代来る、金子受取、杉浦愛蔵来、黄行之儀申談、明後<date when='XXXX-XX-14' evidence='year, month'>十四日</date>出立之積申談、諸勘定いたす
                                 吉田次郎来、仏行書状之儀申談★★B1029★</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-11">
@@ -1325,13 +1325,13 @@
                                 午後連発銃請取方ニ付海岸十番飛脚船会社へ罷越、品請取、夫よりモスネ方立寄、私用買上物いたし、瑞西九十番商館へ罷越す、いまた弾丸上陸なく引取方難出来ニ付、夫より瑞西の洋店ニ而時計四ツを買上、夕方九十番ニ而銃弾箱請取方いたす、夜に入裁判所へ相越、東京行の印章を請ふ、小連発銃之儀申達す、夜<time when='07:00:00' cert='low'>七時</time>頃幸二屋方へ帰宿</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-17">
-                            <head><date when='XXXX-11-19' evidence='year'>十一月十九日</date>　美晴　千八百六<date when='XXXX' evidence='year'>十九年</date>　第<date when='XXXX-01-01' evidence='year'>一月一日</date></head>
+                            <head><date when='XXXX-11-19' evidence='year'>十一月十九日</date>　美晴　千八百<date when='XXXX' evidence='year'>六十九年</date>　第<date when='XXXX-01-01' evidence='year'>一月一日</date></head>
                             <p>昨夜運送方へ請取し品物相渡し、朝連発銃も請取之積申談せしに、篤太夫ならてハ渡方不相成旨ニ付、東波塘場に罷越、連発銃の箱請取、海岸に来り積入の手筈取扱、森川より相頼まれし牛肉及買上し反物は上乗の水人に相托し、届方申談す
                                 廻船の手筈よろしく、荷物改方等波塘場に相済たれは、夫より一同ニ而午飯をいたし、第<time when='02:00:00' cert='low'>二時</time>頃黄賓出立、乗合船ニ而第<time when='03:00:00' cert='low'>三時</time>頃金川着、下田屋といふ客舎投宿
                                 　銀丁二丁目西山幸助</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-18">
-                            <head><date when='XXXX-11-20' evidence='year'>十一月廿日</date>　晴　<date when='XXXX-01-02' evidence='year'>一月二日</date></head>
+                            <head>十<date when='XXXX-01-20' evidence='year'>一月廿日</date>　晴　<date when='XXXX-01-02' evidence='year'>一月二日</date></head>
                             <p>朝<time when='06:00:00' cert='low'>六時</time>金川を発し、駕を命し川崎を経品川に至り、夫より歩行ニ而<time when='02:00:00' cert='low'>二時</time>頃中橋山中隣之助宅に至る、松代藩横田数馬といふ留守居面会、午飯終て<time when='04:00:00' cert='low'>四時</time>頃明神田僑居《（下カ）》に至る、時に杉浦は外出にて、北堂の留守せしかは、帰着を言て一同の無事を祝し、夫より御買上品持参ニて礫邸に至る、民部公子に拝謁、数々新聞抔申上る
                                 昨日公子水戸御相続之儀相済し旨被仰聞、夜に入て水邸を罷り、明神下帰宿、杉浦面会</p>
                         </div>
@@ -1357,7 +1357,7 @@
                         <div type="diary-entry" xml:id="DKB10002m-23">
                             <head><date when='XXXX-11-25' evidence='year'>十一月廿五日</date>　晴　<date when='XXXX-01-07' evidence='year'>一月七日</date></head>
                             <p>朝、福地源一郎来、午餐後、杉浦、福地同行、田安殿に至る、森川面会、中老織田和泉に逢ふて公子御内御用之儀申談す、帰省之儀願差出す、第<time when='04:00:00' cert='low'>四時</time>頃礫邸へ出る、明日仏行御供之者一同罷出候様被申渡
-                                栗本仏行勘定書之儀ニ付、明後<date when='XXXX-XX-27' evidence='year, month'>廿七日</date>田安殿可罷出旨相達す、夕方帰宿、此夜伊東玄伯之招に応し、杉浦同行、両国川長といふ割庖楼に至る、夜十<time when='01:00:00' cert='low'>一時</time>頃帰宿</p>
+                                栗本仏行勘定書之儀ニ付、明後廿<date when='XXXX-XX-07' evidence='year, month'>七日</date>田安殿可罷出旨相達す、夕方帰宿、此夜伊東玄伯之招に応し、杉浦同行、両国川長といふ割庖楼に至る、夜十<time when='01:00:00' cert='low'>一時</time>頃帰宿</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-24">
                             <head><date when='XXXX-11-26' evidence='year'>十一月廿六日</date>　晴　<date when='XXXX-01-08' evidence='year'>一月八日</date></head>
@@ -1404,7 +1404,7 @@
                             <p>午時より近隣を訪ひ、新田吉岡に至る、伊勢崎細野の妻来りしより帰宿面会、夫より新宅市五郎の宅を訪ひ、前の内ニ而午飯、隠居に至り老叔父に逢ひ旧を話す</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-34">
-                            <head><date when='XXXX-12-06' evidence='year'>十二月六日</date>　晴　<date when='XXXX-01-17' evidence='year'>一月十七日</date>《（<date when='XXXX-XX-18' evidence='year, month'>十八日</date>）》</head>
+                            <head><date when='XXXX-12-06' evidence='year'>十二月六日</date>　晴　<date when='XXXX-01-17' evidence='year'>一月十七日</date>《（十<date when='XXXX-XX-08' evidence='year, month'>八日</date>）》</head>
                             <p>朝、支度を整、土産物諸親へ送り遣す、午後、成一郎の宅へ相越す、老叔父留守中ニ付直ニ帰宿、夜、新屋敷叔父、藍香及近隣旧交の者数人来る、明日出立之積ニ付、別を惜み再会を約す</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-35">
@@ -1416,24 +1416,24 @@
                             <p>払暁鴻巣発途、蕨宿ニ而昼食、夕方明神下着、杉浦在宿なりしかは別後之事共申談、夜、阿人小花、阿米来る、福地源一郎来</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-37">
-                            <head><date when='XXXX-11-09' evidence='year'>十一月九日</date>《（<date when='XXXX-12' evidence='year, day'>十二月</date>）》　晴　<date when='XXXX-01-20' evidence='year'>一月廿日</date>《（二十<date when='XXXX-XX-01' evidence='year, month'>一日</date>）》</head>
-                            <p>朝、杉浦同行飯田丁ニ而平岡四郎を訪ふ、不在ニ付明朝を約し、夫より御殿へ出る、大久保一翁に逢而駿府出立之儀申立る、郷里より帰着せし儀、駿出立之儀其外届差出す、森川面会、開成所残金会計局へ返納之儀、仏行之者御手当請取方等申談、来<date when='XXXX-XX-12' evidence='year, month'>十二日</date>一同出殿之積相約し、夕方退散、夫より礫邸へ出る、公子明日水国御発途ニ付、夜拝謁被仰付、★★B1033★御内用之儀被仰聞、菊池平八郎其他之者面会、爾後之御用手筈打合、夜<time when='10:00:00' cert='low'>十時</time>過帰宿</p>
+                            <head><date when='XXXX-11-09' evidence='year'>十一月九日</date>《（<date when='XXXX-12' evidence='year, day'>十二月</date>）》　晴　<date when='XXXX-01-20' evidence='year'>一月廿日</date>《（二<date when='XXXX-XX-11' evidence='year, month'>十一日</date>）》</head>
+                            <p>朝、杉浦同行飯田丁ニ而平岡四郎を訪ふ、不在ニ付明朝を約し、夫より御殿へ出る、大久保一翁に逢而駿府出立之儀申立る、郷里より帰着せし儀、駿出立之儀其外届差出す、森川面会、開成所残金会計局へ返納之儀、仏行之者御手当請取方等申談、来十<date when='XXXX-XX-02' evidence='year, month'>二日</date>一同出殿之積相約し、夕方退散、夫より礫邸へ出る、公子明日水国御発途ニ付、夜拝謁被仰付、★★B1033★御内用之儀被仰聞、菊池平八郎其他之者面会、爾後之御用手筈打合、夜<time when='10:00:00' cert='low'>十時</time>過帰宿</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-38">
-                            <head><date when='XXXX-11-10' evidence='year'>十一月十日</date>《（<date when='XXXX-12' evidence='year, day'>十二月</date>）》　晴　<date when='XXXX-01-21' evidence='year'>一月廿一日</date>《（<date when='XXXX-XX-22' evidence='year, month'>廿二日</date>）》</head>
+                            <head><date when='XXXX-11-10' evidence='year'>十一月十日</date>《（<date when='XXXX-12' evidence='year, day'>十二月</date>）》　晴　<date when='XXXX-01-21' evidence='year'>一月廿一日</date>《（廿<date when='XXXX-XX-02' evidence='year, month'>二日</date>）》</head>
                             <p>朝、田中清三郎来、栗本へ書状差遣す書類催促之儀申遣す、三ツ井加太へ調達金之儀相達す、四ツ頃より平岡四郎を訪ふ、不在ニ付不逢、夫より梅田を尋ね、昇之助衣服之儀相頼み、夫より両国に至り、杉浦同行ニ而河津に至る、河津、田辺抔相伴ふて深川扇橋玉忠別荘を訪ひ、松平伊賀守の庭園一覧、当時売品也、夫より大黒屋の別業に至る、其庭は文晁、抱一抔文人の戮力して築成せし園なりければ、石泉の設、樹木の植並抔雅致を究めたり、一覧後其亭ニ而饗応を受、酒間其娘に三曲を調さしむ、酒後商法之事六兵衛父子に申談し、夜<time when='10:00:00' cert='low'>十時</time>頃舟ニ而柳橋ニ而杉浦の老人田辺抔と別れ、十<time when='01:00:00' cert='low'>一時</time>頃筋違着、直ニ明神下に帰宿</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-39">
-                            <head><date when='XXXX-11-11' evidence='year'>十一月十一日</date>《（<date when='XXXX-12' evidence='year, day'>十二月</date>）》　晴　<date when='XXXX-01-22' evidence='year'>一月廿二日</date>《（<date when='XXXX-XX-23' evidence='year, month'>廿三日</date>）》</head>
+                            <head><date when='XXXX-11-11' evidence='year'>十一月十一日</date>《（<date when='XXXX-12' evidence='year, day'>十二月</date>）》　晴　<date when='XXXX-01-22' evidence='year'>一月廿二日</date>《（廿<date when='XXXX-XX-03' evidence='year, month'>三日</date>）》</head>
                             <p>朝、御用荷物其外荷繕ひいたす、須永於莵之助来、郷里へ取落し物送来る、夕方より水邸に至り、柴田章彦面会、荷拵之儀申談す、夫より駒込片町田中清三郎を尋問、夜<time when='10:00:00' cert='low'>十時</time>過帰宿、写真之儀ニ付河津へ書翰遣す朝、五来要助来る、其忰駿州之儀申立ニ付承届遣す</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-40">
-                            <head><date when='XXXX-11-12' evidence='year'>十一月十二日</date>《（<date when='XXXX-12' evidence='year, day'>十二月</date>）》　晴　<date when='XXXX-01-23' evidence='year'>一月廿三日</date>《（廿<date when='XXXX-XX-04' evidence='year, month'>四日</date>）》</head>
+                            <head><date when='XXXX-11-12' evidence='year'>十一月十二日</date>《（<date when='XXXX-12' evidence='year, day'>十二月</date>）》　晴　<date when='XXXX-01-23' evidence='year'>一月廿三日</date>《（<date when='XXXX-XX-24' evidence='year, month'>廿四日</date>）》</head>
                             <p>朝、栗本治兵衛を訪ふ、御入用仕上之儀申談す、夫より出殿、三ツ井より調達金差出す、森川面会、仏行御用骨折ニ付時服二ツ拝領被仰付、此日勤仕並御請普入被仰付《（普請）》、直ニ大目付附属被仰付、尤御書付ニ而申達今朝、加太八兵衛代人来、調達金延期之儀申立ニ付、厳重理解申遣す
                                 午後右代人御殿に出る、明日尚又罷出る旨申立引取る、此日請取りし御手当金持参、夕方より和泉丁大黒屋店罷越し、金子引渡し預書請取商法之儀品々申談す、帰路梅田へ立寄、郷里へ書翰差出す</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-41">
-                            <head><date when='XXXX-12-13' evidence='year'>十二月十三日</date>　雨　<date when='XXXX-01-24' evidence='year'>一月廿四日</date>《（<date when='XXXX-XX-25' evidence='year, month'>廿五日</date>）》</head>
+                            <head><date when='XXXX-12-13' evidence='year'>十二月十三日</date>　雨　<date when='XXXX-01-24' evidence='year'>一月廿四日</date>《（廿<date when='XXXX-XX-05' evidence='year, month'>五日</date>）》</head>
                             <p>朝より旅装を整ふ、田中清三郎来、王屋忠四郎来
                                 午後、加太八兵衛代人来、預金書面認直し、金三百八十両余之口上納いたす、大黒屋へ書翰遣し、預ケ金之儀申遣す、三ツ井へ呉服代之儀申遣す、大黒屋代人来る、預金四百両相渡ス、三ツ井呉服代杉浦方ニ而請取、夕方川勝へ川路太郎英生徒御手当差引残相渡す、夜、梅田方へ罷越、おひさ来る、浄瑠璃を聴聞す</p>
                         </div>
@@ -1442,11 +1442,11 @@
                             <p>朝、梅田より明神下に帰り、旅装整たれは、第<time when='09:00:00' cert='low'>九時</time>頃出立、尤荷物は不残船ニ而今晩品川へ差送る、第<time when='12:00:00' cert='low'>十二時</time>頃品川着、肥後兵隊其外等ニ而人足多く入用故継立出来せすとて、問屋場役人詰合なけれは本陣を頼み人足雇方取計、夕方川崎宿着ニ而一泊</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-43">
-                            <head><date when='XXXX-12-15' evidence='year'>十二月十五日</date>　晴　<date when='XXXX-01-26' evidence='year'>一月廿六日</date>《（<date when='XXXX-XX-27' evidence='year, month'>廿七日</date>）》</head>
+                            <head><date when='XXXX-12-15' evidence='year'>十二月十五日</date>　晴　<date when='XXXX-01-26' evidence='year'>一月廿六日</date>《（廿<date when='XXXX-XX-07' evidence='year, month'>七日</date>）》</head>
                             <p>此日も旅人多く人馬差支とて、朝<time when='08:00:00' cert='low'>八時</time>頃川崎宿、十<time when='01:00:00' cert='low'>一時</time>頃神奈川着、泉治といふ客舎ニ而田辺面会、卯三郎も時計之儀ニ付来りしが、昨日横浜に行しとて逢わす、田辺に托し伝語申遣す、外ニ書翰抔相托し、後会を約し、夫より程ケ谷ニ而昼食、夕方藤沢着、一泊</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-44">
-                            <head><date when='XXXX-12-16' evidence='year'>十二月十六日</date>　晴　<date when='XXXX-01-27' evidence='year'>一月廿七日</date>《（<date when='XXXX-XX-28' evidence='year, month'>廿八日</date>）》</head>
+                            <head><date when='XXXX-12-16' evidence='year'>十二月十六日</date>　晴　<date when='XXXX-01-27' evidence='year'>一月廿七日</date>《（廿<date when='XXXX-XX-08' evidence='year, month'>八日</date>）》</head>
                             <p>朝<time when='07:00:00' cert='low'>七時</time>発、路程も平垣《（坦カ）》にて人馬も稍差支されハ行路捗取りぬ、大磯宿★★B1034★ニ而午飯、夕<time when='04:00:00' cert='low'>四時</time>頃小田原宿着、一泊</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-45">
@@ -1461,7 +1461,7 @@
                         <div type="diary-entry" xml:id="DKB10002m-47">
                             <head><date when='XXXX-12-19' evidence='year'>十二月十九日</date>　晴風</head>
                             <p>朝<time when='07:00:00' cert='low'>七時</time>頃発、江尻宿ニ而午飯、<time when='02:00:00' cert='low'>二時</time>頃府中東陲の松原ニ而浅野次郎八に逢ふ、夕<time when='03:00:00' cert='low'>三時</time>頃府中着、問屋場ニ而旅宿を談し、油屋吉五郎といふ旗亭投宿、脇阪米次郎来、鵜飼弥一来、同行ニ而七軒町天麩羅やに罷越、夫より上石町汁粉屋に至る、夜、帰宿
-                                　　　梅沢旅宿 　伝馬丁裏鷹匠町 　安在五丁目黄村旅宿 　今村惣右衛門宅 　明後<date when='XXXX-XX-22' evidence='year, month'>廿二日</date>朝
+                                　　　梅沢旅宿 　伝馬丁裏鷹匠町 　安在五丁目黄村旅宿 　今村惣右衛門宅 　明後廿<date when='XXXX-XX-02' evidence='year, month'>二日</date>朝
                                 神田小柳町梅田慎之助方ニ而川村刀金物請取持参之事</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-48">
@@ -1469,7 +1469,7 @@
                             <p>朝、浜中義左衛門来、第<time when='10:00:00' cert='low'>十時</time>頃御城中に罷出、梅沢孫太郎面会、前様拝謁之儀申立る、詰所ニ而淵延徳蔵に逢、清水港ニ而降服之者共名前帳を見る、午後帰宿、直ニ宝泰院《（台）》へ罷出る、拝謁之儀明日可被仰付旨ニ付引取、荒井助二郎訊問、川村三介面会、夜同行ニ而平岡庄七旅宿を訪ひ、帰宿後再ひ林研海を明真館《（新）》に訪ふ、夜<time when='12:00:00' cert='low'>十二時</time>頃帰宿</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-49">
-                            <head><date when='XXXX-12-21' evidence='year'>十二月廿一日</date>　雨</head>
+                            <head>十<date when='XXXX-02-21' evidence='year'>二月廿一日</date>　雨</head>
                             <p>朝、浅野次郎八を訪ふ、御用向申上る、小出涌之助面会、書状渡す、帰宿後杉浦と共に大六手代人勇助面会、商社之儀申談す、川村来る、子息同伴いたす、第<time when='02:00:00' cert='low'>二時</time>水府より被進候御品持参、宝□院罷出《（原本欠。○台）》る、御品は御小性頭取へ引渡す、梅沢孫太郎より拝謁之儀明日之積被申聞退出、掛新村主計を訪ふ、夕方梅沢を訪ふ、京師以来之事情詳悉承及ふ、夜<time when='10:00:00' cert='low'>十時</time>頃帰宿
                                 川村へ金五拾両貸遣す、請取書預置、但荒井より頼之由</p>
                         </div>
@@ -1483,12 +1483,12 @@
                                 　　　　　四郎殿　　鷹匠町左側 　　　　余十郎殿　　紺屋町清水尻 ★★B1035★ 　　　　　尚助殿　　草深
                                 　　　　虎次郎殿　　鷹匠町右側 　　　奉願候書付　　　　　　　　　　　　渋沢篤太夫
                                 　私義今般不存寄御勘定組頭被　命難有仕合奉存候、然処去月中民部大輔殿御附添仏国より帰朝仕候以来病身に相成、御用多之御場処勤仕出来兼候様奉存候間、御役御免被成下置候様仕度此段奉願候、以上
-                                　　辰<date when='XXXX-12-25' evidence='year'>十二月廿五日</date> 　　　　　　　　　　　　　　　　　　　　元開成所調役 　　　　　　　　　　　　　　　　　　　 渋沢篤太夫 </p>
+                                　　辰十<date when='XXXX-02-25' evidence='year'>二月廿五日</date> 　　　　　　　　　　　　　　　　　　　　元開成所調役 　　　　　　　　　　　　　　　　　　　 渋沢篤太夫 </p>
                         </div>
                     </div>
                     <div type="diary">
                         <div type="diary-entry" xml:id="DKB10002m-51">
-                            <head><date when='XXXX-12-22' evidence='year'>十二月廿二日</date>　晴</head>
+                            <head>十<date when='XXXX-02-22' evidence='year'>二月廿二日</date>　晴</head>
                             <p>朝第<time when='10:00:00' cert='low'>十時</time>頃御城に出る、拝謁之儀ニ付公子より被仰含之廉々中老戸川平右衛門殿へ申立る、明日拝謁被仰付旨御同人被申渡、商社之儀ニ付見込織田和泉殿へ申立る、淵辺徳蔵面会、観臨乗込当地《（咸カ）》ニ而謹慎被申付居候者へ書状達し方金子少々送り方申托す
                                 昨日、杉浦愛蔵横打町へ引越す 夕方、愛蔵同行大黒屋勇助を訪ふ、大坪七兵衛面会、帰路愛蔵と同しく天麩羅店ニ而小酌、夜に入帰宿</p>
                         </div>
@@ -1498,15 +1498,15 @@
                                 今日夕七ツ時、御用有之出殿可致旨御目付より被申達</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-53">
-                            <head><date when='XXXX-12-24' evidence='year'>十二月廿四日</date>　曇午後雨</head>
+                            <head>十<date when='XXXX-02-24' evidence='year'>二月廿四日</date>　曇午後雨</head>
                             <p>第<time when='09:30:00' cert='low'>九時半</time>頃出殿、御用向承及候処、御用召之旨被申聞、礼服着用可致旨ニ付、御目付局ニ而借用いたす、御勘定組頭被命旨平右衛門殿被申渡、御勘定局へ被引渡、頭同役其外一同へ面会いたす
                                 公子へ復命之儀、頭衆より相伺候処、不及其儀旨被申渡、退出後、礼服無之ニ付廻勤難出来旨局及御目付へ申越す、夜、山高八郎来、此夜隣家ニ而喧嘩有之</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-54">
-                            <head><date when='XXXX-12-25' evidence='year'>十二月廿五日</date>　雨</head>
+                            <head>十<date when='XXXX-02-25' evidence='year'>二月廿五日</date>　雨</head>
                             <p>朝、杉浦愛蔵来、昨日之手続申聞る、梅沢孫太郎へ書状遣す、今日不快ニ而出勤相成兼候旨愛蔵へ托し、御勘定所へ書状差遣す、林研海、鵜飼弥一来、脇坂木次郎来《（脇坂米次郎）》、夕方願書持参ニ而平岡四郎を訪ふ、不快ニ付不逢、帰後書状を以申遣す
-                                　正月朔<time when='05:00:00' cert='low'>五時</time>揃　　服紗小袖麻上下 　　　上士之者御礼 　　<date when='XXXX-XX-02' evidence='year, month'>二日</date>　同刻限　　同　断 　　　上士以下之御礼 　　<date when='XXXX-XX-03' evidence='year, month'>三日</date>　例刻　　　同　断
-                                　　　御礼無之 ★★B1036★ 　　<date when='XXXX-XX-04' evidence='year, month'>四日</date>　今日より平服例刻 　　<date when='XXXX-XX-07' evidence='year, month'>七日</date> 　　　　　<time when='05:00:00' cert='low'>五時</time>揃　　服紗小袖麻上下 　十<date when='XXXX-XX-01' evidence='year, month'>一日</date> 　　　不勤之者御礼
+                                　<date when='XXXX-01' evidence='year, day'>正月</date>朔<time when='05:00:00' cert='low'>五時</time>揃　　服紗小袖麻上下 　　　上士之者御礼 　　<date when='XXXX-XX-02' evidence='year, month'>二日</date>　同刻限　　同　断 　　　上士以下之御礼 　　<date when='XXXX-XX-03' evidence='year, month'>三日</date>　例刻　　　同　断
+                                　　　御礼無之 ★★B1036★ 　　<date when='XXXX-XX-04' evidence='year, month'>四日</date>　今日より平服例刻 　　<date when='XXXX-XX-07' evidence='year, month'>七日</date> 　　　　　<time when='05:00:00' cert='low'>五時</time>揃　　服紗小袖麻上下 　<date when='XXXX-XX-11' evidence='year, month'>十一日</date> 　　　不勤之者御礼
                                 　<date when='XXXX-XX-15' evidence='year, month'>十五日</date>　同刻限　　同　断 　右之通御礼被為請候間得其意向々へ可被相触候 　　　<date when='XXXX-12' evidence='year, day'>十二月</date> </p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-55">
@@ -1526,7 +1526,7 @@
                             <p>朝出殿、謹慎之者儀ニ付大目付へ見込申談す、平岡四郎へも同断申談す、退出後御用書類取調いたす、郷里、東京諸方へ書状認る、勇助へ相渡す</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-59">
-                            <head><date when='1869'>明治二年</date>巳正月<date when='XXXX-XX-01' evidence='year, month'>元日</date>　晴</head>
+                            <head><date when='1869'>明治二年</date>巳<date when='XXXX-01-01' evidence='year'>正月元日</date>　晴</head>
                             <p>朝、商法会所之儀見込書取調、夕、平岡四郎を訪ふ、夫より杉浦面会、四ツ過帰宿</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-60">
@@ -1567,20 +1567,20 @@
                             <p>朝、出殿、仏行調物出来之分持参いたす、午後商法見込書之儀ニ付中老衆御列座ニ而御談有之、見込之儀逐一申立る、夕方帰宿調物いたす</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-69">
-                            <head>（<date when='XXXX-01' evidence='year, day'>一月</date>）十<date when='XXXX-XX-01' evidence='year, month'>一日</date>　晴</head>
+                            <head>（<date when='XXXX-01' evidence='year, day'>一月</date>）<date when='XXXX-XX-11' evidence='year, month'>十一日</date>　晴</head>
                             <p>昨夜、北村彦次郎、荻原四郎兵衛来、商法筋見込之儀申談す
                                 朝、仏行調物いた《（す脱）》、御入用残調御品残高とも明細書調済之上出殿ニ而差出す、中老衆御覧之積ニ付御用部屋へ差出す</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-70">
-                            <head>（<date when='XXXX-01' evidence='year, day'>一月</date>）<date when='XXXX-XX-12' evidence='year, month'>十二日</date>　晴</head>
+                            <head>（<date when='XXXX-01' evidence='year, day'>一月</date>）十<date when='XXXX-XX-02' evidence='year, month'>二日</date>　晴</head>
                             <p>調物残之分御殿へ差出す、商法筋御取開之儀、中老衆へ御催促申上る近々御沙汰可有之旨被申聞</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-71">
-                            <head>（<date when='XXXX-01' evidence='year, day'>一月</date>）十<date when='XXXX-XX-03' evidence='year, month'>三日</date>　晴</head>
+                            <head>（<date when='XXXX-01' evidence='year, day'>一月</date>）<date when='XXXX-XX-13' evidence='year, month'>十三日</date>　晴</head>
                             <p>今日御殿へ罷出候様頭より被申達四ツ頃出殿、昼後御用召御役御免御勘定頭支配中老手附被命商法之儀申上る、御入用調之儀相済候旨申上る浜中義左衛門来、北村彦次郎来</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-72">
-                            <head>（<date when='XXXX-01' evidence='year, day'>一月</date>）十<date when='XXXX-XX-04' evidence='year, month'>四日</date>　晴</head>
+                            <head>（<date when='XXXX-01' evidence='year, day'>一月</date>）<date when='XXXX-XX-14' evidence='year, month'>十四日</date>　晴</head>
                             <p>朝出殿、商法会所掛之者申立る、此日商法会所御用金の取扱被命、御勘定矢村小四郎、坂本柳左衛門、御用取扱被命、午後紺屋町役所見廻り、間取其外申談す、夕方、三田伊右衛門、杉浦愛蔵来、御用達呼出之儀申達す</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-73">
@@ -1588,7 +1588,7 @@
                             <p>朝、紺屋町御役所罷出、御破損等見分、御役所間取調分いたす、明日御用達一同呼出之積申達す、間取其外御普請等取調之儀出殿之上四郎へ申立る、夕方宮の崎一翁殿旅宿へ罷越し今日之手続申立る、御役所へ引移リ、御役屋敷之積を以住居可致旨被申渡、夜、浜中義左衛門来</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-74">
-                            <head>（<date when='XXXX-01' evidence='year, day'>一月</date>）十<date when='XXXX-XX-06' evidence='year, month'>六日</date>　晴</head>
+                            <head>（<date when='XXXX-01' evidence='year, day'>一月</date>）<date when='XXXX-XX-16' evidence='year, month'>十六日</date>　晴</head>
                             <p>朝、紺屋町御役所へ罷越す、御用筋取扱ふ御用達之者九人へ会所御用達申渡、商法会所御取開之旨申聞る、小遣之者手代之者御普請之事等申談し、一同見込書可差出儀等申談し、夫より出殿取扱候御用向一翁殿へ申立る、開成所雑物請取方いたし御勘定所へ預置、御勘定下役之者両人会所御用掛申渡</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-75">
@@ -1597,7 +1597,7 @@
                                 中将様久能御参詣有之、終日在宅ニ而会所規則并諸向へ御達御案取調いたす、夕、林研海、杉浦愛蔵御勘定下役両人来、前田重五郎へ大塚市左衛門義再応申談遣す</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10002m-76">
-                            <head>（<date when='XXXX-01' evidence='year, day'>一月</date>）<date when='XXXX-XX-18' evidence='year, month'>十八日</date>　雨夕晴</head>
+                            <head>（<date when='XXXX-01' evidence='year, day'>一月</date>）十<date when='XXXX-XX-08' evidence='year, month'>八日</date>　雨夕晴</head>
                             <p>例刻会所出勤、御案類取調、御普請向坂本柳左衛門へ申談大工へ申付る、畳屋へ表替申付る、重五郎宿所之儀四郎へ申立る、会所内へ引移★★B1038★之積申付る、御触案一翁殿へ差出す、見込申上之書類御入用仕上書とも御下御催促申上る、大塚市左衛門儀和泉殿へ申立る
                                 夜、紙幣差引御利益調いたす</p>
                         </div>
@@ -1651,11 +1651,11 @@
                                     　　　　　　　　　　　　　　　　　　　東京より品川迄 　一　金三両壱分 　　　　　　　　　　　　　　　　　　　　荷物船賃
                                     　一　金五両　　　　　　　　　　　　　昇之助渡 　　　　　　　　　　　　　　　　　　　同人渡 　一　金四両三分
                                     　　　　　　　　　　　　　　　　　　　　銭ニ而渡 　一　金弐両壱分　　　　　　　　　　　持出し人足賃
-                                    　一　弐分一朱弐百九文　　　　　　　　提灯代四ツ <date when='XXXX-XX-15' evidence='year, month'>十五日</date> 　一　金五両也　　　　　　　　　　　　藤沢ニ而渡 十<date when='XXXX-XX-04' evidence='year, month'>四日</date>
+                                    　一　弐分一朱弐百九文　　　　　　　　提灯代四ツ <date when='XXXX-XX-15' evidence='year, month'>十五日</date> 　一　金五両也　　　　　　　　　　　　藤沢ニ而渡 <date when='XXXX-XX-14' evidence='year, month'>十四日</date>
                                     　一　壱〆七百文　　　　　　　　　　　川崎ニ而渡 　　　　　　　　　　　　　　　　　　　　川崎ニ而渡
                                     　一　壱両七百文《（〆カ）》 　　　　　　　　　　　　　　　　　　　　同断 　一　三朱ト九百文　　　　　　　　　　　　別入用之分
                                     　　　　　　　　　　　　　　　　　　　水邸より明神下迄 　一　金壱両弐分　　　　　　　　　　　　御用荷物運送賃
-                                    　一　金拾弐両　　　　　　　　　　　　小田原ニ而渡 <date when='XXXX-XX-17' evidence='year, month'>十七日</date> 　一　金七両也　　　　　　　　　　　　三島ニ而渡 <date when='XXXX-XX-18' evidence='year, month'>十八日</date>
+                                    　一　金拾弐両　　　　　　　　　　　　小田原ニ而渡 <date when='XXXX-XX-17' evidence='year, month'>十七日</date> 　一　金七両也　　　　　　　　　　　　三島ニ而渡 十<date when='XXXX-XX-08' evidence='year, month'>八日</date>
                                     　一　金五両　　　　　　　　　　　　　　原ニ而渡 <date when='XXXX-XX-19' evidence='year, month'>十九日</date> 　一　金五両　　　　　　　　　　　　　　蒲原ニ而渡
                                     　　　　英国生徒御手当差引 　　　　　　　　　　　　　　　　　　　　御旅館御賄之口より
                                     　一　弐万九千五百九拾五フランク　　　　英国生徒帰朝之節 　　　　　　　　　　　　　　　　　　　　川路中村へ
@@ -1676,10 +1676,10 @@
                                     一　同百両　　　　　　　　　　　　　　　　追而一紙ニ而請取差出し 　　〆弐千六百両　　　　　　　　　　　　　利金取究候積之事
                                     同断 　　外ニ三百八［　　］両《（原本欠字）》　　　　　　　呉服代 　金八百〇壱両壱分銀弐匁五分 　　　　　　　　　此銭五百文
                                     　内五百八拾九両三分 　　　　　　　　　永弐百十九文壱分 　　　　　　　　　此金弐朱ト九百三文
-                                    　差引　　　　　　　　　　　　　　　　　　十<date when='XXXX-XX-03' evidence='year, month'>三日</date> 　　〆弐百拾壱両壱分　　　　　　　　　　　　　川勝江
+                                    　差引　　　　　　　　　　　　　　　　　　<date when='XXXX-XX-13' evidence='year, month'>十三日</date> 　　〆弐百拾壱両壱分　　　　　　　　　　　　　川勝江
                                     　　　　　　　　　銭七百九十三文　　　　　　　　持参渡 高金千九拾両弐分永百四十九文弐分之内
                                     　　　　　　　　　　　　　　　　　　　　加太八兵衛 一　金三百八拾七両壱分永百壱文弐分
-                                    　残七百三両壱分永四十八文来巳正月<date when='XXXX-XX-20' evidence='year, month'>廿日</date>迄調達之積書面差出ニ付勘弁日延いたし遣候事 </p>
+                                    　残七百三両壱分永四十八文来巳<date when='XXXX-01-20' evidence='year'>正月廿日</date>迄調達之積書面差出ニ付勘弁日延いたし遣候事 </p>
                                 <p> 　　　　　　　　　　　　　Yokohama le 29 Decembre 1868 　　Mon cher le Colonel
                                     J'ai l'honneur de vous ecrire une lettre pour vous connaitre
                                     votre《(n)》 nouvelle. Depuis que nous sommes partis de Marseille
@@ -1725,7 +1725,7 @@
                             <head>○常平倉関係書類控</head>
                             <p><date when='XXXX-08-25' evidence='year'>八月廿五日</date> 　一翁殿　御下ケ　　　　　　　　　　　　　渋沢篤太郎江
                             此度商法会所御廃止、常平倉御取建ニ付、御場所之儀者静岡商法会所相用可申候、尤清水港之方ハ出張と相心得、両所共都而其方江取扱ヒ命候間、委細之儀ハ猶取調可被申聞候
-                            巳<date when='XXXX-08-26' evidence='year'>八月廿六日</date>上ル 同<date when='XXXX-XX-28' evidence='year, month'>廿八日</date>伺済 　一翁殿 　商法会所御廃止常平倉御取建之儀ニ付取扱振相伺候書付
+                            巳<date when='XXXX-08-26' evidence='year'>八月廿六日</date>上ル 同廿<date when='XXXX-XX-08' evidence='year, month'>八日</date>伺済 　一翁殿 　商法会所御廃止常平倉御取建之儀ニ付取扱振相伺候書付
                             　　　　　　　　　　　　　　　　　　　　　　渋沢篤太郎 藩上之利お不計諸民之益を主とすへき事 <time when='01:00:00' cert='low'>一時</time>の盛大お望ます永久を主とすへき事
                             　此度商法会所御廃止常平倉御取建ニ付而ハ、是迄会所ニ而御遣廻し相成候会所元金并拝借紙幣之内、御勘定所より引渡相成居候分共都而清算之上諸帳面相添会所より受取之、常平倉之元に相立、時宜に随ひ糴糶売買いたし、貯蓄穀相殖候様取扱可仕奉存候
                             一会所元金之分は全従前諸局之仕上残金お取纏候金額ニ付、是者御家より常平倉江御差加穀相成候筋ニいたし、年々利穀相殖候様取扱可仕拝借紙幣之分ハ御遣廻相成候元高を以常平倉ニ而引請、返納方取扱候様可仕、尤是迄御遣廻相成候中相場之差ニ而相減居候分ハ、末年ニ至候ハヽ常平倉《（ニ脱）》おいても相応之利穀積立可相成候間、右ニ而償戻候様可取扱奉存候
@@ -1772,21 +1772,21 @@
                                 ★★B1045★ 仮役所江帰りし後、常平倉御用達共明日一同出勤之旨書面にて申遣す</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10003m-3">
-                            <head>（<date when='XXXX-10' evidence='year, day'>十月</date>）<date when='XXXX-XX-22' evidence='year, month'>廿二日</date></head>
+                            <head>（<date when='XXXX-10' evidence='year, day'>十月</date>）廿<date when='XXXX-XX-02' evidence='year, month'>二日</date></head>
                             <p>朝早く御用達も揃ふたれハ、篤東京行之儀相達し、御書付を拝見せしむ、一同驚愕之体なり、昨夜平岡四郎お訪へ残候後事お談話す
                                 御用達共への議事お遂て、又政事庁に罷越し、来<date when='XXXX-XX-26' evidence='year, month'>廿六日</date>発程之儀申立る、常平倉当所務ニ付見込品々大久保一翁へ申立る、更に平岡四郎小栗尚三へ議す、一同可然旨答へしかば退出後御用達へも達し、留守中御用取扱方手続廉書可認旨を申付、一同の心得方等丁寧反復ニ申談す</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10003m-4">
-                            <head>（<date when='XXXX-10' evidence='year, day'>十月</date>）<date when='XXXX-XX-23' evidence='year, month'>廿三日</date></head>
+                            <head>（<date when='XXXX-10' evidence='year, day'>十月</date>）廿<date when='XXXX-XX-03' evidence='year, month'>三日</date></head>
                             <p>御用達共より差出せし廉書等全なれとも心附候まゝ書綴りし由なれハ毎件仔細に差図振相認、尚心附候事共相加へ度旨申含遣す
                                 政事庁に出御国章旅中人馬之儀監正掛へ引合旅費其他之事共会計掛江申談事整ふれは退出、仮役所にて御用達共江留守中之事務昨日之廉増お差図且相認、当用諸事お弁し後事心得方取扱振まて落もなく申談す昨日清水出張所へ申達し置たれハ、夜清水附御用達共罷出る、御用向申談し遣す</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10003m-5">
-                            <head>（<date when='XXXX-10' evidence='year, day'>十月</date>）廿<date when='XXXX-XX-04' evidence='year, month'>四日</date></head>
+                            <head>（<date when='XXXX-10' evidence='year, day'>十月</date>）<date when='XXXX-XX-24' evidence='year, month'>廿四日</date></head>
                             <p>此日ハ政事庁休日なれハ、早朝より仮役所出勤、此程より申談残せし諸事并御用書類等逐一取調、以後取扱之者共江相渡し、御備金并緊要之御用書類券文之類迄相改引渡す、御用書類之内篤の所持すへき分ハ写取らせ、請取、清水附御用達ヘハ後事丁寧ニ書付上にて申示し引取らす、夕方清水出役之黒柳徳三郎来、諸事申談し書類認方抔申付遣す</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10003m-6">
-                            <head>（<date when='XXXX-10' evidence='year, day'>十月</date>）<date when='XXXX-XX-25' evidence='year, month'>廿五日</date>　晴</head>
+                            <head>（<date when='XXXX-10' evidence='year, day'>十月</date>）廿<date when='XXXX-XX-05' evidence='year, month'>五日</date>　晴</head>
                             <p>発程之期も迫れハ、此日は早天より一同取集り頗る紛冗お極む、朝より是迄之御用書類、伺書、引続書類等不残取広け、総而一読之上所々解釈せしめ、尚不明了之事ハ一同より質問させ、取扱振之廉書も稍全備せしかば、詳悉にこれを下知し、別ニ当用心覚書を認め、これお示し、又外ニ心得方のため壱封之秘書を認め、一同へ相達し、先、公務も稍整頓したれは、是より夜に入て旅装にとりかゝる、廿<date when='XXXX-XX-01' evidence='year, month'>一日</date>より送別之来人、或ハ暇乞とて罷越せし方もあれと、私事なれハ略之</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10003m-7">
@@ -1795,11 +1795,11 @@
                                 此日、静岡最寄の御用達共一同町はつれの場所迄送別す、清水江尻の御用達ハ江尻宿に会同す</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10003m-8">
-                            <head>（<date when='XXXX-10' evidence='year, day'>十月</date>）<date when='XXXX-XX-27' evidence='year, month'>廿七日</date></head>
+                            <head>（<date when='XXXX-10' evidence='year, day'>十月</date>）廿<date when='XXXX-XX-07' evidence='year, month'>七日</date></head>
                             <p>朝江尻宿を発し初而諸事を脱却し、頗る籠外初飛之鳥、江中不繫之船の想をなす、蒲原駅に至り午餐、同所詰乙骨彦十郎といふ者、前田重吾縁者なるか旅店に来り面話す、八ツ頃平垣松永整を訪ふ、武沢市五郎岩淵迄罷越し同行にて開墾せし土地一覧す、夕方吉原駅に至り投宿</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10003m-9">
-                            <head>（<date when='XXXX-10' evidence='year, day'>十月</date>）<date when='XXXX-XX-28' evidence='year, month'>廿八日</date>　晴</head>
+                            <head>（<date when='XXXX-10' evidence='year, day'>十月</date>）廿<date when='XXXX-XX-08' evidence='year, month'>八日</date>　晴</head>
                             <p>早朝吉原を発し、原宿にて植松与右衛門といふ者の名園を一覧す ★★B1046★ 有詩
                                 　遺子何須書五車。慣家有法又堪誇。世間経年多少紛更事。不到園中濃淡花。
                                 沼津にて午餐、同所に知人の多けれど、心せかるゝまゝ其儘打過ぬ、薄暮三島駅に至り投宿</p>
@@ -1869,20 +1869,20 @@
                                 遠州静岡藩管轄地江御貸下之紙幣之儀ニ付、岡本江承合す、夕方小川街邸に至る、織田其外有司面会す、駿河台にて邸宅見分す、松本新作を訪ふ、不在にて面会なし、夜に入帰宿、此夜尾高藍香郷里より来る、家君之書持参す</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10003m-21">
-                            <head>（十<date when='XXXX-01' evidence='year, day'>一月</date>）十<date when='XXXX-XX-01' evidence='year, month'>一日</date>　晴</head>
+                            <head>（十<date when='XXXX-01' evidence='year, day'>一月</date>）<date when='XXXX-XX-11' evidence='year, month'>十一日</date>　晴</head>
                             <p>休日ニ付、朝より調物宅にて認分いたし、午後南八丁堀にて郷之邸を訪ひ、夫より大少輔大少丞を訪ふ、坂出三郎を訪ふ、夜に入る迄談話す風邪之気故同所より駕を命し帰宿す</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10003m-22">
-                            <head>（十<date when='XXXX-01' evidence='year, day'>一月</date>）<date when='XXXX-XX-12' evidence='year, month'>十二日</date>　曇夕雨</head>
+                            <head>（十<date when='XXXX-01' evidence='year, day'>一月</date>）十<date when='XXXX-XX-02' evidence='year, month'>二日</date>　曇夕雨</head>
                             <p>不快ニ付出勤断之儀、吉川江申遣す、斎藤六蔵来る、阿部祐三来</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10003m-23">
-                            <head>（十<date when='XXXX-01' evidence='year, day'>一月</date>）十<date when='XXXX-XX-03' evidence='year, month'>三日</date>　雨</head>
+                            <head>（十<date when='XXXX-01' evidence='year, day'>一月</date>）<date when='XXXX-XX-13' evidence='year, month'>十三日</date>　雨</head>
                             <p>昨夜より熱気ハ稍消すれとも咳嗽甚しく、胸膈をせり上ル、難堪ければ伊東大典医に書状を遣し、病之よしを報し、来訪を請ふ、夕方同人来る、散薬水薬等を送る、此日静岡に書状を遣、平岡、小栗、其外常平倉掛附御用達并宅状等遣す、爾来之手続委細申遣す
                                 明日出勤之儀、伊東より切ニ被差留</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10003m-24">
-                            <head>（十<date when='XXXX-01' evidence='year, day'>一月</date>）十<date when='XXXX-XX-04' evidence='year, month'>四日</date>　晴</head>
+                            <head>（十<date when='XXXX-01' evidence='year, day'>一月</date>）<date when='XXXX-XX-14' evidence='year, month'>十四日</date>　晴</head>
                             <p>朝書状を吉川に送り、今日出勤之儀断遣す、承知之旨返書来、斎藤六蔵来、戸籍調之儀委曲申談遣す
                                 昨日喜多村富之助、後藤金兵衛来、午後中村玉太郎来、板見屋来、庄七帰駿之旨ニ付面会し遣す、夕方行方文五郎来、御用向申し談遣す、阿部祐三来、夜に入迄談し帰る、居宅之儀申聞ル、昨日川村恵十郎来前田重吾来、荒井江用達金廿五両之儀川村江談し遣す、加藤木来る、書籍類遣す、阿部祐三来</p>
                         </div>
@@ -1892,7 +1892,7 @@
                                 省中諸務釐正大基本相立度旨、岡本其外江申談す</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10003m-26">
-                            <head>（十<date when='XXXX-01' evidence='year, day'>一月</date>）十<date when='XXXX-XX-06' evidence='year, month'>六日</date>　晴</head>
+                            <head>（十<date when='XXXX-01' evidence='year, day'>一月</date>）<date when='XXXX-XX-16' evidence='year, month'>十六日</date>　晴</head>
                             <p>朝、阿部祐三来、宿所見分ニ付同行、和泉橋辺お行、天神下後藤錠太郎宅見分す、毎事祐三江申談置、柳原にて梅田を訪ふ、不逢、裏猿楽町岡本を訪、面会、省中改正之儀其外見込申談す、表二番町郷純蔵《（マヽ）》を訪、不逢、夕方帰宿、夜平岡庄七を訪ふ、加藤木之事談判ス、此夕尾高帰府、夫々談し遣す</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10003m-27">
@@ -1904,7 +1904,7 @@
                                 玉乃少丞ヨリナボレオンコード之儀申談有之、郷少丞ヨリ永田□左衛門建白書被相廻一覧、岡本へ廻ス、仏国在中之儀其外ニ付、卿、伊達従二位殿より御談有之</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10003m-28">
-                            <head>（十<date when='XXXX-01' evidence='year, day'>一月</date>）<date when='XXXX-XX-18' evidence='year, month'>十八日</date>　晴</head>
+                            <head>（十<date when='XXXX-01' evidence='year, day'>一月</date>）十<date when='XXXX-XX-08' evidence='year, month'>八日</date>　晴</head>
                             <p>昨日見廻シニナリシ田畑御払下之儀ニ付、異見論文相認監督江廻ス、少丞ヘモ申達ス、同論旨之申聞調直しイタス
                                 宮谷県管轄地畑米納代納之儀評決ス、調直しいたす 此日改正掛之儀ニ付御書付ニテ被仰付
                                 　　　　　　　　　　　　　　　　　　　　　　渋沢租税正 改正掛被 仰付候事 　十<date when='XXXX-01' evidence='year, day'>一月</date>　　　　　　　　民部省
@@ -1942,7 +1942,7 @@
                             <div type="diary">
                             <head>西遊日記</head>
                                 <div type="diary-entry" xml:id="DKB10004m-1">
-                                    <p>大坂、西京及<date when='XXXX-XX-04' evidence='year, month'>四日</date>市、敦賀等ノ各地ヲ巡回シ、各支店営業ノ実況ヲ査察スル為、東京本店ヲ発セシハ<date when='XXXX-05-28' evidence='year'>五月廿八日</date>朝<time when='07:30:00' cert='low'>七時三十分</time>ナリ</p>
+                                    <p>大坂、西京及四日市、敦賀等ノ各地ヲ巡回シ、各支店営業ノ実況ヲ査察スル為、東京本店ヲ発セシハ<date when='XXXX-05-28' evidence='year'>五月廿八日</date>朝<time when='07:30:00' cert='low'>七時三十分</time>ナリ</p>
                                     <p>此日晴、汽車場ニテ送別ノ諸友ニ別ヲ告ケ、<time when='08:00:00' cert='low'>八時</time>ノ汽車ニ搭シ、同四十五分神奈川ニ抵ル、益田、矢野二氏ハ殊ニ談話スヘキ事ノアルヲ以テ、送テ神奈川ニ抵リ、款談数刻ニシテ別袂ス</p>
                                     <p>横浜支店本山、及■■[img図]〓■商店書上二氏送別ノ為メ此ニ来ル</p>
                                     <p>午前<time when='10:00:00' cert='low'>十時</time>神奈川ヲ発シ、馬車ニテ藤沢ニ抵リテ午餐シ、午後<time when='05:00:00' cert='low'>五時</time>湯本金泉楼ニ投宿ス</p>
@@ -1952,18 +1952,18 @@
                                     <p>曇、此日入浴ノ為メ此家ニ掩滞《（淹）》ス</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10004m-3">
-                                    <head>（<date when='XXXX-05' evidence='year, day'>五月</date>）三<date when='XXXX-XX-10' evidence='year, month'>十日</date></head>
+                                    <head>（<date when='XXXX-05' evidence='year, day'>五月</date>）<date when='XXXX-XX-30' evidence='year, month'>三十日</date></head>
                                     <p>雨、此日モ滞留昨日ノ如シ</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10004m-4">
-                                    <head>（<date when='XXXX-05' evidence='year, day'>五月</date>）三十<date when='XXXX-XX-01' evidence='year, month'>一日</date></head>
+                                    <head>（<date when='XXXX-05' evidence='year, day'>五月</date>）三<date when='XXXX-XX-11' evidence='year, month'>十一日</date></head>
                                     <p>曇、午前<time when='08:00:00' cert='low'>八時</time>金泉楼ヲ発シ竹輿ヲ買テ仙石原ニ抵ル、須永、松村、原頭ニ来迎フ、牧場ノ馬車ニテ<time when='12:00:00' cert='low'>十二時</time>頃牧舎ニ抵ル、途上牛馬ノ緑野ニ遊嘶スルヲ見ル、意快然タリ、午後<time when='04:00:00' cert='low'>四時</time>扁舟ヲ買テ湖水ヲ航シ、箱根駅ニ抵リ、更ニ竹輿ヲ買ヒ、夜ニ入テ三島ニ抵リ世古六太夫ニ投宿ス
                                     </p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10004m-5">
                                     <head><date when='XXXX-06-01' evidence='year'>六月一日</date></head>
                                     <p>朝雨、<time when='07:00:00' cert='low'>七時</time>三島ヲ発シ、人車ニテ倉沢ニ抵リテ午餐シ、午後<time when='03:00:00' cert='low'>三時</time>静岡ニ達ス、宿ヲ大万屋ニ投ス 此夜紺屋町邸ニ於テ 正二位公ニ謁ス
-                                        森理七、武沢、大久保数氏来訪ス 益田氏及柴崎ヘ書ヲ発ス <date when='XXXX-XX-04' evidence='year, month'>四日</date>市八巻氏ヘ明後<date when='XXXX-XX-03' evidence='year, month'>三日</date>熱田着ノ事ヲ電報ス</p>
+                                        森理七、武沢、大久保数氏来訪ス 益田氏及柴崎ヘ書ヲ発ス 四日市八巻氏ヘ明後<date when='XXXX-XX-03' evidence='year, month'>三日</date>熱田着ノ事ヲ電報ス</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10004m-6">
                                     <head><date when='XXXX-06-02' evidence='year'>六月二日</date></head>
@@ -1971,12 +1971,12 @@
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10004m-7">
                                     <head><date when='XXXX-06-03' evidence='year'>六月三日</date></head>
-                                    <p>晴、<time when='05:00:00' cert='low'>五時</time>豊橋ヲ発シ、<time when='12:00:00' cert='low'>十二時</time>熱田ニ抵ル、八巻氏来リ迎フ、午後<time when='02:00:00' cert='low'>二時</time>汽船ニ搭シ、<time when='05:00:00' cert='low'>五時</time><date when='XXXX-XX-04' evidence='year, month'>四日</date>市ニ達シ、浜田屋某ノ海岸新居ニ投宿ス
-                                        着後、<date when='XXXX-XX-04' evidence='year, month'>四日</date>市支店ヲ訪ヒ市街ヲ遊歩ス 夜、古谷竜蔵共同会社須藤甫三井銀行及八巻、中島、田原ノ諸氏来話ス</p>
+                                    <p>晴、<time when='05:00:00' cert='low'>五時</time>豊橋ヲ発シ、<time when='12:00:00' cert='low'>十二時</time>熱田ニ抵ル、八巻氏来リ迎フ、午後<time when='02:00:00' cert='low'>二時</time>汽船ニ搭シ、<time when='05:00:00' cert='low'>五時</time>四日市ニ達シ、浜田屋某ノ海岸新居ニ投宿ス
+                                        着後、四日市支店ヲ訪ヒ市街ヲ遊歩ス 夜、古谷竜蔵共同会社須藤甫三井銀行及八巻、中島、田原ノ諸氏来話ス</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10004m-8">
                                     <head><date when='XXXX-06-04' evidence='year'>六月四日</date></head>
-                                    <p>晴、<date when='XXXX-XX-04' evidence='year, month'>四日</date>市滞留《東京本店其外ニ郵書ヲ発ス》、朝田中武兵衛、伊藤伝七、九鬼文之助、古谷竜蔵田中店支配人等数名来話ス、午後<time when='01:00:00' cert='low'>一時</time>支店ニ出テ事務取扱方ヲ視ル、山中伝四郎、支配人後藤伊兵衛来ル、<time when='02:00:00' cert='low'>二時</time>過浜田屋本宅ニテ地方取引先諸子ト懇親ノ為宴会ヲ開ク、来会スル者凡三十人各歓ヲ尽シテ去ル、此夜地方諸子ノ招ニ応シテ松茂楼ニ到リ更ニ宴ヲ開ク、夜十<time when='01:00:00' cert='low'>一時</time>帰寓横浜■■[img図]〓■商店書上順四郎来着ス</p>
+                                    <p>晴、四日市滞留《東京本店其外ニ郵書ヲ発ス》、朝田中武兵衛、伊藤伝七、九鬼文之助、古谷竜蔵田中店支配人等数名来話ス、午後<time when='01:00:00' cert='low'>一時</time>支店ニ出テ事務取扱方ヲ視ル、山中伝四郎、支配人後藤伊兵衛来ル、<time when='02:00:00' cert='low'>二時</time>過浜田屋本宅ニテ地方取引先諸子ト懇親ノ為宴会ヲ開ク、来会スル者凡三十人各歓ヲ尽シテ去ル、此夜地方諸子ノ招ニ応シテ松茂楼ニ到リ更ニ宴ヲ開ク、夜十<time when='01:00:00' cert='low'>一時</time>帰寓横浜■■[img図]〓■商店書上順四郎来着ス</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10004m-9">
                                     <head><date when='XXXX-06-05' evidence='year'>六月五日</date></head>
@@ -2002,12 +2002,12 @@
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10004m-13">
                                     <head><date when='XXXX-06-08' evidence='year'>六月八日</date></head>
-                                    <p>晴、午前西京支店ニ至リ、終日、営業ノ順序、計算ノ各項ヲ点検ス、午後<time when='06:00:00' cert='low'>六時</time>頃《東京、<date when='XXXX-XX-04' evidence='year, month'>四日</date>市ニ書状ヲ発ス》、大坂店熊谷辰太郎、紡績会社山辺、蒲田両氏来訪ス
+                                    <p>晴、午前西京支店ニ至リ、終日、営業ノ順序、計算ノ各項ヲ点検ス、午後<time when='06:00:00' cert='low'>六時</time>頃《東京、四日市ニ書状ヲ発ス》、大坂店熊谷辰太郎、紡績会社山辺、蒲田両氏来訪ス
                                         <time when='07:00:00' cert='low'>七時</time>過、支店ノ事務ヲ了シテ八新楼ニ小酌ス、<time when='10:00:00' cert='low'>十時</time>過松力楼ニ帰宿ス</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10004m-14">
                                     <head><date when='XXXX-06-09' evidence='year'>六月九日</date></head>
-                                    <p>朝《東京本店ニ出状ス》、熊谷、山辺、蒲田来ル、談話数刻、各去テ大坂ニ帰ル、依テ来ル十<date when='XXXX-XX-03' evidence='year, month'>三日</date>ヲ以テ大坂ニ抵リ、紡績会社ノ開業式ハ<date when='XXXX-XX-15' evidence='year, month'>十五日</date>ヲ以テスル事ヲ約ス
+                                    <p>朝《東京本店ニ出状ス》、熊谷、山辺、蒲田来ル、談話数刻、各去テ大坂ニ帰ル、依テ来ル<date when='XXXX-XX-13' evidence='year, month'>十三日</date>ヲ以テ大坂ニ抵リ、紡績会社ノ開業式ハ<date when='XXXX-XX-15' evidence='year, month'>十五日</date>ヲ以テスル事ヲ約ス
                                         午後<time when='01:00:00' cert='low'>一時</time>、増田充績ト共ニ東本願寺ニ抵リ、堂宇再建ノ工事ヲ一覧シ執務阿部其他ノ諸氏ニ面接シ、取引上ノ事ヲ談ス、午後<time when='07:00:00' cert='low'>七時</time>、池田、穂積等誘引シテ東山中村楼ニ於テ小酌シ、夜<time when='10:00:00' cert='low'>十時</time>頃帰宿ス</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10004m-15">
@@ -2018,19 +2018,19 @@
                                         夜十<time when='01:00:00' cert='low'>一時</time>帰寓ス</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10004m-16">
-                                    <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）十<date when='XXXX-XX-01' evidence='year, month'>一日</date></head>
+                                    <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）<date when='XXXX-XX-11' evidence='year, month'>十一日</date></head>
                                     <p>曇、朝、渥美、池田等来ル、蓋シ東本願寺トノ取引ニ関スル談話アリテナリ、八幡、西川貞次郎来ル、敦賀倉庫会社設立ノ事ヲ談話ス、堀口嘉右衛門、森弥三郎来ル、同シク敦賀地方ノ商事ヲ話ス
                                         三井銀行能勢其他ノ諸子来ル、西陣買継所ノ事、及敦賀地方ノ商事ヲ談話ス
                                         午後<date when='XXXX-XX-04' evidence='year, month'>四日</date>《（時）》、三井高福老人ノ招請ニ応シテ木屋町ノ楼上ニ飲ム、夜<time when='10:00:00' cert='low'>十時</time>帰寓</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10004m-17">
-                                    <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）<date when='XXXX-XX-12' evidence='year, month'>十二日</date></head>
+                                    <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）十<date when='XXXX-XX-02' evidence='year, month'>二日</date></head>
                                     <p>晴、朝、池田銺次郎来ル、午前<time when='10:00:00' cert='low'>十時</time>増田充績ト共ニ府勧業場ニ至リ、織物ノ工事及画学教授ノ手続ヲ一覧ス
                                         三本木ニ抵リテ安藤静軒ヲ訪ヒ、荒神口ノ一亭ニ於テ午餐ス、蓋シ木原銀行、第百十一銀行等ノ請ニ応セシナリ、両行役員二名来リテ周旋ス、午後<time when='02:00:00' cert='low'>二時</time>西陣ニ抵リ、羽野、佐々木其他数名ノ家ニ就テ織物ノ工業ヲ見ル、午後<time when='04:00:00' cert='low'>四時</time>帰寓
                                         此夜、円山牡丹畑ニ於テ、府庁官員及同業者、取引先其他懇親ノ人々ヲ招飲ス、夜十<time when='01:00:00' cert='low'>一時</time>帰寓ス</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10004m-18">
-                                    <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）十<date when='XXXX-XX-03' evidence='year, month'>三日</date></head>
+                                    <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）<date when='XXXX-XX-13' evidence='year, month'>十三日</date></head>
                                     <p>晴、朝、渥美、池田、海野、山田貞右衛門等来ル、森、堀口、能勢ノ数子前後来訪ス
                                         製茶組合取締数名来ル、蓋シ府庁勧業課ヨリ荷為替取組ノ事ヲ依頼セラルヽニ付、其手続ヲ協議スル為ナリ、談話ノ後、其方法適当ナラサルヲ以テ説諭シテ其議ヲ止メシム
                                         ★★B1053★
@@ -2038,7 +2038,7 @@
                                         着後、西郷農商務卿ヲ其旅寓自由亭ニ訪フ </p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10004m-19">
-                                    <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）十<date when='XXXX-XX-04' evidence='year, month'>四日</date></head>
+                                    <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）<date when='XXXX-XX-14' evidence='year, month'>十四日</date></head>
                                     <p>曇、早朝、三条公ノ旅寓ヲ訪ヒ、明日紡績会社開業式ニ臨席アラン事ヲ請ヒシカ、公ニハ箕面行ノ約アルヲ以テ其請ニ応サル《（ス）》能ハサル旨ヲ其執事ヨリ謝セラル、午前<time when='08:00:00' cert='low'>八時</time>三軒屋紡績会社ニ抵リ、社員一同ニ面会シ、工場ノ体裁其他一切ノ実務ヲ見ル、且明日開業式ニ関スル順序ヲ商議ス、午後<time when='02:00:00' cert='low'>二時</time>支店ニ来リ事務ノ各項ヲ点検ス、朝鮮店大橋ニ書状ヲ発ス、夜<time when='08:00:00' cert='low'>八時</time>帰寓ス</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10004m-20">
@@ -2046,7 +2046,7 @@
                                     <p>晴、午後雨、朝、三十八銀行頭取伊藤長次郎、堀江猪輔来ル、午前<time when='09:00:00' cert='low'>九時</time>山県内務卿ノ旅寓ヲ訪ヒ、本日紡績会社開業式ニ臨場セラレン事ヲ乞フ、<time when='10:00:00' cert='low'>十時</time>紡績会社ニ抵リ開業式場ノ順序ヲ定ム、十<time when='01:00:00' cert='low'>一時</time>過内務卿来臨セラルヽヲ以テ、請テ来会諸氏ト共ニ工場内ニ誘引シテ運転ヲ為サシメテ以テ開業ノ式ニ充ツ、畢テ工場外ノ仮屋ニ於テ来会諸子ヲ饗応シ、祝辞演説等アリテ午後<time when='02:00:00' cert='low'>二時</time>頃退散ス、帰宿後微痾ノ為メ平臥ス、夕、医師中路某来胗《（診）》ス、夜、医師高橋某来胗ス</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10004m-21">
-                                    <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）十<date when='XXXX-XX-06' evidence='year, month'>六日</date></head>
+                                    <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）<date when='XXXX-XX-16' evidence='year, month'>十六日</date></head>
                                     <p>雨、病ノ為メニ平臥シテ来訪人ヲ謝ス、午後医師交来ル</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10004m-22">
@@ -2057,8 +2057,8 @@
                             <div type="note">
                             <head>○後部覚書</head>
                                 <div type="note" xml:id="DKB10004m-23">
-                                    <p>名古屋銀行 　　名古屋伝馬町 　　　　水野良助 　<date when='XXXX-XX-04' evidence='year, month'>四日</date>市在室山村 　　　　伊藤伝七 　紡績器械増築ノ事及ニールト氏巡視ノ事
-                                    　<date when='XXXX-XX-04' evidence='year, month'>四日</date>市ニテ倉庫会社法設置ノ事 　　　　金泉楼即事 　無復繊毫承俗紛。高楼眠覚已斜曛。添水蛍火捲簾見。隔岸蛙声欹枕聞。
+                                    <p>名古屋銀行 　　名古屋伝馬町 　　　　水野良助 　四日市在室山村 　　　　伊藤伝七 　紡績器械増築ノ事及ニールト氏巡視ノ事
+                                    　四日市ニテ倉庫会社法設置ノ事 　　　　金泉楼即事 　無復繊毫承俗紛。高楼眠覚已斜曛。添水蛍火捲簾見。隔岸蛙声欹枕聞。
                                     　幽草緑陰尚勝春。白雲堆処一亭新。平生未遇閑日月。客裏風光却属身。 　　　　倉沢途上
                                     　浦々薫風送細漣。軽帆遠去杳如煙。雲意不知光景美。半捲富峰未現巓。 　　　　甲申<date when='XXXX-06' evidence='year, day'>六月</date>来遊敦賀港賦似郷之豪族諸子
                                     　潮洗松根沙似氈。山光映水々連天。浦頭豈啻景勝富。湊合北溟来去船。 　　　　汽車発敦賀抵長浜途上即事 ★★B1054★
@@ -2081,18 +2081,18 @@
                             <div type="diary">
                             <head>甲申京摂巡回日記</head>
                                 <div type="diary-entry" xml:id="DKB10005m-1">
-                                    <p>大阪、西京、神戸、<date when='XXXX-XX-04' evidence='year, month'>四日</date>市及敦賀等ノ各地ヲ巡回シ、各支店営業ノ実際ヲ視察シ、行務ノ各項ヲ撿閲スヘキ為メ東京本店ヲ発セシハ<date when='XXXX-05-28' evidence='year'>五月二十八日</date>午前<time when='07:30:00' cert='low'>七時三十分</time>ナリ
+                                    <p>大阪、西京、神戸、四日市及敦賀等ノ各地ヲ巡回シ、各支店営業ノ実際ヲ視察シ、行務ノ各項ヲ撿閲スヘキ為メ東京本店ヲ発セシハ<date when='XXXX-05-28' evidence='year'>五月二十八日</date>午前<time when='07:30:00' cert='low'>七時三十分</time>ナリ
                                         此口晴、新橋駐車場ニテ送別ノ諸友ニ別ヲ告ケ、<time when='08:00:00' cert='low'>八時</time>ノ汽車ニ駕シ、同四十五分神奈川ニ達ス、益田孝、矢野二郎ハ殊ニ談話ノ事アリテ送テ此ニ到ル、横浜支店本山及丸キ店書上等モ送別ノ為メ来会ス、談話数刻ニシテ別ヲ告ク、午前<time when='10:00:00' cert='low'>十時</time>神奈川ヲ発シ馬車ニ駕シ藤沢駅ニ至リテ午餐シ、午後<time when='05:00:00' cert='low'>五時</time>湯本金泉楼ニ投宿ス
                                         　　　○中略。</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10005m-2">
-                                    <head>（<date when='XXXX-05' evidence='year, day'>五月</date>）三十<date when='XXXX-XX-01' evidence='year, month'>一日</date>　曇</head>
+                                    <head>（<date when='XXXX-05' evidence='year, day'>五月</date>）三<date when='XXXX-XX-11' evidence='year, month'>十一日</date>　曇</head>
                                     <p>午前<time when='08:00:00' cert='low'>八時</time>湯本ヲ発シ竹輿ヲ買テ仙石原ニ抵ル、須永、松村来リ迎フ、牧場ノ馬車ニ駕シテ牛馬ノ緑野ニ遊嘶スルヲ見ル、意頗ル爽快ナリ、牧舎ニテ午餐シ、午後<time when='04:00:00' cert='low'>四時</time>扁舟ヲ買テ湖水ヲ航シ箱根宿ニ抵ル、更ニ竹輿ニ乗リ夜<time when='09:00:00' cert='low'>九時</time>三島世古六太夫ニ投宿ス</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10005m-3">
                                     <head><date when='XXXX-06-01' evidence='year'>六月一日</date>　雨</head>
                                     <p>午前<time when='07:00:00' cert='low'>七時</time>三島ヲ発シ、腕車ニ駕シテ倉沢ニ至リテ午餐ス、時ニ雨歇ミ風軟カニシテ海上細漣ヲ漾シ、豆駿環海ノ諸山新緑黛ノ如ク眺望甚タ佳ナリ、惜クハ雲煙富岳ノ巓ヲ覆フテ全峰ヲ見ル能ハサル事ヲ、午後<time when='03:00:00' cert='low'>三時</time>静岡ニ至リ大万屋ニ投宿ス
-                                        此夜紺屋町邸ニ於テ正二位公ニ謁シ款話数時ニシテ帰宿ス、森理七、大久保、黒崎諸子来話ス、益田孝氏及留守宅ヘ郵書ヲ発シ、<date when='XXXX-XX-04' evidence='year, month'>四日</date>市八巻氏ヘ電報シテ、<date when='XXXX-XX-03' evidence='year, month'>三日</date>午後熱田着ノ事ヲ通知ス</p>
+                                        此夜紺屋町邸ニ於テ正二位公ニ謁シ款話数時ニシテ帰宿ス、森理七、大久保、黒崎諸子来話ス、益田孝氏及留守宅ヘ郵書ヲ発シ、四日市八巻氏ヘ電報シテ、<date when='XXXX-XX-03' evidence='year, month'>三日</date>午後熱田着ノ事ヲ通知ス</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10005m-4">
                                     <head><date when='XXXX-06-02' evidence='year'>六月二日</date>　晴</head>
@@ -2100,8 +2100,8 @@
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10005m-5">
                                     <head><date when='XXXX-06-03' evidence='year'>六月三日</date>　晴</head>
-                                    <p>午前<time when='05:00:00' cert='low'>五時</time>豊橋ヲ発シ、<time when='12:00:00' cert='low'>十二時</time>熱田ニ抵ル、八巻来迎フ、午後<time when='02:00:00' cert='low'>二時</time>汽船★★B1055★ニ搭シ、<time when='05:00:00' cert='low'>五時</time><date when='XXXX-XX-04' evidence='year, month'>四日</date>市ニ至リ浜田屋某ニ投宿ス
-                                        着後、<date when='XXXX-XX-04' evidence='year, month'>四日</date>市新設ノ支店ヲ巡視シ行務ヲ点撿ス、夜、古谷、須藤、八巻、田原、中島其他数子来話ス</p>
+                                    <p>午前<time when='05:00:00' cert='low'>五時</time>豊橋ヲ発シ、<time when='12:00:00' cert='low'>十二時</time>熱田ニ抵ル、八巻来迎フ、午後<time when='02:00:00' cert='low'>二時</time>汽船★★B1055★ニ搭シ、<time when='05:00:00' cert='low'>五時</time>四日市ニ至リ浜田屋某ニ投宿ス
+                                        着後、四日市新設ノ支店ヲ巡視シ行務ヲ点撿ス、夜、古谷、須藤、八巻、田原、中島其他数子来話ス</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10005m-6">
                                     <head><date when='XXXX-06-04' evidence='year'>六月四日</date>　晴</head>
@@ -2110,7 +2110,7 @@
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10005m-7">
                                     <head><date when='XXXX-06-05' evidence='year'>六月五日</date>　晴</head>
-                                    <p>朝、地方諸子送別ノ為メ来会ス、<time when='07:00:00' cert='low'>七時</time><date when='XXXX-XX-04' evidence='year, month'>四日</date>市ヲ発シ桑名ニ至リ<time when='09:00:00' cert='low'>九時</time>川蒸気船ニ搭シテ揖斐川ヲ遡ル、書上ハ美濃地方ニ要務アルヲ以テ随行ス、午後<time when='06:00:00' cert='low'>六時</time>前大垣着、其四十五分同地発軔ノ汽車ニ駕シ<time when='08:45:00' cert='low'>八時四十五分</time>長浜ニ抵ル、増田充績、沢木安二郎来リ迎フ、相携テ某楼ニ投宿ス</p>
+                                    <p>朝、地方諸子送別ノ為メ来会ス、<time when='07:00:00' cert='low'>七時</time>四日市ヲ発シ桑名ニ至リ<time when='09:00:00' cert='low'>九時</time>川蒸気船ニ搭シテ揖斐川ヲ遡ル、書上ハ美濃地方ニ要務アルヲ以テ随行ス、午後<time when='06:00:00' cert='low'>六時</time>前大垣着、其四十五分同地発軔ノ汽車ニ駕シ<time when='08:45:00' cert='low'>八時四十五分</time>長浜ニ抵ル、増田充績、沢木安二郎来リ迎フ、相携テ某楼ニ投宿ス</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10005m-8">
                                     <head><date when='XXXX-06-06' evidence='year'>六月六日</date>　晴</head>
@@ -2123,11 +2123,11 @@
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10005m-10">
                                     <head><date when='XXXX-06-08' evidence='year'>六月八日</date>　晴</head>
-                                    <p>午前西京支店ニ至リ終日行務各項ヲ撿閲ス、府庁勧業課長板原氏、本願寺会計撿査員池田氏来話ス、本店及<date when='XXXX-XX-04' evidence='year, month'>四日</date>市等ヘ郵書ヲ発ス、午後大阪店熊谷辰太郎、紡績会社山辺、蒲田共ニ来ル、<time when='07:00:00' cert='low'>七時</time>過支店ノ事務ヲ了シテ諸子ト共ニ八新楼ニ小酌シ大阪ノ近況ヲ聴ク、<time when='10:00:00' cert='low'>十時</time>松力楼ニ帰宿ス</p>
+                                    <p>午前西京支店ニ至リ終日行務各項ヲ撿閲ス、府庁勧業課長板原氏、本願寺会計撿査員池田氏来話ス、本店及四日市等ヘ郵書ヲ発ス、午後大阪店熊谷辰太郎、紡績会社山辺、蒲田共ニ来ル、<time when='07:00:00' cert='low'>七時</time>過支店ノ事務ヲ了シテ諸子ト共ニ八新楼ニ小酌シ大阪ノ近況ヲ聴ク、<time when='10:00:00' cert='low'>十時</time>松力楼ニ帰宿ス</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10005m-11">
                                     <head><date when='XXXX-06-09' evidence='year'>六月九日</date>　晴</head>
-                                    <p>朝、本店及留守宅ヘ郵書ヲ発ス、熊谷、山辺、蒲田来ル、熊谷ニ約スル<date when='XXXX-XX-23' evidence='year, month'>二十三日</date>ヲ以テ大阪ニ赴ク事ヲ以テス、又紡績会社ノ開業式ハ<date when='XXXX-XX-15' evidence='year, month'>十五日</date>ヲ以テスヘキ事ヲ予約ス
+                                    <p>朝、本店及留守宅ヘ郵書ヲ発ス、熊谷、山辺、蒲田来ル、熊谷ニ約スル二<date when='XXXX-XX-13' evidence='year, month'>十三日</date>ヲ以テ大阪ニ赴ク事ヲ以テス、又紡績会社ノ開業式ハ<date when='XXXX-XX-15' evidence='year, month'>十五日</date>ヲ以テスヘキ事ヲ予約ス
                                         三井諸子来訪ス、午後<time when='01:00:00' cert='low'>一時</time>増田充績ト共ニ東本願寺ニ抵リ堂宇再建ノ工事ヲ覧ル、結搆壮大目ヲ驚スモノ多シ、一覧後枳穀邸ニ於テ執務、阿部其他ノ諸子ニ面接シ取引上ノ事ヲ議ス、午後<time when='07:00:00' cert='low'>七時</time>池田、穂積、山田等ノ誘引ニヨリテ東山中村楼ニ宴シ、夜<time when='10:30:00' cert='low'>十時半</time>帰宿ス</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10005m-12">
@@ -2193,7 +2193,7 @@
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10005m-25">
                                     <head><date when='XXXX-06-24' evidence='year'>六月廿四日</date>　雨</head>
-                                    <p>朝、西京、<date when='XXXX-XX-04' evidence='year, month'>四日</date>市、神戸店ヘ郵書ヲ発ス、明日当地発足帰京ノ筈ナルニ付告別来会ノ者多シ、午後、山内芳秋、児島惟謙、建野府知事ヲ訪ヒ、日本銀行支店ニ至リテ外山修造ニ面話ス、<time when='03:00:00' cert='low'>三時</time>大阪支店ニ至リテ行務ノ要旨ヲ談話ス、<time when='06:00:00' cert='low'>六時</time>中ノ島ノ某楼ニ於テ紡績会社諸員ト小酌ス蓋、会社ヨリ余カ来阪ヲ慰スルカ為メ此宴ヲ開キタルナリ、英人ニールトモ来会ス、各歓ヲ尽シテ去ル</p>
+                                    <p>朝、西京、四日市、神戸店ヘ郵書ヲ発ス、明日当地発足帰京ノ筈ナルニ付告別来会ノ者多シ、午後、山内芳秋、児島惟謙、建野府知事ヲ訪ヒ、日本銀行支店ニ至リテ外山修造ニ面話ス、<time when='03:00:00' cert='low'>三時</time>大阪支店ニ至リテ行務ノ要旨ヲ談話ス、<time when='06:00:00' cert='low'>六時</time>中ノ島ノ某楼ニ於テ紡績会社諸員ト小酌ス蓋、会社ヨリ余カ来阪ヲ慰スルカ為メ此宴ヲ開キタルナリ、英人ニールトモ来会ス、各歓ヲ尽シテ去ル</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10005m-26">
                                     <head><date when='XXXX-06-25' evidence='year'>六月廿五日</date>　曇</head>
@@ -2217,7 +2217,7 @@
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10005m-31">
                                     <head><date when='XXXX-06-30' evidence='year'>六月三十日</date>　晴</head>
-                                    <p>早朝松坂ヲ発シ、午後<time when='02:00:00' cert='low'>二時</time><date when='XXXX-XX-04' evidence='year, month'>四日</date>市ニ抵ル、直ニ支店ニ於テ八巻氏ニ面会シ、浜田屋ニ小憩ス、午後<time when='06:00:00' cert='low'>六時</time>汽船三国丸ニ搭ス、八巻、古屋、水谷、春田ノ諸氏来リテ告別ス、共同運輸会社支店ヨリ小蒸汽ヲ以テ余ヲ本船ニ送ル、<time when='07:00:00' cert='low'>七時</time>発、船風浪平穏ナリ、偶新月鈎ノ如ク夜気人ニ可ナリ、月ニ歩シテ甲板上ヲ徘徊シ、深更ニ至リテ寝ニ就ク</p>
+                                    <p>早朝松坂ヲ発シ、午後<time when='02:00:00' cert='low'>二時</time>四日市ニ抵ル、直ニ支店ニ於テ八巻氏ニ面会シ、浜田屋ニ小憩ス、午後<time when='06:00:00' cert='low'>六時</time>汽船三国丸ニ搭ス、八巻、古屋、水谷、春田ノ諸氏来リテ告別ス、共同運輸会社支店ヨリ小蒸汽ヲ以テ余ヲ本船ニ送ル、<time when='07:00:00' cert='low'>七時</time>発、船風浪平穏ナリ、偶新月鈎ノ如ク夜気人ニ可ナリ、月ニ歩シテ甲板上ヲ徘徊シ、深更ニ至リテ寝ニ就ク</p>
                                 </div>
                                 <div type="diary-entry" xml:id="DKB10005m-32">
                                     <head><date when='XXXX-07-01' evidence='year'>七月一日</date>　雨</head>
@@ -2235,12 +2235,12 @@
                     <div type="archival-description" xml:id="DKB10006m-0">
                         <p>○原本概要</p>
                         <p>体裁。洋綴小型手帖。12cm×8.5cm.厚サ、1.7cm,表紙茶ノ麻布。背及ビ角ヲ黒革ニテ被フ。金線模様アリ。見返シ、コゲ茶模様。表紙ノ一方ニゴム紐ヲ付ク、鉛筆挿付。総テ鉛筆書キ。</p>
-                        <p>本文。白紙一九八頁。記入ハ前後ヨリ初メ前部ハ「原田虎蔵云々」以下「陸奥氏持株云々」マデ五頁ヲ記シ、相当ノ余白ヲオキテ　「<date when='XXXX-XX-04' evidence='year, month'>四日</date>市伏木新潟巡回紀行」（四三頁余）ヲ記ス。後部ハ「亀井戸観梅」以下ノ漢詩並ニ「日光鉢石町小西屋喜一郎云々」ノ八頁ヲ記シ、続イテ「京坂巡回紀行」（二八頁）ヲ記ス。ココニハ覚書ハ前部、後部共ニ、日記ノ後ニ一括収録セリ。</p>
+                        <p>本文。白紙一九八頁。記入ハ前後ヨリ初メ前部ハ「原田虎蔵云々」以下「陸奥氏持株云々」マデ五頁ヲ記シ、相当ノ余白ヲオキテ　「四日市伏木新潟巡回紀行」（四三頁余）ヲ記ス。後部ハ「亀井戸観梅」以下ノ漢詩並ニ「日光鉢石町小西屋喜一郎云々」ノ八頁ヲ記シ、続イテ「京坂巡回紀行」（二八頁）ヲ記ス。ココニハ覚書ハ前部、後部共ニ、日記ノ後ニ一括収録セリ。</p>
                     </div>
                 </front>
                 <body>
                     <div type="diary">
-                        <head><date when='XXXX-XX-04' evidence='year, month'>四日</date>市伏木新潟巡回紀行</head>
+                        <head>四日市伏木新潟巡回紀行</head>
                         <div type="diary-entry" xml:id="DKB10006m-1">
                             <head><date when='1886-05-26'>明治十九年五月廿六日</date></head>
                             <p>午前<time when='06:00:00' cert='low'>六時</time>深川邸ヲ発シ、新橋駐車場ニ到リ<time when='06:45:00' cert='low'>六時四十五分</time>発ノ汽車ニ搭ス、送別ノ人十数人汽車場ニ来ル、<time when='07:30:00' cert='low'>七時半</time>神奈川着、本山、書上等横浜ヨリ来テ送別ス、<time when='08:00:00' cert='low'>八時</time>神奈川ヲ発シ、馬車ヲ僦フテ神奈川《（マヽ）》ヲ発シ<time when='11:30:00' cert='low'>十一時半</time>大磯ニテ午餐シ、<time when='02:00:00' cert='low'>二時</time>小田原ニ抵リ、三枚橋ニテ山轎ヲ僦ヒ、午後<time when='07:00:00' cert='low'>七時</time>仙石原着、万屋ニ投宿ス、此日須永伝蔵来リテ牧場ノ近況ヲ話ス</p>
@@ -2250,7 +2250,7 @@
                             <p><time when='06:00:00' cert='low'>六時</time>、万屋ヲ発シ、牧場ノ馬車ニテ牧場ニ到リ牛馬ノ放牧シアルヲ見ル、牧舎ニテ馬ノ交接ヲ見、須永、松村ト牧場ノ事ヲ談話ス、午前<time when='09:00:00' cert='low'>九時</time>、牧場ヲ発シ、山ヲ下リテ深良村ヲ経テ佐野ニ抵リ、人力車ヲ倩ヒ午後<time when='02:00:00' cert='low'>二時</time>沼津ニテ午餐ス、沼津ヲ発シテ、原、吉原ヲ経、富士川ヲ航シ、<time when='07:00:00' cert='low'>七時</time>蒲原ニ抵リ柏屋ニ投宿ス、此日、煙雨濛々富峰ヲ覆フ、暁ニ雨歇テ僅ニ半腹ヲ見ル</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10006m-3">
-                            <head>（<date when='XXXX-05' evidence='year, day'>五月</date>）二<date when='XXXX-XX-18' evidence='year, month'>十八日</date></head>
+                            <head>（<date when='XXXX-05' evidence='year, day'>五月</date>）二十<date when='XXXX-XX-08' evidence='year, month'>八日</date></head>
                             <p><time when='06:00:00' cert='low'>六時</time>、蒲原ヲ発シ、興津駅ニ抵リ、漁夫ノ網ヲ引テ魚ヲ捕フヲ見ル、午前十<time when='01:00:00' cert='low'>一時</time>、静岡ニ達ス、大万屋ニ休憩ス、小栗氏ヲ訪ヒ、前公ニ謁ス、款話数刻辞テ旅亭ニ帰リ、午後<time when='03:00:00' cert='low'>三時</time>静岡ヲ発シ、<time when='06:30:00' cert='low'>六時半</time>藤枝駅ニ到リ銭屋ニ投宿ス、此日、天気快晴薄暑ヲ覚ユ</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10006m-4">
@@ -2258,16 +2258,16 @@
                             <p>朝来雨甚シ、<time when='05:00:00' cert='low'>五時</time>藤枝ヲ発シ、殊ニ車夫ヲ増シテ程ヲ急ク、午後<time when='01:00:00' cert='low'>一時</time>浜松ニ抵リ、花屋ニ於テ午餐シ、<time when='06:00:00' cert='low'>六時</time>豊橋ニ達シ小島屋ニ投宿ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10006m-5">
-                            <head>（<date when='XXXX-05' evidence='year, day'>五月</date>）三<date when='XXXX-XX-10' evidence='year, month'>十日</date></head>
-                            <p><time when='05:00:00' cert='low'>五時</time>豊橋ヲ発シ、<time when='12:00:00' cert='low'>十二時</time>熱田ニ抵ル、時ニ八巻、船本、伊藤諸氏来リ迎ヒ、大森屋ニ於テ午餐ス、午後<time when='02:00:00' cert='low'>二時</time>汽船熱田ヲ発シ、<time when='04:30:00' cert='low'>四時半</time><date when='XXXX-XX-04' evidence='year, month'>四日</date>市ニ達シ浜田屋ニ投宿ス、晩ニ支店ニ抵リ事務ヲ一覧ス、此日、天気朗★★B1060★晴風強ク塵埃甚シ、夜、熊谷氏、山辺氏等大坂ヨリ来着ス</p>
+                            <head>（<date when='XXXX-05' evidence='year, day'>五月</date>）<date when='XXXX-XX-30' evidence='year, month'>三十日</date></head>
+                            <p><time when='05:00:00' cert='low'>五時</time>豊橋ヲ発シ、<time when='12:00:00' cert='low'>十二時</time>熱田ニ抵ル、時ニ八巻、船本、伊藤諸氏来リ迎ヒ、大森屋ニ於テ午餐ス、午後<time when='02:00:00' cert='low'>二時</time>汽船熱田ヲ発シ、<time when='04:30:00' cert='low'>四時半</time>四日市ニ達シ浜田屋ニ投宿ス、晩ニ支店ニ抵リ事務ヲ一覧ス、此日、天気朗★★B1060★晴風強ク塵埃甚シ、夜、熊谷氏、山辺氏等大坂ヨリ来着ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10006m-6">
-                            <head>（<date when='XXXX-05' evidence='year, day'>五月</date>）三十<date when='XXXX-XX-01' evidence='year, month'>一日</date></head>
+                            <head>（<date when='XXXX-05' evidence='year, day'>五月</date>）三<date when='XXXX-XX-11' evidence='year, month'>十一日</date></head>
                             <p>朝来風雨甚ク外出スル能ハス、伊藤、駒田、船本、其他諸氏交々来話ス、午後雨ヲ冒シテ水谷氏ノ紙質製造所及油絞器械ヲ一覧シ、更ニ紡績器械設置ノ地所ヲ見ル、熊谷、山辺、伊藤ノ諸氏同行ス、一覧後再ヒ支店ニ到リ事務ヲ検査シ、午後<time when='06:00:00' cert='low'>六時</time>松茂楼ニ抵ル、蓋シ地方諸氏《四十五人》ノ招宴ニ応スルナリ、酒間知音ノ数人ト雑談シ、宴席頗ル盛ナリ、夜<time when='12:00:00' cert='low'>十二時</time>旅亭ニ帰宿ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10006m-7">
                             <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）<date when='XXXX-XX-01' evidence='year, month'>一日</date></head>
-                            <p>曇、午前十<time when='01:00:00' cert='low'>一時</time><date when='XXXX-XX-04' evidence='year, month'>四日</date>市ヲ発シテ、熊谷、八巻、伊藤、諸氏ト共ニ津ニ赴ク、後藤仁兵衛昨夜ヨリ来リ迎フ、依テ同行ス、追分、神戸、白子ヲ経テ午後<time when='02:00:00' cert='low'>二時</time>津ニ抵リ、大観亭ニ投宿ス、後藤、佐伯、松本及第百五銀行員、三井銀行員等来話ス、県官日置某来訪ス、午後<time when='07:00:00' cert='low'>七時</time>県令ノ招宴ニ応シテ公園地苦楽部《（マヽ）》ニ到ル、食後款談数刻、夜<time when='12:00:00' cert='low'>十二時</time>帰宿ス</p>
+                            <p>曇、午前十<time when='01:00:00' cert='low'>一時</time>四日市ヲ発シテ、熊谷、八巻、伊藤、諸氏ト共ニ津ニ赴ク、後藤仁兵衛昨夜ヨリ来リ迎フ、依テ同行ス、追分、神戸、白子ヲ経テ午後<time when='02:00:00' cert='low'>二時</time>津ニ抵リ、大観亭ニ投宿ス、後藤、佐伯、松本及第百五銀行員、三井銀行員等来話ス、県官日置某来訪ス、午後<time when='07:00:00' cert='low'>七時</time>県令ノ招宴ニ応シテ公園地苦楽部《（マヽ）》ニ到ル、食後款談数刻、夜<time when='12:00:00' cert='low'>十二時</time>帰宿ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10006m-8">
                             <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）<date when='XXXX-XX-02' evidence='year, month'>二日</date></head>
@@ -2275,11 +2275,11 @@
                         </div>
                         <div type="diary-entry" xml:id="DKB10006m-9">
                             <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）<date when='XXXX-XX-03' evidence='year, month'>三日</date></head>
-                            <p>午前<time when='10:00:00' cert='low'>十時</time>旅亭ヲ発シ贄崎町ヲ経テ海岸ニ抵リ、常航ノ小汽船ニ搭ス、後藤、佐伯、百五、三井銀行員其他数氏来リテ送別ス、午後<time when='01:30:00' cert='low'>一時半</time><date when='XXXX-XX-04' evidence='year, month'>四日</date>市ニ達ス、地方諸子皆来リ迎フ。此夜地方諸子ヲ松川楼ニ招宴ス°午後<time when='03:00:00' cert='low'>三時</time>紡績工場ノ事ヲ地方発起者数名ト浜田屋ニ会議ス、宴散テ後更ニ諸子ノ誘引ニ従テ海月楼ニ登ル、絃歌蹈舞頗ル盛讌タリ、夜<time when='01:00:00' cert='low'>一時</time>帰宿《西京店田中氏来リ待ツ、依テ同行ス》ス</p>
+                            <p>午前<time when='10:00:00' cert='low'>十時</time>旅亭ヲ発シ贄崎町ヲ経テ海岸ニ抵リ、常航ノ小汽船ニ搭ス、後藤、佐伯、百五、三井銀行員其他数氏来リテ送別ス、午後<time when='01:30:00' cert='low'>一時半</time>四日市ニ達ス、地方諸子皆来リ迎フ。此夜地方諸子ヲ松川楼ニ招宴ス°午後<time when='03:00:00' cert='low'>三時</time>紡績工場ノ事ヲ地方発起者数名ト浜田屋ニ会議ス、宴散テ後更ニ諸子ノ誘引ニ従テ海月楼ニ登ル、絃歌蹈舞頗ル盛讌タリ、夜<time when='01:00:00' cert='low'>一時</time>帰宿《西京店田中氏来リ待ツ、依テ同行ス》ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10006m-10">
                             <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）<date when='XXXX-XX-04' evidence='year, month'>四日</date></head>
-                            <p>雨、朝地方諸子ニ告別シ、午前十<time when='01:00:00' cert='low'>一時</time>支店ニ到テ事務ヲ検査シ、営業ノ要旨ヲ八巻ニ示ス、午後<time when='02:30:00' cert='low'>二時半</time>、<date when='XXXX-XX-04' evidence='year, month'>四日</date>市ヲ発シ、桑名ニ抵リ船津屋ニ休憩ス、<time when='04:00:00' cert='low'>四時</time>過桑名ヲ発シ、小汽船ヲ僦フテ猫瀬ニ抵リ、更ニ腕車ヲ倩ヒ夜<time when='10:00:00' cert='low'>十時</time>養老公園地偕楽舎ニ投宿ス、此日桑名人下里貞吉氏敦賀ヘ行クヲ以テ路程ヲ嚮導ス</p>
+                            <p>雨、朝地方諸子ニ告別シ、午前十<time when='01:00:00' cert='low'>一時</time>支店ニ到テ事務ヲ検査シ、営業ノ要旨ヲ八巻ニ示ス、午後<time when='02:30:00' cert='low'>二時半</time>、四日市ヲ発シ、桑名ニ抵リ船津屋ニ休憩ス、<time when='04:00:00' cert='low'>四時</time>過桑名ヲ発シ、小汽船ヲ僦フテ猫瀬ニ抵リ、更ニ腕車ヲ倩ヒ夜<time when='10:00:00' cert='low'>十時</time>養老公園地偕楽舎ニ投宿ス、此日桑名人下里貞吉氏敦賀ヘ行クヲ以テ路程ヲ嚮導ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10006m-11">
                             <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）<date when='XXXX-XX-05' evidence='year, month'>五日</date></head>
@@ -2308,20 +2308,20 @@
                                 午後<time when='04:00:00' cert='low'>四時</time>、地方商估ノ請ニ応シテ古今亭ニ抵ル、県令及県官数名、北陸銀行員、地方豪商数輩来会ス、蓋シ此宴ハ北陸銀行及地方商估等余カ来遊ヲ饗スル為ニ設クル所ナリ、酒間地方商估等ト款談シ、宴散シテ後、更ニ県令ト共ニ東新地ニ至リ某楼ニ飲ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10006m-17">
-                            <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）十<date when='XXXX-XX-01' evidence='year, month'>一日</date></head>
+                            <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）<date when='XXXX-XX-11' evidence='year, month'>十一日</date></head>
                             <p>雨、午前<time when='10:00:00' cert='low'>十時</time>金沢ヲ発シ、駅頭ニ於テ送行ノ人ト分袂シ、［　　　］《（原本欠字）》ヲ経テ午後<time when='03:00:00' cert='low'>三時</time>越中高岡ニ着ス、山本与三平ノ家ニ至テ午餐ス、高岡商估出テ余カ来着ヲ迎フ者、絡繹路ニ接ス、食後、山本ヲ辞シ吉野徳平ヲ訪フ、又開宴饗応ス、此夜地方商估三十余名、余カ来着ヲ祝スル為宴ヲ木津屋ニ設ケテ臨席ヲ乞フ、依テ吉野氏ヲ辞シ、其宴会ニ赴キ酒間地方商業ノ隆興ヲ望ミ、并テ商估各員ノ奮励ヲ要スル為メ一場ノ演説ヲナス、衆皆勧呼踏舞《（歓）》、夜<time when='01:00:00' cert='low'>一時</time>宴ヲ散ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10006m-18">
-                            <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）<date when='XXXX-XX-12' evidence='year, month'>十二日</date></head>
+                            <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）十<date when='XXXX-XX-02' evidence='year, month'>二日</date></head>
                             <p>★★B1062★
                                 曇、朝、地方ノ人士旅寓ニ来話ス、<time when='12:00:00' cert='low'>十二時</time>正村平兵衛ヲ訪フテ其家ニ午餐ス、午後<time when='04:00:00' cert='low'>四時</time>頭川某ノ家ヲ訪ヒ、午後<time when='06:00:00' cert='low'>六時</time>地方農商工協会々員ノ請ニ応シテ其会場ニ抵ル、此日、会員来聚スル者無慮百弐十名、盛宴ヲ開テ酒ヲ侑ム、酒間私利ト公益ト別視スヘカラサルノ理ヲ演説ス、列坐ノ人来テ酒盃ヲ献酬スル者甚多ク、頗ル厭フヘキ想アリ、宴未タ酣ナラスト云トモ、此夜、菅野氏ヲ訪フノ約アルヲ以テ会場ヲ辞シテ菅野氏ニ至ル、又盛宴ヲ設ケテ余ヲ饗ス、夜<time when='12:00:00' cert='low'>十二時</time>過御前町某楼ニ転飲シ、<time when='02:00:00' cert='low'>二時</time>帰寓</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10006m-19">
-                            <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）十<date when='XXXX-XX-03' evidence='year, month'>三日</date></head>
+                            <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）<date when='XXXX-XX-13' evidence='year, month'>十三日</date></head>
                             <p>晴、此日、伏木港ヲ一覧スル為メ、午前<time when='09:00:00' cert='low'>九時</time>旅寓ヲ発シ、原田氏ノ誘引ニ従テ高岡街頭ヨリ小舟ヲ僦フテ荒川ヲ下ル、十<time when='01:00:00' cert='low'>一時</time>伏木ニ達ス、郵船会社ノ倉庫及市街ヲ一覧シ、郵船会社支店ニ休憩ス、午後<time when='01:00:00' cert='low'>一時</time>伏木、高岡両地ノ商估同社ニ来会ス、蓋シ余カ来遊ヲ饗スル為、同社ニ於テ此宴ヲ設クルモノナリ、午後<time when='03:00:00' cert='low'>三時</time>頃、更ニ伏木商估ノ請ニ応シテ臥竜閣ニ抵ル、又一宴ヲ設ケテ余ヲ饗ス、午後<time when='05:00:00' cert='low'>五時</time>、藤井能三氏ヲ訪フ、又開宴饗応ス、午後<time when='09:00:00' cert='low'>九時</time>、藤井氏ヲ辞シ、腕車高岡ニ帰リテ、更ニ正村五平ノ開宴ニ赴ク、夜<time when='02:00:00' cert='low'>二時</time>正村ヲ辞シ、原田、山本、井上諸氏ト某楼ニ投宿ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10006m-20">
-                            <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）十<date when='XXXX-XX-04' evidence='year, month'>四日</date></head>
+                            <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）<date when='XXXX-XX-14' evidence='year, month'>十四日</date></head>
                             <p>雨、朝、正村氏ニ抵リテ餐ス、午前十<time when='01:00:00' cert='low'>一時</time>高岡ヲ発ス、送別ノ人最モ多シ、大門新町ニ至リ諸子ト分袂ス、富山第十二銀行員来リ迎ス、原田金之祐、及高岡人和田、両正村、山本、菅野、吉野、井上諸子行ヲ送テ富山ニ抵ル、第十二銀行役員数名来リ迎フ、相伴フテ富山ニ抵リ木屋ニ投宿ス、此夜十二銀行ノ請ニ応シテ楽只園ニ赴ク、県令、郡長勧業課長等来会ス、夜十<time when='01:00:00' cert='low'>一時</time>更ニ地方諸士ノ開宴アルヲ以テ［　］《（原本欠字）》楼ニ至ル、県令其他来会シ衆歓ヲ尽ス、夜<time when='02:00:00' cert='low'>二時</time>帰宿ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10006m-21">
@@ -2329,7 +2329,7 @@
                             <p>晴、午前<time when='08:00:00' cert='low'>八時</time>《大坂店熊谷氏ト別ル》、富山ヲ発シ、高岡、伏木送行ノ諸士及地方ノ人ト分袂シ、水橋、滑川、魚津、［　　　］《（原本欠字）》親不知子不知、蝙蝠等ノ険路ヲ経、午後<time when='07:00:00' cert='low'>七時</time>糸魚川ニ抵リ投宿ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10006m-22">
-                            <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）十<date when='XXXX-XX-06' evidence='year, month'>六日</date></head>
+                            <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）<date when='XXXX-XX-16' evidence='year, month'>十六日</date></head>
                             <p>晴、昧爽糸魚川ヲ発シ、直江津ニ於テ午餐ス、午後<time when='07:00:00' cert='low'>七時</time>柏崎ニ抵リ、天屋京兵衛ニ投宿ス、此夜柏崎広信社員来リテ一宴ヲ開テ余ヲ饗スル事ヲ乞フ、依テ其宴ニ赴ク、高田銀行支店役員来会ス、<time when='12:00:00' cert='low'>十二時</time>帰宿ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10006m-23">
@@ -2338,7 +2338,7 @@
                                 着後、三島、岸及第六十九銀行員ノ誘引ニテ市街ヲ一覧シ、第六十九銀行ヲ訪ヒ、更ニ公園地ヲ遊歩シ、撃石館ニ至ル、蓋シ六十九銀行株主等及地方商估協同シテ余カ此地ニ来遊セシヲ以テ、殊ニ此館ニ宴会ヲ開テ余ヲ饗スル為ナリ、至レハ則来会ノ者交来リテ名刺ヲ通シ、更ニ盛宴ヲ開キ、名妓数十来テ酒ヲ侑ム、酒間歌舞頻リナリ、興酣ナル時、岸、小林、及高野徳平等ノ誘引ニ従テ席ヲ唐津屋ヲ《（ニ）》転シテ又一宴★★B1063★ヲ開ク、此夜唐津屋ニ投宿ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10006m-24">
-                            <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）<date when='XXXX-XX-18' evidence='year, month'>十八日</date></head>
+                            <head>（<date when='XXXX-06' evidence='year, day'>六月</date>）十<date when='XXXX-XX-08' evidence='year, month'>八日</date></head>
                             <p>大雨、此日、午前<time when='06:00:00' cert='low'>六時</time>発ノ汽船ヲ以テ新潟ニ赴ク筈ナリシカ、朝来暴雨ナルニ付行ヲ止ム、第六十九銀行員及高野徳平等来テ酒ヲ侑ム、酒間小妓数輩ノ舞伎ヲ見ル、又揮毫ヲ望ム者多シ、依テ十数葉ヲ揮灑ス此夜、又唐津屋ニ宿ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10006m-25">
@@ -2375,26 +2375,26 @@
                             <p>晴、午前<time when='06:00:00' cert='low'>六時</time>客舎ヲ発シ、倉沢ニテ小憩ス、時ニ朝嵐已ニ収テ旭光波ニ映シ海面金漣ヲ漾ス、而シテ富峰銀ノ如ク亦細雲ナシ、眺望甚佳、<time when='12:00:00' cert='low'>十二時</time>静岡ニ抵リ、大万屋ニ午餐ス、食後紺屋町ニ於テ正二位公ニ謁ス、款話数時、辞シ去テ静岡ヲ発シ、午後<time when='06:30:00' cert='low'>六時半</time>、藤枝ニ抵リ銭屋ニ投宿ス、此夕驟雨来リ頃刻ニシテ歇ム</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10007m-4">
-                            <head>（<date when='XXXX-12' evidence='year, day'>十二月</date>）十<date when='XXXX-XX-01' evidence='year, month'>一日</date></head>
+                            <head>（<date when='XXXX-12' evidence='year, day'>十二月</date>）<date when='XXXX-XX-11' evidence='year, month'>十一日</date></head>
                             <p>晴、午前<time when='05:30:00' cert='low'>五時半</time>藤枝ヲ発ス、掛川見付ニテ小憩、浜松花屋ニ於テ午餐午後<time when='06:00:00' cert='low'>六時</time>過、豊橋小島屋ニ投宿ス
-                                此夕、<date when='XXXX-XX-04' evidence='year, month'>四日</date>市支店八巻道成ニ電報シテ、明日宮駅ニ来迎ノ事ヲ促ス
+                                此夕、四日市支店八巻道成ニ電報シテ、明日宮駅ニ来迎ノ事ヲ促ス
                                 金沢出張所青山利恭ニ一書ヲ裁ス、蓋シ小林藤太郎送金ヲ護シテ同地ニ赴クニ托スル為メナリ</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10007m-5">
-                            <head>（<date when='XXXX-12' evidence='year, day'>十二月</date>）<date when='XXXX-XX-12' evidence='year, month'>十二日</date></head>
-                            <p>晴、午前<time when='06:00:00' cert='low'>六時</time>豊橋ヲ発シ、岡崎ヲ経テ午後<time when='01:00:00' cert='low'>一時</time>熱田ニ抵ル、<date when='XXXX-XX-04' evidence='year, month'>四日</date>市店八巻道成及地方商估下里、伊藤、水谷等来迎ス、相伴フテ名古屋ニ抵リ、魚半楼ニ投宿ス
+                            <head>（<date when='XXXX-12' evidence='year, day'>十二月</date>）十<date when='XXXX-XX-02' evidence='year, month'>二日</date></head>
+                            <p>晴、午前<time when='06:00:00' cert='low'>六時</time>豊橋ヲ発シ、岡崎ヲ経テ午後<time when='01:00:00' cert='low'>一時</time>熱田ニ抵ル、四日市店八巻道成及地方商估下里、伊藤、水谷等来迎ス、相伴フテ名古屋ニ抵リ、魚半楼ニ投宿ス
                                 三重紡績会社ニ関スル事務及水谷工場ノ事ヲ議ス、夜、船本竜之助氏来ル、宴ヲ設ケテ芸妓ノ歌舞ヲ見ル
                                 三重紡績会社器械代ノ事ニ付テ、本店佐々木氏ヘ書状ヲ送ル、東京、西京ヘ電報ヲ発ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10007m-6">
-                            <head>（<date when='XXXX-12' evidence='year, day'>十二月</date>）十<date when='XXXX-XX-03' evidence='year, month'>三日</date></head>
+                            <head>（<date when='XXXX-12' evidence='year, day'>十二月</date>）<date when='XXXX-XX-13' evidence='year, month'>十三日</date></head>
                             <p>晴、午前<time when='07:30:00' cert='low'>七時半</time>客舎ヲ発シテ汽車場ニ到ル、船本、下里、伊藤、水谷其他地方ノ人々来テ行ヲ送ル、<time when='08:00:00' cert='low'>八時</time>発軔、<time when='09:00:00' cert='low'>九時</time>木曾川南畔北方村ニテ車ヲ下リ、腕車大垣ニ抵ル、道路狭隘頗ル不快ヲ覚フ、午後大垣汽車場ノ京丸屋ニ於テ午餐シ、長浜ヘ達スル汽車ニ搭ス、<time when='01:00:00' cert='low'>一時</time>発車、<time when='02:30:00' cert='low'>二時半</time>長浜ニ抵ル、直ニ大津ニ発スル汽船ニ搭ス、<time when='03:00:00' cert='low'>三時</time>前船長浜ヲ解纜ス小林藤太郎、小使一人ハ敦賀ヲ経テ金沢ニ赴クカ為メ長浜ニテ分手ス此日、朝来美晴亦微風ナシ、恰モ小春ノ候アリ、湖上風ナク航行快駃四望淡靄山ヲ籠メテ而シテ北方諸山ハ皆積雪夕陽ニ映ス、湖面油ノ如ク軽帆細漣ノ間ニ漾泳ス、真ニ佳景ト云フヘシ
                                 午後<time when='07:00:00' cert='low'>七時</time>、船大津ニ着ス、神戸店田中元三郎来迎フ、西京店三木安三郎ハ親戚ニ婚儀アルカ為メニ来ラス、大津小林楼ニ於テ小憩シ、腕車西京ニ赴ク、夜<time when='09:00:00' cert='low'>九時</time>過、木屋町松力楼ニ安着ス、西京支店ノ人、交来テ安着ヲ祝ス
                                 大倉氏西京ニ在テ来訪ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10007m-7">
-                            <head>（<date when='XXXX-12' evidence='year, day'>十二月</date>）十<date when='XXXX-XX-04' evidence='year, month'>四日</date></head>
-                            <p>雨、朝、三井銀行浅井氏、中井三郎兵衛、山岸嘉蔵等来テ織物会社創立ノ事ヲ談ス、荒川新一郎氏来ル、織物会社ニ関スル書類調査ノ事ヲ托シ、且来ル十<date when='XXXX-XX-06' evidence='year, month'>六日</date>午後地方発起者ト会合談話ノ事ヲ約ス、高木斎造来ル、同シク織物会社ノ事ヲ談ス、稲畑勝太郎来ル、大坂店熊谷来訪ス、神戸店田中ハ来ル十七<date when='XXXX-XX-08' evidence='year, month'>八日</date>頃同地ヘ巡回ノ事ヲ約シテ帰店ス、<date when='XXXX-XX-04' evidence='year, month'>四日</date>市支店営業ノ見込ヲ八巻ニ細説ス
+                            <head>（<date when='XXXX-12' evidence='year, day'>十二月</date>）<date when='XXXX-XX-14' evidence='year, month'>十四日</date></head>
+                            <p>雨、朝、三井銀行浅井氏、中井三郎兵衛、山岸嘉蔵等来テ織物会社創立ノ事ヲ談ス、荒川新一郎氏来ル、織物会社ニ関スル書類調査ノ事ヲ托シ、且来ル<date when='XXXX-XX-16' evidence='year, month'>十六日</date>午後地方発起者ト会合談話ノ事ヲ約ス、高木斎造来ル、同シク織物会社ノ事ヲ談ス、稲畑勝太郎来ル、大坂店熊谷来訪ス、神戸店田中ハ来ル十七<date when='XXXX-XX-08' evidence='year, month'>八日</date>頃同地ヘ巡回ノ事ヲ約シテ帰店ス、四日市支店営業ノ見込ヲ八巻ニ細説ス
                                 東京佐々木ヘ郵書ヲ発シテ、稲畑氏ヨリ借リ置キタル染物ノ見本逓送ノ事ヲ書通ス ★★B1065★
                                 陸奥宗光氏ヘ一書ヲ送リテ、第二銀行増株ノ事ニ付、原善三郎氏ニ於テ仲裁ヲ諾セサルニ付、此取扱ヲ謝絶ノ旨ヲ通知ス
                                 午後<time when='05:00:00' cert='low'>五時</time>、一力楼ノ宴会ニ赴シ《（ク）》、蓋シ大倉氏疎水工事ヲ引受ケタルニ付、京都府知事及其吏員ヲ招請開宴スルモノナリ、坐間北垣府知事ト織物会社創立ノ事ヲ話ス
@@ -2405,7 +2405,7 @@
                             <p>晴、三井高朗氏来訪、中井三平氏来ル、<time when='10:00:00' cert='low'>十時</time>三木安三郎ヲ伴ヒ北垣府知事ヲ訪フ、尾越書記官、荒川新一郎、浜岡光哲、板原等来会ス、午餐中織物会社創立ノ事ヲ談話ス、午後<time when='03:00:00' cert='low'>三時</time>三井氏ノ招ニ応シテ四条橋ノ劇ヲ観ル、後、井筒楼ニ夜餐ス、劇場大倉氏、磯野氏ニ会話ス、夜大倉氏ヲ万東楼ニ訪フ</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10007m-9">
-                            <head>（<date when='XXXX-12' evidence='year, day'>十二月</date>）十<date when='XXXX-XX-06' evidence='year, month'>六日</date></head>
+                            <head>（<date when='XXXX-12' evidence='year, day'>十二月</date>）<date when='XXXX-XX-16' evidence='year, month'>十六日</date></head>
                             <p>晴、朝、中井三平来テ井口新三郎ノ事ヲ話ス、中井三郎兵衛、山岸嘉蔵来テ織物会社ノ事ヲ話ス、近藤徳太郎氏来話ス、大倉喜八郎氏来ル午後<time when='02:00:00' cert='low'>二時</time>支店ニ抵リ行務ヲ視ル、午後<time when='03:30:00' cert='low'>三時半</time>木屋町池亀楼ニ抵ル、蓋シ織物会社創立ノ為、地方同志者ト集会ノ約アルニ依ル、此日、会同スル者三十三人、会社創設ノ要領ヲ議定ス
                                 午後<time when='07:00:00' cert='low'>七時</time>去テ河東大嘉楼ニ小酌ス、大坂紡績会社山辺、蒲田二氏来ル熊谷、三木二氏モ織物会社創設ノ集会ヲ散シテ来会ス、夜<time when='12:00:00' cert='low'>十二時</time>帰寓寝ニ就ク</p>
                         </div>
@@ -2435,7 +2435,7 @@
                     <head>○後部覚書</head>
                         <div type="note" xml:id="DKB10007m-13">
                         <p>亀井戸観梅 池塘雨過緑参差。傍水多看売酒家。 春暖菅公祠畔路。好携女伴探梅花。 　　　　杉田観梅 幽禽声断寂春山。行到渓流凸凹間。
-                            一路清風香馥郁。梅花只作白雲看。 　　　　春日遊江島 一邱一壑足幽情。嵐翠煙波<date when='XXXX-XX-03' evidence='year, month'>三日</date>程。 休怪帰遺多好句。慈游奇絶冠平生。
+                            一路清風香馥郁。梅花只作白雲看。 　　　　春日遊江島 一邱一壑足幽情。嵐翠煙波三日程。 休怪帰遺多好句。慈游奇絶冠平生。
                             　　　　題大倉氏巡欧貿易意見書 論理縦横意有余。精神只向此篇舒。 賈生当日治安策。輸与君家一巻書。 ★★B1067★
                             通商可講販鬻昌。起工開場豈無方。 従来権勢縁民力。未必文明果富強。 　　　　曖依村荘偶成 李白桃紅映窓紗。小院午閑細雨斜。
                             好是泥濘妨行楽。軽寒数日護残花。 　　　　仙石原矚目 雨洗峰巒緑樹新。原頭矚目総清真。 最怡淡靄指蓮岳。猶見軽紗隔美人。
@@ -2496,7 +2496,7 @@
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-8">
                             <head><date when='XXXX-01-08' evidence='year'>一月八日</date></head>
-                            <p>快晴、昨日ニ引替ヘテ春喧ノ候ノ如シ、午前<time when='10:00:00' cert='low'>十時</time>山県侯爵来ル、偶雨夜譚ヲ浄書シ居リタルニヨリ其序文ヲ侯ニ示シ且往事ノ履歴ヲ話ス、尋テ興山公ノ事ヲ詳話シ其伝記編纂ノ挙ヲ告ク、侯ハ大ニ之ヲ賛成セラル、東京商業会議所小崎懋氏来ル、臨時会議ヲ開クノ請求書会員ヨリ申出テタルニヨル、依テ来十<date when='XXXX-XX-01' evidence='year, month'>一日</date>ニ役員会ヲ開キ十<date when='XXXX-XX-03' evidence='year, month'>三日</date>午後臨時会ヲ開クヘキ旨ヲ示ス、午後梅浦精一氏夫人トモ来訪ス、石川島造船所株主総会ニ於テ増資案提出ニ付テノ事ヲ商議ス、西村勝三氏来ル、八十島親徳ヨリ書状来ル、モールスヨリノ来書ヲ報シ来ル
+                            <p>快晴、昨日ニ引替ヘテ春喧ノ候ノ如シ、午前<time when='10:00:00' cert='low'>十時</time>山県侯爵来ル、偶雨夜譚ヲ浄書シ居リタルニヨリ其序文ヲ侯ニ示シ且往事ノ履歴ヲ話ス、尋テ興山公ノ事ヲ詳話シ其伝記編纂ノ挙ヲ告ク、侯ハ大ニ之ヲ賛成セラル、東京商業会議所小崎懋氏来ル、臨時会議ヲ開クノ請求書会員ヨリ申出テタルニヨル、依テ来<date when='XXXX-XX-11' evidence='year, month'>十一日</date>ニ役員会ヲ開キ<date when='XXXX-XX-13' evidence='year, month'>十三日</date>午後臨時会ヲ開クヘキ旨ヲ示ス、午後梅浦精一氏夫人トモ来訪ス、石川島造船所株主総会ニ於テ増資案提出ニ付テノ事ヲ商議ス、西村勝三氏来ル、八十島親徳ヨリ書状来ル、モールスヨリノ来書ヲ報シ来ル
                                 三重紡績会社ヘ書状ヲ発シ総会ノ委任状ヲ送ル</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-9">
@@ -2590,7 +2590,7 @@
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-28">
                             <head><date when='XXXX-01-28' evidence='year'>一月廿八日</date></head>
-                            <p>少曇寒甚シ、朝<time when='10:00:00' cert='low'>十時</time>モールス氏来ル、外務省雇米人テニソン氏来ル、蓋シ京仁鉄道譲渡ノ件ニ付今日ヲ以テ会合スヘキ約アルニヨル、益田孝、足立太郎来会セシニヨリ取引ニ関スル協議ヲ為セシモ、横浜正金銀行ヘノ返金モールスヨリ借入タル金額三十<date when='XXXX-XX-01' evidence='year, month'>一日</date>ナラデハ終了シ得サルニヨリ、同日ヲ以テ決算スル事ヲ約シテ諸氏退散ス
+                            <p>少曇寒甚シ、朝<time when='10:00:00' cert='low'>十時</time>モールス氏来ル、外務省雇米人テニソン氏来ル、蓋シ京仁鉄道譲渡ノ件ニ付今日ヲ以テ会合スヘキ約アルニヨル、益田孝、足立太郎来会セシニヨリ取引ニ関スル協議ヲ為セシモ、横浜正金銀行ヘノ返金モールスヨリ借入タル金額三<date when='XXXX-XX-11' evidence='year, month'>十一日</date>ナラデハ終了シ得サルニヨリ、同日ヲ以テ決算スル事ヲ約シテ諸氏退散ス
                                 モールス去テ後、益田、足立氏ト京仁鉄道将来ノ取扱ヲ協議ス、午後前島氏来ル、依テモールス氏ト談話ノ手続ヲ示ス
                                 午後銀行ニ於テ寸時間行務ヲ視ル、<time when='02:00:00' cert='low'>二時</time>過麻布井上伯邸ヲ訪フ、三井高保、益田孝、同克徳、同英作、朝吹英二、杉孫七郎其他数氏来会ス蓋シ一品会ト唱フル会同ニシテ、各品珍蔵一品ノ名器ヲ携ヒテ其優劣ヲ競ヒ美術ヲ話スルノ讌会ナリ、主人伯爵自ラ客ヲ誘引シ周旋甚タ勉ム、且其割烹ノ如キモ皆自身之ヲ指揮シテ調理頗ル佳ナリ、夜<time when='10:00:00' cert='low'>十時</time>散会帰宅ス、此夜兜町ニ福引ノ会アリ、更深テ散ス</p>
                         </div>
@@ -2653,7 +2653,7 @@
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-41">
                             <head><date when='XXXX-02-10' evidence='year'>二月十日</date></head>
-                            <p>晴、朝数多ノ来人ニ接ス、<time when='12:00:00' cert='low'>十二時</time>偕楽園ニ於テ帽子会社株主総会ニ列ス、午後<time when='02:00:00' cert='low'>二時</time>貴族院ニ至リテ芳川逓相ニ東京海上保険会社ヘ下付金ノ事ヲ請願ス、午後<time when='04:00:00' cert='low'>四時</time>帝国ホテルニ於テ伊藤侯爵ヲ訪フ、十<date when='XXXX-XX-04' evidence='year, month'>四日</date>集会ノ事、外ニ徳川一位公御身上ノ事ヲ話ス、午後<time when='07:00:00' cert='low'>七時</time>日本倶楽部ニ抵リ委員会ニ列ス、夜<time when='08:00:00' cert='low'>八時</time>浜町ニ帰宿ス</p>
+                            <p>晴、朝数多ノ来人ニ接ス、<time when='12:00:00' cert='low'>十二時</time>偕楽園ニ於テ帽子会社株主総会ニ列ス、午後<time when='02:00:00' cert='low'>二時</time>貴族院ニ至リテ芳川逓相ニ東京海上保険会社ヘ下付金ノ事ヲ請願ス、午後<time when='04:00:00' cert='low'>四時</time>帝国ホテルニ於テ伊藤侯爵ヲ訪フ、<date when='XXXX-XX-14' evidence='year, month'>十四日</date>集会ノ事、外ニ徳川一位公御身上ノ事ヲ話ス、午後<time when='07:00:00' cert='low'>七時</time>日本倶楽部ニ抵リ委員会ニ列ス、夜<time when='08:00:00' cert='low'>八時</time>浜町ニ帰宿ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-42">
                             <head><date when='XXXX-02-11' evidence='year'>二月十一日</date></head>
@@ -2760,7 +2760,7 @@
                             <head><date when='XXXX-02-08' evidence='year'>二月八日</date>《（<date when='XXXX-03' evidence='year, day'>三月</date>）》</head>
                             <p>晴、午前谷敬三来ル、<time when='10:00:00' cert='low'>十時</time>商業会議所ニ於テ役員会ヲ開ク、新築ノ事米国費府ニ開設スル商品陳列館ノ事其他数件ヲ議決ス、午後農商務省ニ於テ木内局長、佐藤顕理氏ト費府陳列館ノ事ヲ談ス、午後<time when='02:00:00' cert='low'>二時</time>日本郵船会社ニ抵リ特定航路ノ事ヲ談ス、帰路警視庁ニ於テ主事鈴木氏ニ面会シテ人造肥料会社硫酸製造所建築ノ事ヲ請求ス、午後<time when='03:00:00' cert='low'>三時</time>銀行ニ出勤シテ事務ヲ視ル、大坂佐々木氏ニ電報ヲ発ス
                                 午後<time when='01:00:00' cert='low'>一時</time>平井晴次郎氏商業会議所ニ来リ、京仁鉄道技師ノ事ヲ話ス
-                                夕方兜町ニ帰宅ス、此夜大坂佐々木勇之助氏ヨリ回電アリ、来十<date when='XXXX-XX-01' evidence='year, month'>一日</date>帰京ノ事報シ来ル</p>
+                                夕方兜町ニ帰宅ス、此夜大坂佐々木勇之助氏ヨリ回電アリ、来<date when='XXXX-XX-11' evidence='year, month'>十一日</date>帰京ノ事報シ来ル</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-68">
                             <head><date when='XXXX-03-09' evidence='year'>三月九日</date></head>
@@ -2773,7 +2773,7 @@
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-70">
                             <head><date when='XXXX-03-11' evidence='year'>三月十一日</date></head>
-                            <p>曇、午前足立太郎、吉川三次郎氏等来ル、渋沢喜作来ル、中央新聞記者来ル、商業学校ノ沿革ヲ談話ス、午後銀行ニ於テ事務ヲ視ル、<time when='02:00:00' cert='low'>二時</time>商業会議所新築ヲ一覧ス、妻木頼黄、萩原源太郎、南須原巻五郎其他技手数名来会ス、午後<time when='04:00:00' cert='low'>四時</time>海上保険会社ニ於テ倫敦ヨリ来着セル各務謙吉《（各務鎌吉）》ノ来書及会社支店存廃ニ関スル意見書ヲ一読シ、来ル十<date when='XXXX-XX-04' evidence='year, month'>四日</date>ヲ以テ重役会ヲ開ク事ヲ約ス、午後<time when='05:00:00' cert='low'>五時</time>過日本倶楽部ニ抵リ近衛公爵欧米漫遊ノ送別会ヲ開ク、食卓上送別ノ辞ヲ演説ス、夜<time when='09:00:00' cert='low'>九時</time>兜町ニ帰宿ス此夜風雪強ク寒甚シ</p>
+                            <p>曇、午前足立太郎、吉川三次郎氏等来ル、渋沢喜作来ル、中央新聞記者来ル、商業学校ノ沿革ヲ談話ス、午後銀行ニ於テ事務ヲ視ル、<time when='02:00:00' cert='low'>二時</time>商業会議所新築ヲ一覧ス、妻木頼黄、萩原源太郎、南須原巻五郎其他技手数名来会ス、午後<time when='04:00:00' cert='low'>四時</time>海上保険会社ニ於テ倫敦ヨリ来着セル各務謙吉《（各務鎌吉）》ノ来書及会社支店存廃ニ関スル意見書ヲ一読シ、来ル<date when='XXXX-XX-14' evidence='year, month'>十四日</date>ヲ以テ重役会ヲ開ク事ヲ約ス、午後<time when='05:00:00' cert='low'>五時</time>過日本倶楽部ニ抵リ近衛公爵欧米漫遊ノ送別会ヲ開ク、食卓上送別ノ辞ヲ演説ス、夜<time when='09:00:00' cert='low'>九時</time>兜町ニ帰宿ス此夜風雪強ク寒甚シ</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-71">
                             <head><date when='XXXX-03-12' evidence='year'>三月十二日</date></head>
@@ -2945,7 +2945,7 @@
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-111">
                             <head><date when='XXXX-04-21' evidence='year'>四月二十一日</date></head>
-                            <p>曇、朝深川宅ニテ撮影ス、<date when='XXXX-XX-04' evidence='year, month'>四日</date>市支店荒井栄蔵来ル、午前第一銀行ニ於テ事務ヲ視ル、午後<time when='02:00:00' cert='low'>二時</time>東京座ニ抵リ養育院慈善会ニ出席ス、<time when='05:00:00' cert='low'>五時</time>紅葉館ニ抵リ横浜正金銀行ノ招宴ニ列ス、夜<time when='09:00:00' cert='low'>九時</time>過木挽町梅浦氏ヲ訪フ、<time when='12:00:00' cert='low'>十二時</time>兜町ニ帰宿ス、此夜大雨</p>
+                            <p>曇、朝深川宅ニテ撮影ス、四日市支店荒井栄蔵来ル、午前第一銀行ニ於テ事務ヲ視ル、午後<time when='02:00:00' cert='low'>二時</time>東京座ニ抵リ養育院慈善会ニ出席ス、<time when='05:00:00' cert='low'>五時</time>紅葉館ニ抵リ横浜正金銀行ノ招宴ニ列ス、夜<time when='09:00:00' cert='low'>九時</time>過木挽町梅浦氏ヲ訪フ、<time when='12:00:00' cert='low'>十二時</time>兜町ニ帰宿ス、此夜大雨</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-112">
                             <head><date when='XXXX-04-22' evidence='year'>四月二十二日</date></head>
@@ -3416,7 +3416,7 @@
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-226">
                             <head><date when='XXXX-08-13' evidence='year'>八月十三日</date></head>
-                            <p>晴、昨日ト同シク海水浴後読書遊戯ニ消閑ス 　　　○右十<date when='XXXX-XX-03' evidence='year, month'>三日</date>ハ日付、記事共ニ重複セリ。</p>
+                            <p>晴、昨日ト同シク海水浴後読書遊戯ニ消閑ス 　　　○右<date when='XXXX-XX-13' evidence='year, month'>十三日</date>ハ日付、記事共ニ重複セリ。</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-227">
                             <head><date when='XXXX-08-14' evidence='year'>八月十四日</date></head>
@@ -3452,7 +3452,7 @@
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-235">
                             <head><date when='XXXX-08-22' evidence='year'>八月二十二日</date></head>
-                            <p>晴、午前浅野総一郎氏来話ス、午後時事新報記者矢野由次郎来ル、九州鉄道会社ノ事ニ関シ意見ヲ詢ハル、依テ其要領ヲ説話ス、蓋シ其新聞紙ニ記載スルカ為メナリ、古西為之助来ル、氏ハ曾テ石川島造船所電気技師ニ任セシ人ナリ、電気事業ノ拡張ニ関スル意見ヲ述フ、且、目下、氏ハ京都大学ニ入リテ更ニ研究スル所アル由ナリ、夕方大熊氏広氏来ル、故有栖川宮殿下銅像ノ事ヲ話ス、午後<time when='05:00:00' cert='low'>五時</time>岩崎久弥氏来ル九州鉄道会社ノ事ニ付テ来ル廿<date when='XXXX-XX-04' evidence='year, month'>四日</date>ヲ以テ深川別邸ニ小集ヲ開クニ付来会ノ事ヲ請求セラル、依テ其出席ヲ約ス</p>
+                            <p>晴、午前浅野総一郎氏来話ス、午後時事新報記者矢野由次郎来ル、九州鉄道会社ノ事ニ関シ意見ヲ詢ハル、依テ其要領ヲ説話ス、蓋シ其新聞紙ニ記載スルカ為メナリ、古西為之助来ル、氏ハ曾テ石川島造船所電気技師ニ任セシ人ナリ、電気事業ノ拡張ニ関スル意見ヲ述フ、且、目下、氏ハ京都大学ニ入リテ更ニ研究スル所アル由ナリ、夕方大熊氏広氏来ル、故有栖川宮殿下銅像ノ事ヲ話ス、午後<time when='05:00:00' cert='low'>五時</time>岩崎久弥氏来ル九州鉄道会社ノ事ニ付テ来ル<date when='XXXX-XX-24' evidence='year, month'>廿四日</date>ヲ以テ深川別邸ニ小集ヲ開クニ付来会ノ事ヲ請求セラル、依テ其出席ヲ約ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-236">
                             <head><date when='XXXX-08-23' evidence='year'>八月二十三日</date></head>
@@ -3742,7 +3742,7 @@
                             <p>曇、午前北垣国道氏来ル、梅浦精一氏来ル、荒木民三郎来ル、石川島造船所ノ事ヲ話ス、京坂鉄道会社創立委員会ヲ開ク、加東徳三、河村★★B1109★隆実、林策一郎、岡部広、木村総介来ル、午後東京市役所ニ於テ参事会ヲ開ク、市街鉄道ノ議アリシモ決定ニ至ラス、<date when='XXXX-11-02' evidence='year'>十一月二日</date>ヲ約シテ散会ス、午後<time when='05:00:00' cert='low'>五時</time>兜町ニ帰宿、此夜免囚人保護事務ニ関シ清浦、土方北垣、岡部長職、小川滋次郎、島田三郎、三好退蔵ノ諸氏来会ス、原胤昭ヨリ従来ノ経歴ト将来ノ企望トヲ陳述セラレ、種々討議ノ末三好小川ノ両氏ニ於テ一案ヲ調成シ、他日更ニ一会ヲ開クヘキニ決ス、安藤太郎、丹羽清次郎、留岡幸助氏等来会ス、丹羽氏ヨリ米国青年会ノ景況及慈善事業視察ノ要領ヲ演説セラレ各処ノ実況ヲ報告ス、畢テ養育院安達憲忠、山本徳尚氏等来会シテ養育院ノ現況ヲ幻灯ニ影写シテ来会ノ人ニ説明ス、頗ル諸氏ノ感情ヲ喚起スルモノヽ如シ、夜十<time when='01:00:00' cert='low'>一時</time>散会ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-306">
-                            <head>十<date when='XXXX-01-01' evidence='year'>一月一日</date></head>
+                            <head><date when='XXXX-11-01' evidence='year'>十一月一日</date></head>
                             <p>雨、朝来人ニ接シ、午後銀行ニ出勤シテ事務ヲ視ル、<time when='01:00:00' cert='low'>一時</time>参謀本部ニ抵リ大山大将ニ面会シテ有栖川故大将ノ銅像ノ事ヲ話ス、更ニ大生大佐ニ面会シテ京坂鉄道線路ニ係ル大坂鎮台ノ土地衛戍病院輜重兵営ノ事ヲ談話ス、午後<time when='03:00:00' cert='low'>三時</time>霊南坂伊藤侯爵ヲ訪フテ日清銀行ノ事ヲ内話ス日本郵船会社重役会ニ列ス、<time when='06:00:00' cert='low'>六時</time>築地香雪軒ニ於テ催ス処ノ経新倶楽部ニ参席ス、有賀長雄氏平和会議ニ関スル見聞ノ要領ヲ演説ス、早川千吉郎氏英国ニテ募集セシ壱千万磅公債ノ募集手続ヲ演説ス、何レモ実況ヲ叙述セラレテ頗ル聴衆ヲ喜ハシメタリ、夜<time when='10:00:00' cert='low'>十時</time>浜町ニ帰宿ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-307">
@@ -3821,7 +3821,7 @@
                             <p>晴、午前東京商業会議所建築要覧ヲ揮毫シテ萩原氏ニ送ル、阪谷芳郎ニ書状ヲ送リテ鉄道国有ニ関スル石黒氏ノ意見ヲ転致ス、京釜鉄道ノ事ヲ書送ス、市街鉄道ニ関シ曾テ市役所ニ於テ縷述セシ筆記ノ事ヲ八十島ニ命ス、佐々木勇之助氏ニ一書ヲ送ル、午後<time when='02:00:00' cert='low'>二時</time>新宿禁苑ニ於テ催ス処ノ曾根氏菊花観覧会《（曾禰）》ニ赴ク、<time when='03:25:00' cert='low'>三時二十五分</time>新橋発ノ汽車ニテ大磯ニ抵ル、伊藤侯、松本壮一郎《（松本荘一郎）》、長谷川一彦諸氏同車ス、<time when='05:30:00' cert='low'>五時半</time>大磯ニ着ス、長生館ニ投宿ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-325">
-                            <head>十<date when='XXXX-01-20' evidence='year'>一月二十日</date></head>
+                            <head><date when='XXXX-11-20' evidence='year'>十一月二十日</date></head>
                             <p>晴、此日ハ大磯ニ滞留セシヲ以テ別ニ記事ナシ、終日散歩又ハ雑話遊戯等ニ消閑ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-326">
@@ -3861,10 +3861,10 @@
                             <p>晴、午前数多ノ来人ニ接ス、午後郵船会社重役会ニ列ス、<time when='04:00:00' cert='low'>四時</time>兜町ニ帰ル、此夜兜町宅ニ於テ親族会ヲ開ク、阪谷夫婦、穂積歌子、深川宅ヨリ敦子等来会ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-335">
-                            <head>十<date when='XXXX-01-30' evidence='year'>一月三十日</date></head>
+                            <head><date when='XXXX-11-30' evidence='year'>十一月三十日</date></head>
                             <p>晴、午前<time when='10:00:00' cert='low'>十時</time>海上保険会社重役会ニ列ス、畢テ第一銀行ニ出勤ス、午後<time when='04:00:00' cert='low'>四時</time>麻布井上伯ノ招宴ニ赴ク、夜<time when='12:00:00' cert='low'>十二時</time>深川宅ヘ帰宿ス
-                                　　　○追記。<date when='XXXX-12-01' evidence='year'>十二月一日</date>記入。
-                                　麻布井上伯ノ銅像ヲ製シ、其庭中ニ一宇ヲ築キ之ヲ安置スルノ挙ハ伯ノ親友相会シテ昨年来其工ヲ起セシカ、今年十<date when='XXXX-01' evidence='year, day'>一月</date>竣工セシニ付一昨日之《（昨脱）》ヲ開ク為ニ園遊会ヲ催シテ其知人ヲ会セリ、時ニ伯ハ左ノ狂歌ヲ作リタルヲ以テ、昨三<date when='XXXX-XX-10' evidence='year, month'>十日</date>ノ宴会ニ於テ更ニ之ニ応スルノ意ヲ以テ一首ノ狂歌ヲ以テセリ
+                                　　　○追記。<date when='XXXX-12' evidence='year, day'>十二月</date>一日記入。
+                                　麻布井上伯ノ銅像ヲ製シ、其庭中ニ一宇ヲ築キ之ヲ安置スルノ挙ハ伯ノ親友相会シテ昨年来其工ヲ起セシカ、今年十<date when='XXXX-01' evidence='year, day'>一月</date>竣工セシニ付一昨日之《（昨脱）》ヲ開ク為ニ園遊会ヲ催シテ其知人ヲ会セリ、時ニ伯ハ左ノ狂歌ヲ作リタルヲ以テ、昨<date when='XXXX-XX-30' evidence='year, month'>三十日</date>ノ宴会ニ於テ更ニ之ニ応スルノ意ヲ以テ一首ノ狂歌ヲ以テセリ
                                 　　　伯ノ狂歌 　　因縁ノ深イ同志ノ御情デ尚此娑婆ニ銅像千年 　　　井上伯の戯にものせられし御歌の御かへしにとて
                                 　　御寿命を銅像千とせと願へつる《（ひ）》祝ひにそへし家名ハ万年</p>
                         </div>
@@ -3894,7 +3894,7 @@
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-342">
                             <head><date when='XXXX-12-07' evidence='year'>十二月七日</date></head>
-                            <p>雨、午前<time when='10:00:00' cert='low'>十時</time>麻布井上伯ヲ訪ヒ十<date when='XXXX-XX-01' evidence='year, month'>一日</date>三井倶楽部ニ於テ催スヘキ集会ノ事ヲ話ス、東京市役所ニ抵リテ養育院ノ事ヲ談ス、午後<time when='01:00:00' cert='low'>一時</time>銀行ニ於テ重役会ヲ開ク、<time when='03:00:00' cert='low'>三時</time>向柳原松浦伯邸ニ茶事ニ招宴セラル、接待頗ル鄭重ナリ、夜<time when='09:00:00' cert='low'>九時</time>頃兜町ニ帰宿ス</p>
+                            <p>雨、午前<time when='10:00:00' cert='low'>十時</time>麻布井上伯ヲ訪ヒ<date when='XXXX-XX-11' evidence='year, month'>十一日</date>三井倶楽部ニ於テ催スヘキ集会ノ事ヲ話ス、東京市役所ニ抵リテ養育院ノ事ヲ談ス、午後<time when='01:00:00' cert='low'>一時</time>銀行ニ於テ重役会ヲ開ク、<time when='03:00:00' cert='low'>三時</time>向柳原松浦伯邸ニ茶事ニ招宴セラル、接待頗ル鄭重ナリ、夜<time when='09:00:00' cert='low'>九時</time>頃兜町ニ帰宿ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-343">
                             <head><date when='XXXX-12-08' evidence='year'>十二月八日</date></head>
@@ -3945,7 +3945,7 @@
                             <p>曇、午前海辺ヲ散歩シ、午後<time when='03:20:00' cert='low'>三時二十分</time>大磯発ノ汽車ニテ帰京ス、<time when='06:00:00' cert='low'>六時</time>山谷八百善楼ニテ開キタル台湾鉄道会社ノ宴会ニ列ス、西郷侯爵、高島子、清浦氏、岡部長職、堀田正養、小野、河村、松木ノ諸氏来会ス、夜<time when='09:00:00' cert='low'>九時</time>浜町宅ニ帰宿ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-355">
-                            <head>十<date when='XXXX-02-20' evidence='year'>二月二十日</date></head>
+                            <head><date when='XXXX-12-20' evidence='year'>十二月二十日</date></head>
                             <p>曇、午前第一銀行ニ出勤ス、午後<time when='04:00:00' cert='low'>四時</time>ノ汽車ニテ横浜ニ抵リ長谷川一彦氏女子ノ新婚ノ儀席ニ列ス、夜<time when='10:00:00' cert='low'>十時</time>佐々木勇之助氏ト共ニ帰京、兜町ニ帰宿ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-356">
@@ -3969,11 +3969,11 @@
                             <p>晴、午前尾崎、竹内、大江諸氏来ル、京釜鉄道ノ事ヲ談ス、梅浦精一氏来ル、石川島造船所ノ事ヲ話ス、午後<time when='01:00:00' cert='low'>一時</time>磐城炭坑会社株主総会ニ列ス、畢テ陸軍省ニ抵リ野田経理局長ニ面会シテ平沢氏ノ事ヲ話ス、更ニ桂大臣ヲ訪フテ京釜鉄道ノ事ヲ話ス、夜兜町宅ニ帰宿ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-361">
-                            <head>十<date when='XXXX-02-26' evidence='year'>二月二十六日</date></head>
+                            <head><date when='XXXX-12-26' evidence='year'>十二月二十六日</date></head>
                             <p>曇、午前数多ノ来客ニ接ス、午後<time when='01:00:00' cert='low'>一時</time>東京瓦斯会社重役会ニ列ス、<time when='04:00:00' cert='low'>四時</time>根岸益田克徳氏ノ招ニ応シ其邸ニ於テ催ス処ノ歳暮ノ茶事ニ会ス、真野、河崎、山澄三氏ト同伴ス、賓主歓ヲ尽シテ散会ス、夜<time when='09:00:00' cert='low'>九時</time>浜町宅ニ帰宿ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-362">
-                            <head>十<date when='XXXX-02-27' evidence='year'>二月二十七日</date></head>
+                            <head><date when='XXXX-12-27' evidence='year'>十二月二十七日</date></head>
                             <p>晴、午前兜町宅ニ於テ平沢、河村二氏ト会シテ京坂鉄道ノ事ヲ話ス、午後日本郵船会社重役会ニ列ス、石川島造船所重役ノ事ヲ浅田正文氏ニ内話ス、午後<time when='05:00:00' cert='low'>五時</time>有楽町三井集会所ニ於テ催ス処ノ三井同族会ノ忘年会ニ列ス、夜<time when='10:00:00' cert='low'>十時</time>兜町宅ニ帰宿ス</p>
                         </div>
                         <div type="diary-entry" xml:id="DKB10008m-363">

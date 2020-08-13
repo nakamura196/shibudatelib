@@ -4,11 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     渋沢栄一伝記資料別巻第
-     <date evidence="year, month" when="XXXX-XX-02">
-      二日
-     </date>
-     記他のTEIマークアップ
+     渋沢栄一伝記資料別巻第二日記他のTEIマークアップ
     </title>
     <respStmt>
      <resp>
@@ -141,11 +137,7 @@
     <pb xml:id="B1nn0a"/>
     <docTitle>
      <titlePart>
-      澁澤栄一傳記資料別巻第
-      <date evidence="year, month" when="XXXX-XX-02">
-       二日
-      </date>
-      記他
+      澁澤栄一傳記資料別巻第二日記他
      </titlePart>
     </docTitle>
     <byline>
@@ -158,11 +150,7 @@
    <div type="frontispiece" xml:id="DKB20000a">
     <pb xml:id="B2nn1"/>
     <p>
-     渋沢栄
-     <date evidence="year, month" when="XXXX-XX-01">
-      一日
-     </date>
-     記・写本
+     渋沢栄一日記・写本
     </p>
     <figure>
      <ab type="caption">
@@ -210,11 +198,7 @@
    </titlePage>
    <div type="contents" xml:id="DKB10002e">
     <head>
-     渋沢栄一伝記資料別巻第
-     <date evidence="year, month" when="XXXX-XX-02">
-      二日
-     </date>
-     記他 目次
+     渋沢栄一伝記資料別巻第二日記他 目次
     </head>
     <pb xml:id="B2nn"/>
     <pb xml:id="B2n01"/>
@@ -591,13 +575,13 @@
          <date when="1915">
           大正四年
          </date>
-         春陽堂発行新案当用日記紀元二千五百
+         春陽堂発行新案当用日記紀
          <date evidence="year inferenced" when="1915">
-          七十五年
+          元二千五百七十五年
          </date>
-         西暦千九百
+         西暦
          <date evidence="year inferenced" when="1915">
-          十五年
+          千九百十五年
          </date>
          ト円ノ中ニ印刷、兎ノカツトヲ配ス。
         </p>
@@ -778,9 +762,9 @@
            <event>
             <desc>
              <time when="11:00:00">
-              午前十
-              <time cert="low" when="01:00:00">
-               一時
+              午前
+              <time cert="low" when="11:00:00">
+               十一時
               </time>
              </time>
              帝国劇場役員会（中央亭）
@@ -866,7 +850,11 @@
               五時
              </time>
             </time>
-            東照宮三百年奉斎会（華族会館）
+            東照宮
+            <date evidence="year inferenced" when="1915">
+             三百年
+            </date>
+            奉斎会（華族会館）
            </p>
           </div4>
          </div3>
@@ -882,9 +870,9 @@
           <div4>
            <p>
             <time when="11:00:00">
-             午前十
-             <time cert="low" when="01:00:00">
-              一時
+             午前
+             <time cert="low" when="11:00:00">
+              十一時
              </time>
             </time>
             堀切善兵衛氏来約（兜町）
@@ -921,9 +909,8 @@
          <div3 xml:id="DKB20015m-5">
           <head>
            <date when="1913-12-21">
-            廿
-            <date evidence="year inferenced, month" when="1915-XX-01">
-             一日
+            <date evidence="year inferenced, month" when="1915-XX-21">
+             廿一日
             </date>
             （日）
            </date>
@@ -960,9 +947,8 @@
          <div3 xml:id="DKB20015m-6">
           <head>
            <date when="1913-12-22">
-            廿
-            <date evidence="year inferenced, month" when="1915-XX-02">
-             二日
+            <date evidence="year inferenced, month" when="1915-XX-22">
+             廿二日
             </date>
             （月）
            </date>
@@ -1099,9 +1085,9 @@
            </p>
            <p>
             <time when="11:00:00">
-             午前十
-             <time cert="low" when="01:00:00">
-              一時
+             午前
+             <time cert="low" when="11:00:00">
+              十一時
              </time>
             </time>
             神社奉祠会《（祀）》ノ件（内山下町内相官邸）

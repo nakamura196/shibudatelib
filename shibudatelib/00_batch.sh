@@ -1,4 +1,4 @@
-FILENAME="DKB01"
+FILENAME="20210122DKB02_schedule_ino"
 python 01_test_unit.py data/${FILENAME}.xml
 python 02_custom_when.py data/${FILENAME}.xml_inf.xml
 python 03_custom_time.py data/${FILENAME}.xml_inf.xml_custom_when.xml

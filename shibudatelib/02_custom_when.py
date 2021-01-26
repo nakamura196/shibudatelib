@@ -54,11 +54,15 @@ for i in range(len(entries)):
             if renzokuFlg:
 
                 date1 = date_array[0]
-
                 date2 = date_array[1]
 
-                date2["when"] = date1["when"]
-                date2["type"] = "旧暦"
+                if date1["when"] < date2["when"]:
+                    date2["when"] = date1["when"]
+                    date2["type"] = "旧暦"
+                else:
+                    date1["when"] = date2["when"]
+                    date1["type"] = "旧暦"
+                
 
 html = soup.prettify("utf-8")
 with open(output_path, "wb") as file:
